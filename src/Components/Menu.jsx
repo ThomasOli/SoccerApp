@@ -11,7 +11,6 @@ const Menu = ({ children }) => {
   return (
     <Paper
       style={{
-        height: "100vh",
         padding: "16px",
         display: "flex",
         flexDirection: "column",
