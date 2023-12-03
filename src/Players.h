@@ -34,6 +34,8 @@ public:
     string url;
     string current_club_domestic_competition_id;
     string current_club_name;
+    vector<string> gamesWon;
+    vector<string> gamesLost;
 
     // Default constructor
     Player() : player_id(0), current_club_id(0) {}
@@ -80,6 +82,8 @@ public:
         cout << "Player URL: " << url << endl;
         cout << "Current Club Domestic Competition ID: " << current_club_domestic_competition_id << endl;
         cout << "Current Club Name: " << current_club_name << endl;
+        cout << "Total Games won: " << gamesWon.size() << endl;
+        cout << "Total Games Lost: " << gamesLost.size() << endl;
         cout << "---------------------" << endl;
     }
 
@@ -121,4 +125,16 @@ unordered_map<string, Player> readplayersCSV(const string& filename) {
     file.close();
     cout << "Done reading " + filename << endl;
     return players;
+}
+
+//Creates a map of player ids to player codes
+unordered_map<string, string> getPlayerIdsToCodes(const unordered_map<string, Player>& players) {
+    unordered_map<string, string> idsToCodes;
+
+    for (const auto& pair : players) {
+        const Player& player = pair.second;
+        idsToCodes[to_string(player.player_id)] = player.player_code;
+    }
+
+    return idsToCodes;
 }

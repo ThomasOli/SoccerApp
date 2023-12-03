@@ -61,6 +61,16 @@ public:
         }
         return false;
     }
+    //Function to return whether a given club lost the game
+    bool lostGame(string club_id) {
+        if (club_id == home_club_id && home_club_goals < away_club_goals) {
+            return true;
+        }
+        else if (club_id == away_club_id && away_club_goals < home_club_goals) {
+            return true;
+        }
+        return false;
+    }
 };
 
 // Function to read CSV file and create Game objects
@@ -96,4 +106,77 @@ unordered_map<string, Game> readGamesCSV(const string& filename) {
     file.close();
     cout << "Done reading " + filename << endl;
     return games;
+}
+
+unordered_map<string, Game> onlyRecentGames(unordered_map<string, Game> &games) {
+    unordered_map<string, Game> recentGames;
+    for (const auto& game : games) {
+        if (game.second.season == "2023") {
+            recentGames.insert(game);
+        }
+    }
+    return recentGames;
+}
+
+unordered_map<string, Player> readAppearancesCSV(const string& filename, unordered_map<string, Player>& players, unordered_map<string, Game>& games, unordered_map<string,string> &idtocodes) {
+    ifstream file(filename);
+    if (!file.is_open()) {
+        cerr << "Error opening file: " << filename << endl;
+        return players;
+    }
+
+    string line;
+    getline(file, line);  // Skip header line
+    int i = 0; //TODO: delete
+
+    while (getline(file, line)) {
+        istringstream ss(line);
+        string token;
+
+        // Read each column in a line
+        vector<string> appearanceData;
+        while (getline(ss, token, ',')) {
+            appearanceData.push_back(token);
+        }
+
+        // Extract information from the appearanceData vector
+        string appearance_id = appearanceData[0];
+        string game_id = appearanceData[1];
+        string player_id = appearanceData[2];
+        string player_club_id = appearanceData[3];
+        string date = appearanceData[5];
+        string player_code = idtocodes[player_id];
+
+        // Look up the game in the games map
+        auto gameIter = games.find(game_id); //&& idtocodes.find(player_id) != idtocodes.end()
+        if (gameIter != games.end()) {
+            // Check if the player's club won the game
+            if (gameIter->second.wonGame(player_club_id)) {
+                // Update the players' gamesWon vector
+                auto playerIter = players.find(player_code);
+                if (playerIter != players.end()) {
+                    playerIter->second.gamesWon.push_back(game_id);
+                } else {;
+                    //cerr << "Player not found: " << player_code << endl;
+                }
+            }
+            // Check if the player's club lost the game
+            else if (gameIter->second.lostGame(player_club_id)) {
+                // Update the players' gamesWon vector
+                auto playerIter = players.find(player_code);
+                if (playerIter != players.end()) {
+                    playerIter->second.gamesLost.push_back(game_id);
+                } else {;
+                    //cerr << "Player not found: " << player_code << endl;
+                }
+            }
+        } else {
+            cerr << "Game not found: " << game_id << endl;
+        }
+        if (i++ % 50000 == 0) cout << i << endl; //TODO: delete
+    }
+
+    file.close();
+    cout << "Done reading " + filename << endl;
+    return players;
 }
