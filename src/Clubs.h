@@ -21,6 +21,7 @@ public:
     string foreigners_number;
     string foreigners_percentage;
     string national_team_players;
+    
 
     // Default constructor
     Club() {}
