@@ -4,6 +4,7 @@ import Button from "@mui/material/Button";
 import Box from "@mui/material/Box";
 import SearchBar from "./Searchbar";
 import { Typography } from "@mui/material";
+import Selection from "./selection";
 const Menu = ({ children }) => {
   return (
     <Paper
@@ -30,6 +31,8 @@ const Menu = ({ children }) => {
             <br></br>
           <SearchBar></SearchBar>
         </div>
+
+        <Selection></Selection>
 
         <div
           style={{
