@@ -2,6 +2,8 @@
 #include <fstream>
 #include <sstream>
 #include <vector>
+#include <map>
+#include <unordered_map>
 
 using namespace std;
 
@@ -31,6 +33,9 @@ public:
     string current_club_domestic_competition_id;
     string current_club_name;
 
+    // Default constructor
+    Player() : player_id(0), current_club_id(0) {}
+
     // Constructor to initialize Player object
     Player(int id, const string& first, const string& last, const string& playerName,
            int season, int clubId, const string& code, const string& birthCountry,
@@ -48,7 +53,6 @@ public:
           contract_expiration_date(contractExpDate), agent_name(agent), image_url(imageUrl),
           url(playerUrl), current_club_domestic_competition_id(clubCompId),
           current_club_name(clubName) {}
-    // Function to print information about the player
     // Function to print information about the player
     void printPlayerInfo() const {
         cout << "Player ID: " << player_id << endl;
@@ -80,8 +84,8 @@ public:
 };
 
 // Function to read CSV file and create Player objects
-vector<Player> readCSV(const string& filename) {
-    vector<Player> players;
+unordered_map<string, Player> readplayersCSV(const string& filename) {
+    unordered_map<string, Player> players;
 
     ifstream file(filename);
     if (!file.is_open()) {
@@ -109,7 +113,7 @@ vector<Player> readCSV(const string& filename) {
                       playerData[14], playerData[15], playerData[16],
                       playerData[17], playerData[18], playerData[19], playerData[20],
                       playerData[21], playerData[22]);
-        players.push_back(player);
+        players[player.player_code] =  player;
     }
 
     file.close();
@@ -120,12 +124,14 @@ int main() {
     string filename = "football_data/players.csv";
 
     // Read CSV file and create Player objects
-    vector<Player> players = readCSV(filename);
+    unordered_map<string, Player> players= readplayersCSV(filename);
 
+    //Search for any player
+    string a; cin >> a; players[a].printPlayerInfo();
     //For now, print information of each player
-    for (const auto& player : players) {
-        player.printPlayerInfo();
-    }
+    /* for (const auto& player : players) {
+        player.second.printPlayerInfo();
+    } */
 
     return 0;
 }
