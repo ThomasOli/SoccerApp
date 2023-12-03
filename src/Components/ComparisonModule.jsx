@@ -5,13 +5,13 @@ import Box from "@mui/material/Box";
 import SearchBar from "./Searchbar";
 import { Typography } from "@mui/material";
 
-const  timer = () =>{
-    var sec = 0;
-    var timer = setInterval(function(){
-        document.getElementById('safeTimerDisplay').innerHTML='00:'+sec;
-        sec++;
-    }, 1000);
-}
+// const  timer = () =>{
+//     var sec = 0;
+//     var timer = setInterval(function(){
+//         document.getElementById('safeTimerDisplay').innerHTML='00:' + sec;
+//         sec++;
+//     }, 1000);
+// }
 
 
 
@@ -22,11 +22,11 @@ const ComparisonModule = ({ children }) => {
         { camparisonPoint: "Max memory usage (bytes): ", dfsDatapoint: "3141", bfsDatapoint: "41314" },
     ]
 
-    // Similar to componentDidMount and componentDidUpdate:
-    useEffect(() => {
-        // Update the document title using the browser API
-        timer();
-    });
+    // // Similar to componentDidMount and componentDidUpdate:
+    // useEffect(() => {
+    //     // Update the document title using the browser API
+    //     timer();
+    // });
 
     return (
     <Paper
@@ -43,14 +43,13 @@ const ComparisonModule = ({ children }) => {
         <div className="App">
             <table>
                 <thead>
-                    <th></th>
                     <th>DFS</th>
                     <th>BFS</th>
                 </thead>
                 {data.map((val, key) => {
                     return (
                         <tr key={key}>
-                            <p style={{marginRight: 23}}>{val.camparisonPoint}</p>
+                            <td style={{marginRight: 23}}>{val.camparisonPoint}</td>
                             <td>{val.dfsDatapoint}</td>
                             <td>{val.bfsDatapoint}</td>
                         </tr>

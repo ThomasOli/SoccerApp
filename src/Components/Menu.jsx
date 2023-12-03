@@ -5,11 +5,6 @@ import Box from "@mui/material/Box";
 import SearchBar from "./Searchbar";
 
 import { Typography } from "@mui/material";
-<<<<<<< HEAD
-
-=======
-import Selection from "./selection";
->>>>>>> 4c3b1ba0a2d0c8d0a9751e5ece00d0d9ac1415fd
 const Menu = ({ children }) => {
   return (
     <Paper
