@@ -5,13 +5,13 @@ import Box from "@mui/material/Box";
 import SearchBar from "./Searchbar";
 import { Typography } from "@mui/material";
 
-const  timer = () =>{
-    var sec = 0;
-    var timer = setInterval(function(){
-        document.getElementById('safeTimerDisplay').innerHTML='00:' + sec;
-        sec++;
-    }, 1000);
-}
+// const  timer = () =>{
+//     var sec = 0;
+//     var timer = setInterval(function(){
+//         document.getElementById('safeTimerDisplay').innerHTML='00:' + sec;
+//         sec++;
+//     }, 1000);
+// }
 
 const ComparisonModule = ({ children }) => {
     const data = [
@@ -20,11 +20,11 @@ const ComparisonModule = ({ children }) => {
         { camparisonPoint: "Max memory usage (bytes): ", dfsDatapoint: "3141", bfsDatapoint: "41314" },
     ]
 
-    // Similar to componentDidMount and componentDidUpdate:
-    useEffect(() => {
-        // Update the document title using the browser API
-        timer();
-    });
+    // // Similar to componentDidMount and componentDidUpdate:
+    // useEffect(() => {
+    //     // Update the document title using the browser API
+    //     timer();
+    // });
 
     return (
     <Paper
@@ -58,10 +58,10 @@ const ComparisonModule = ({ children }) => {
             </table>
         </div>
 
-        <div id="safeTimer">
+        {/* <div id="safeTimer">
             <h2>Timer</h2>
             <p id="safeTimerDisplay"></p>
-        </div>
+        </div> */}
     </Paper>
   );
 };
