@@ -1,16 +1,16 @@
 import React from 'react';
 import Menu from './Components/Menu';
 import ComparisonModule from './Components/ComparisonModule';
+import Graphs from './Components/GraphView';
 
 const App = () => {
   return (
-    <div style={{ display: 'flex', height: '100vh' }}>
-      <Menu>
-        {/* Your content for the left side goes here */}
-      </Menu>
-      {/* The rest of your application content goes here */}
-      <ComparisonModule children={"children test"}>
-      </ComparisonModule>
+    <div style={{ display: 'flex', flexDirection: 'row', height: '100vh' }}>
+      <Menu />
+      <div style={{ display: 'flex', flexDirection: 'column', flex: 1, justifyContent: 'flex-end' }}>
+        <Graphs style={{ flex: 4 }} />
+        <ComparisonModule children={"children test"} />
+      </div>
     </div>
   );
 };

@@ -31,11 +31,12 @@ const ComparisonModule = ({ children }) => {
     return (
     <Paper
       style={{
-        flex: "0 0 70%",
         height: "96.5vh",
         padding: "16px",
         display: "flex",
-        flexDirection: "column",
+        flexDirection: 'row',
+        justifyContent: 'space-evenly',
+        alignItems: 'center',
       }}
     >
         <h3>Comparison of DFS / BFS Path Finding</h3>

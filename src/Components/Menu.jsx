@@ -3,13 +3,13 @@ import Paper from "@mui/material/Paper";
 import Button from "@mui/material/Button";
 import Box from "@mui/material/Box";
 import SearchBar from "./Searchbar";
-
+import Selection from "./selection";
 import { Typography } from "@mui/material";
 const Menu = ({ children }) => {
   return (
     <Paper
       style={{
-        height: "96.5vh",
+        height: "100vh",
         padding: "16px",
         display: "flex",
         flexDirection: "column",
