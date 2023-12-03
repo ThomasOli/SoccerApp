@@ -14,11 +14,11 @@ int main() {
     players = readAppearancesCSV("football_data/appearances.csv", players, games, idstocodes);
 
     //Search for any player
-    while (true) {string a; cin >> a; players[a].printPlayerInfo();}
+    //while (true) {string a; cin >> a; players[a].printPlayerInfo();}
     //Search for any Club
     string c; cin >> c; clubs[c].printClubInfo();
     //Search for any Game
-    string g; cin >> g; games[g].printGameInfo();
+    while (true) {string g; cin >> g; games[g].printGameInfo();}
     //For now, print information of each player
     /* for (const auto& player : players) {
         player.second.printPlayerInfo();

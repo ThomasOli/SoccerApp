@@ -23,6 +23,9 @@ public:
     string home_club_position;
     string away_club_position;
 
+    vector<Player> losingPlayers;
+    vector<Player> winningPlayers;
+
     // Default constructor
     Game() {}
 
@@ -156,6 +159,7 @@ unordered_map<string, Player> readAppearancesCSV(const string& filename, unorder
                 auto playerIter = players.find(player_code);
                 if (playerIter != players.end()) {
                     playerIter->second.gamesWon.push_back(game_id);
+                    gameIter->second.winningPlayers.push_back(players[player_code]);
                 } else {;
                     //cerr << "Player not found: " << player_code << endl;
                 }
@@ -166,6 +170,7 @@ unordered_map<string, Player> readAppearancesCSV(const string& filename, unorder
                 auto playerIter = players.find(player_code);
                 if (playerIter != players.end()) {
                     playerIter->second.gamesLost.push_back(game_id);
+                    gameIter->second.losingPlayers.push_back(players[player_code]);
                 } else {;
                     //cerr << "Player not found: " << player_code << endl;
                 }
