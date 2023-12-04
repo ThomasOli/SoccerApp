@@ -11,7 +11,7 @@ using namespace std;
 
 class Player {
 public:
-    int player_id;
+    string player_id;
     string first_name;
     string last_name;
     string name;
@@ -38,10 +38,10 @@ public:
     vector<string> gamesLost;
 
     // Default constructor
-    Player() : player_id(0), current_club_id(0) {}
+    Player() : player_id("0"), current_club_id(0) {}
 
     // Constructor to initialize Player object
-    Player(int id, const string& first, const string& last, const string& playerName,
+    Player(const string& id, const string& first, const string& last, const string& playerName,
            int season, int clubId, const string& code, const string& birthCountry,
            const string& birthCity, const string& citizenshipCountry, const string& dob,
            const string& subPos, const string& pos, const string& playerFoot, const string& height,
@@ -113,13 +113,13 @@ unordered_map<string, Player> readplayersCSV(const string& filename) {
         }
 
         // Create Player object and add to vector
-        Player player(stoi(playerData[0]), playerData[1], playerData[2], playerData[3], stoi(playerData[4]),
+        Player player(playerData[0], playerData[1], playerData[2], playerData[3], stoi(playerData[4]),
                       stoi(playerData[5]), playerData[6], playerData[7], playerData[8], playerData[9],
                       playerData[10], playerData[11], playerData[12], playerData[13],
                       playerData[14], playerData[15], playerData[16],
                       playerData[17], playerData[18], playerData[19], playerData[20],
                       playerData[21], playerData[22]);
-        players[player.player_code] =  player;
+        players[player.player_id] =  player;
     }
 
     file.close();
@@ -127,14 +127,14 @@ unordered_map<string, Player> readplayersCSV(const string& filename) {
     return players;
 }
 
-//Creates a map of player ids to player codes
-unordered_map<string, string> getPlayerIdsToCodes(const unordered_map<string, Player>& players) {
-    unordered_map<string, string> idsToCodes;
+//Creates a map of player codes to player ids
+unordered_map<string, string> getPlayercodesToIds(const unordered_map<string, Player>& players) {
+    unordered_map<string, string> codesToIds;
 
     for (const auto& pair : players) {
         const Player& player = pair.second;
-        idsToCodes[to_string(player.player_id)] = player.player_code;
+        codesToIds[player.player_code] = player.player_id;
     }
 
-    return idsToCodes;
+    return codesToIds;
 }

@@ -114,14 +114,14 @@ unordered_map<string, Game> readGamesCSV(const string& filename) {
 unordered_map<string, Game> onlyRecentGames(unordered_map<string, Game> &games) {
     unordered_map<string, Game> recentGames;
     for (const auto& game : games) {
-        if (game.second.season == "2023") {
+        if (game.second.season == "2023" || game.second.season == "2022") {
             recentGames.insert(game);
         }
     }
     return recentGames;
 }
 
-unordered_map<string, Player> readAppearancesCSV(const string& filename, unordered_map<string, Player>& players, unordered_map<string, Game>& games, unordered_map<string,string> &idtocodes) {
+unordered_map<string, Player> readAppearancesCSV(const string& filename, unordered_map<string, Player>& players, unordered_map<string, Game>& games) {
     ifstream file(filename);
     if (!file.is_open()) {
         cerr << "Error opening file: " << filename << endl;
@@ -148,7 +148,6 @@ unordered_map<string, Player> readAppearancesCSV(const string& filename, unorder
         string player_id = appearanceData[2];
         string player_club_id = appearanceData[3];
         string date = appearanceData[5];
-        string player_code = idtocodes[player_id];
 
         // Look up the game in the games map
         auto gameIter = games.find(game_id); //&& idtocodes.find(player_id) != idtocodes.end()
@@ -156,10 +155,10 @@ unordered_map<string, Player> readAppearancesCSV(const string& filename, unorder
             // Check if the player's club won the game
             if (gameIter->second.wonGame(player_club_id)) {
                 // Update the players' gamesWon vector
-                auto playerIter = players.find(player_code);
+                auto playerIter = players.find(player_id);
                 if (playerIter != players.end()) {
                     playerIter->second.gamesWon.push_back(game_id);
-                    gameIter->second.winningPlayers.push_back(players[player_code]);
+                    gameIter->second.winningPlayers.push_back(players[player_id]);
                 } else {;
                     //cerr << "Player not found: " << player_code << endl;
                 }
@@ -167,10 +166,10 @@ unordered_map<string, Player> readAppearancesCSV(const string& filename, unorder
             // Check if the player's club lost the game
             else if (gameIter->second.lostGame(player_club_id)) {
                 // Update the players' gamesWon vector
-                auto playerIter = players.find(player_code);
+                auto playerIter = players.find(player_id);
                 if (playerIter != players.end()) {
                     playerIter->second.gamesLost.push_back(game_id);
-                    gameIter->second.losingPlayers.push_back(players[player_code]);
+                    gameIter->second.losingPlayers.push_back(players[player_id]);
                 } else {;
                     //cerr << "Player not found: " << player_code << endl;
                 }
