@@ -56,6 +56,15 @@ const Selection = () => {
           flexDirection: "column",
         }}
       >
+        <ButtonGroup
+          variant="contained"
+          aria-label="outlined primary button group"
+        >
+          <Button>Reset</Button>
+          <Button>Pause</Button>
+        </ButtonGroup>
+        <br></br>
+
         <div style={{ display: "flex", alignItems: "center" }}>
           <FormControl>
             <FormLabel  id="demo-controlled-radio-buttons-group">Graph Traversal</FormLabel>
@@ -94,6 +103,15 @@ const Selection = () => {
        
         </div>
         <br></br>
+        <Typography variant="body1" color="textSecondary">
+          Transparency
+        </Typography>
+        <Slider
+          aria-label="Transparency"
+          defaultValue={30}
+          getAriaValueText={valuetext}
+          color="primary"
+        />
       </Box>
       {/* Add more elements as needed */}
     </div>

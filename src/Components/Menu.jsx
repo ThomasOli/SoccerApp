@@ -7,8 +7,6 @@ import Selection from "./selection";
 
 import { Typography } from "@mui/material";
 
-import BFS from './../Processed Data/BFS';
-
 const Menu = ({ children }) => {
   return (
     <Paper
@@ -46,9 +44,6 @@ const Menu = ({ children }) => {
           {/* Add more buttons as needed */}
           <Button variant="contained">Generate Path</Button>
           {/* Add more buttons as needed */}
-          
-          <Button onClick={() => BFS('test', 'test2')}> test </Button>
-
         </div>
       </div>
     </Paper>
