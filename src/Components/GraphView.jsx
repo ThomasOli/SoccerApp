@@ -17,7 +17,8 @@ export default function Graphs(){
             },
             font: {
                 size: 12,
-                face: "Tahoma"
+                face: "Tahoma",
+                color: "White"
             }
         },
         edges: {

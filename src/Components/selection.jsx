@@ -26,27 +26,27 @@ const valuetext = (value) => {
   return `${value}°C`;
 };
 
-const Selection = () => {
+const Selection = ({ onAlgorithmChange, onReset }) => {
   const [color, setColor] = React.useState("");
+  const [value, setValue] = React.useState("BFS");
 
   const handleColor = (event) => {
     setColor(event.target.value);
-    
   };
-  const handleAlgo  = (event) => {
-  setValue(event.target.value);
+
+  const handleAlgo = (event) => {
+    setValue(event.target.value);
+    onAlgorithmChange(event.target.value);
   };
-  const [formats, setFormats] = React.useState(() => ["bold", "italic"]);
 
-  const handleFormat = (event, newFormats) => {
-    setFormats(newFormats);
+  const handleResetClick = () => {
+    onReset(); // Call the provided onReset callback
   };
-  const [value, setValue] = React.useState('BFS');
 
-
+  const handlePause = () => {};
 
   return (
-    <div style={{ padding: "20px", border: "1px solid #ccc" }}>
+    <div style={{ padding: "10px", border: "1px solid #ccc" }}>
       {/* Elements inside the box */}
       <Box
         style={{
@@ -60,14 +60,16 @@ const Selection = () => {
           variant="contained"
           aria-label="outlined primary button group"
         >
-          <Button>Reset</Button>
-          <Button>Pause</Button>
+          <Button onClick={handleResetClick}>Reset</Button>
+          <Button onClick={handlePause}>Pause</Button>
         </ButtonGroup>
         <br></br>
 
         <div style={{ display: "flex", alignItems: "center" }}>
           <FormControl>
-            <FormLabel  id="demo-controlled-radio-buttons-group">Graph Traversal</FormLabel>
+            <FormLabel id="demo-controlled-radio-buttons-group">
+              Graph Traversal
+            </FormLabel>
             <RadioGroup
               name="Algo selection"
               value={value}
@@ -78,7 +80,7 @@ const Selection = () => {
               <FormControlLabel value="DFS" control={<Radio />} label="DFS" />
             </RadioGroup>
           </FormControl>
-          
+
           <Box sx={{ minWidth: 120 }}>
             <FormControl fullWidth>
               <InputLabel id="demo-simple-select-label">Color</InputLabel>
@@ -100,7 +102,6 @@ const Selection = () => {
               </Select>
             </FormControl>
           </Box>
-       
         </div>
         <br></br>
         <Typography variant="body1" color="textSecondary">
