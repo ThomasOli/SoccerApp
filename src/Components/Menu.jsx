@@ -44,6 +44,7 @@ const Menu = ({ children }) => {
         padding: "16px",
         display: "flex",
         flexDirection: "column",
+        height: '100vh'
       }}
     >
       {children}
@@ -57,7 +58,7 @@ const Menu = ({ children }) => {
         }}
       >
         <div>
-          <Typography>Search For Players</Typography>
+          <Typography>Comparison of DFS / BFS Path Finding</Typography>
           <br></br>
           <SearchBar></SearchBar>
         </div>

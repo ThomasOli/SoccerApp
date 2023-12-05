@@ -29,10 +29,8 @@ const filteredList = list.filter((element) => {
                    textAlign:'left'
                }}  >
                    <Typography><strong>Name:</strong> {item.title}</Typography>
-                   <Typography><strong>Desc:</strong> {item.description}</Typography>
-                   <Typography><strong>Club:</strong> {item.price}</Typography>
-                   <Typography><strong>League:</strong> {item.rating}</Typography>
-                   <Typography><strong>Nationality:</strong> {item.brand}</Typography>
+                   <Typography><strong>Country:</strong> {item.country}</Typography>
+                   <Typography><strong>Team:</strong> {item.team}</Typography>
                </Paper>
            ))}
 

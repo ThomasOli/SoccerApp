@@ -15,9 +15,9 @@ import { Typography } from "@mui/material";
 
 const ComparisonModule = ({ children }) => {
     const data = [
-        { camparisonPoint: "Time Taken (seconds): ", dfsDatapoint: "10:23", bfsDatapoint: "139:13" },
-        { camparisonPoint: "Nodes Traversed: ", dfsDatapoint: "13141", bfsDatapoint: "4123" },
-        { camparisonPoint: "Max memory usage (bytes): ", dfsDatapoint: "3141", bfsDatapoint: "41314" },
+        { camparisonPoint: "Time Taken (seconds): ", dfsDatapoint: "---", bfsDatapoint: "---" },
+        { camparisonPoint: "Nodes Traversed: ", dfsDatapoint: "---", bfsDatapoint: "---" },
+        { camparisonPoint: "Max memory usage (bytes): ", dfsDatapoint: "---", bfsDatapoint: "---" },
     ]
 
     // // Similar to componentDidMount and componentDidUpdate:
@@ -37,8 +37,6 @@ const ComparisonModule = ({ children }) => {
         alignItems: 'center',
       }}
     >
-        <h3>Comparison of DFS / BFS Path Finding</h3>
-
         <div className="App">
             <table>
                 <thead>

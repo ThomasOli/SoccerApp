@@ -131993,7 +131993,6 @@ export var edges = [
     {from: 7311, to: 5667},
     {from: 7311, to: 7394},
 ];
-
 export var nodes = [
     {
         id: 20913,
@@ -132118,1680 +132117,6610 @@ export var nodes = [
         id: 17217,
         label: "Grigoris Papazacharias",
         title: "Country: " + "Greece" + "<br>" + "Team: " + "Apollon Smyrnis",
-        x: 120,
-        y: 120
+        x: 2040,
+        y: 0
     },
     {
         id: 16870,
         label: "Cesare Natali",
         title: "Country: " + "Italy" + "<br>" + "Team: " + "US Sassuolo",
-        x: 240,
-        y: 120
+        x: 2160,
+        y: 0
     },
     {
         id: 14690,
         label: "Mark Brown",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "Ross County FC",
-        x: 360,
-        y: 120
+        x: 2280,
+        y: 0
     },
     {
         id: 14331,
         label: "Manú",
         title: "Country: " + "Portugal" + "<br>" + "Team: " + "Vitória Setúbal FC",
-        x: 480,
-        y: 120
+        x: 2400,
+        y: 0
     },
     {
         id: 13572,
         label: "Ben Foster",
         title: "Country: " + "England" + "<br>" + "Team: " + "Watford FC",
-        x: 600,
-        y: 120
+        x: 2520,
+        y: 0
     },
     {
         id: 13047,
         label: "Daniel Cruz",
         title: "Country: " + "Colombia" + "<br>" + "Team: " + "SK Beveren",
-        x: 720,
-        y: 120
+        x: 2640,
+        y: 0
     },
     {
         id: 9161,
         label: "Sammy Clingan",
         title: "Country: " + "Northern Ireland" + "<br>" + "Team: " + "Kilmarnock FC",
-        x: 840,
-        y: 120
+        x: 2760,
+        y: 0
     },
     {
         id: 25175,
         label: "Miguel Pedro",
         title: "Country: " + "Portugal" + "<br>" + "Team: " + "Vitória Setúbal FC",
-        x: 960,
-        y: 120
+        x: 2880,
+        y: 0
     },
     {
         id: 7214,
         label: "Giannis Takidis",
         title: "Country: " + "Greece" + "<br>" + "Team: " + "Panetolikos GFS",
-        x: 1080,
-        y: 120
+        x: 3000,
+        y: 0
     },
     {
         id: 6793,
         label: "Angelo Palombo",
         title: "Country: " + "Italy" + "<br>" + "Team: " + "UC Sampdoria",
-        x: 1200,
-        y: 120
+        x: 3120,
+        y: 0
     },
     {
         id: 3817,
         label: "Malik Fathi",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "1.FSV Mainz 05",
-        x: 1320,
-        y: 120
+        x: 3240,
+        y: 0
     },
     {
         id: 24975,
         label: "Athanasios Prittas",
         title: "Country: " + "Greece" + "<br>" + "Team: " + "Panthrakikos Komotini",
-        x: 1440,
-        y: 120
+        x: 3360,
+        y: 0
     },
     {
         id: 26460,
         label: "Fernando Belluschi",
         title: "Country: " + "Argentina" + "<br>" + "Team: " + "Bursaspor",
-        x: 1560,
-        y: 120
+        x: 3480,
+        y: 0
     },
     {
         id: 9501,
         label: "Rab Douglas",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "Dundee FC",
-        x: 1680,
-        y: 120
+        x: 3600,
+        y: 0
     },
     {
         id: 7448,
         label: "Hossam Ghaly",
         title: "Country: " + "Egypt" + "<br>" + "Team: " + "Lierse SK (- 2018)",
-        x: 1800,
+        x: 0,
         y: 120
     },
     {
         id: 34771,
         label: "Oleksandr Kosyrin",
         title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Goverla Uzhgorod (- 2016)",
-        x: 1920,
+        x: 120,
         y: 120
     },
     {
         id: 18955,
         label: "Renaud Cohade",
         title: "Country: " + "France" + "<br>" + "Team: " + "FC Metz",
-        x: 120,
-        y: 240
+        x: 240,
+        y: 120
     },
     {
         id: 32941,
         label: "Gunnar Heidar Thorvaldsson",
         title: "Country: " + "Iceland" + "<br>" + "Team: " + "Konyaspor",
-        x: 240,
-        y: 240
+        x: 360,
+        y: 120
     },
     {
         id: 21370,
         label: "Ugur Ucar",
         title: "Country: " + "Turkey" + "<br>" + "Team: " + "Basaksehir FK",
-        x: 360,
-        y: 240
+        x: 480,
+        y: 120
     },
     {
         id: 14013,
         label: "Matty Fryatt",
         title: "Country: " + "England" + "<br>" + "Team: " + "Hull City",
-        x: 480,
-        y: 240
+        x: 600,
+        y: 120
     },
     {
         id: 4042,
         label: "Brad Jones",
         title: "Country: " + "Australia" + "<br>" + "Team: " + "Feyenoord Rotterdam",
-        x: 600,
-        y: 240
+        x: 720,
+        y: 120
     },
     {
         id: 9828,
         label: "Ricardo Carvalho",
         title: "Country: " + "Portugal" + "<br>" + "Team: " + "AS Monaco",
-        x: 720,
-        y: 240
+        x: 840,
+        y: 120
     },
     {
         id: 34239,
         label: "Aleandro Rosi",
         title: "Country: " + "Italy" + "<br>" + "Team: " + "Genoa CFC",
-        x: 840,
-        y: 240
+        x: 960,
+        y: 120
     },
     {
         id: 31159,
         label: "Martin Harnik",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "SV Werder Bremen",
-        x: 960,
-        y: 240
+        x: 1080,
+        y: 120
     },
     {
         id: 31007,
         label: "Zlatko Junuzovic",
         title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "SV Werder Bremen",
-        x: 1080,
-        y: 240
+        x: 1200,
+        y: 120
     },
     {
         id: 5687,
         label: "Rudy Riou",
         title: "Country: " + "France" + "<br>" + "Team: " + "Oud-Heverlee Leuven",
-        x: 1200,
-        y: 240
+        x: 1320,
+        y: 120
     },
     {
         id: 4429,
         label: "Matthew Amoah",
         title: "Country: " + "Ghana" + "<br>" + "Team: " + "Heracles Almelo",
-        x: 1320,
-        y: 240
+        x: 1440,
+        y: 120
     },
     {
         id: 1277,
         label: "Clemens Fritz",
         title: "Country: " + "East Germany (GDR)" + "<br>" + "Team: " + "SV Werder Bremen",
-        x: 1440,
-        y: 240
+        x: 1560,
+        y: 120
     },
     {
         id: 13862,
         label: "Custódio",
         title: "Country: " + "Portugal" + "<br>" + "Team: " + "Akhisarspor",
-        x: 1560,
-        y: 240
+        x: 1680,
+        y: 120
     },
     {
         id: 16186,
         label: "Georgios Kantimiris",
         title: "Country: " + "Greece" + "<br>" + "Team: " + "Aris Thessaloniki",
-        x: 1680,
-        y: 240
+        x: 1800,
+        y: 120
     },
     {
         id: 1772,
         label: "Du-ri Cha",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "L1",
-        x: 1800,
-        y: 240
+        x: 1920,
+        y: 120
     },
     {
         id: 34991,
         label: "Elimane Coulibaly",
         title: "Country: " + "Senegal" + "<br>" + "Team: " + "Royal Excel Mouscron (-2022)",
-        x: 1920,
-        y: 240
+        x: 2040,
+        y: 120
     },
     {
         id: 21829,
         label: "Francesco Benussi",
         title: "Country: " + "Italy" + "<br>" + "Team: " + "AC Carpi",
-        x: 120,
-        y: 360
+        x: 2160,
+        y: 120
     },
     {
         id: 26407,
         label: "Daniel Braaten",
         title: "Country: " + "Norway" + "<br>" + "Team: " + "FC Copenhagen",
-        x: 240,
-        y: 360
+        x: 2280,
+        y: 120
     },
     {
         id: 7041,
         label: "Servet Cetin",
         title: "Country: " + "Turkey" + "<br>" + "Team: " + "Mersin Talimyurdu SK",
-        x: 360,
-        y: 360
+        x: 2400,
+        y: 120
     },
     {
         id: 21191,
         label: "Alkis Dimitris",
         title: "Country: " + "Albania" + "<br>" + "Team: " + "AO Platanias",
-        x: 480,
-        y: 360
+        x: 2520,
+        y: 120
     },
     {
         id: 7937,
         label: "Abdurrahman Dereli",
         title: "Country: " + "Turkey" + "<br>" + "Team: " + "Sivasspor",
-        x: 600,
-        y: 360
+        x: 2640,
+        y: 120
     },
     {
         id: 28935,
         label: "Paolo Dellafiore",
         title: "Country: " + "Argentina" + "<br>" + "Team: " + "Siena FC",
-        x: 720,
-        y: 360
+        x: 2760,
+        y: 120
     },
     {
         id: 27494,
         label: "Georgios Zisopoulos",
         title: "Country: " + "Greece" + "<br>" + "Team: " + "APO Levadiakos",
-        x: 840,
-        y: 360
+        x: 2880,
+        y: 120
     },
     {
         id: 6931,
         label: "Gino Coutinho",
         title: "Country: " + "Netherlands" + "<br>" + "Team: " + "AZ Alkmaar",
-        x: 960,
-        y: 360
+        x: 3000,
+        y: 120
     },
     {
         id: 10501,
         label: "Paul Gallagher",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "Leicester City",
-        x: 1080,
-        y: 360
+        x: 3120,
+        y: 120
     },
     {
         id: 15373,
         label: "Sergey Semak",
         title: "Country: " + "UdSSR" + "<br>" + "Team: " + "RU1",
-        x: 1200,
-        y: 360
+        x: 3240,
+        y: 120
     },
     {
         id: 14960,
         label: "Martin Albrechtsen",
         title: "Country: " + "Denmark" + "<br>" + "Team: " + "AC Horsens",
-        x: 1320,
-        y: 360
+        x: 3360,
+        y: 120
     },
     {
         id: 7781,
         label: "Alexis Ruano",
         title: "Country: " + "Spain" + "<br>" + "Team: " + "Deportivo Alavés",
-        x: 1440,
-        y: 360
+        x: 3480,
+        y: 120
     },
     {
         id: 29237,
         label: "Stefan Babovic",
         title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Real Zaragoza",
-        x: 1560,
-        y: 360
+        x: 3600,
+        y: 120
     },
     {
         id: 34937,
         label: "Fabien Farnolle",
         title: "Country: " + "France" + "<br>" + "Team: " + "Erzurumspor FK",
-        x: 1680,
-        y: 360
+        x: 0,
+        y: 240
     },
     {
         id: 33481,
         label: "Gervinho",
         title: "Country: " + "Cote d'Ivoire" + "<br>" + "Team: " + "Aris Thessaloniki",
-        x: 1800,
-        y: 360
+        x: 120,
+        y: 240
     },
     {
         id: 31902,
         label: "Arjan Christianen",
         title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Willem II Tilburg",
-        x: 1920,
-        y: 360
+        x: 240,
+        y: 240
     },
     {
         id: 31610,
         label: "Sebastian Tyrala",
         title: "Country: " + "Poland" + "<br>" + "Team: " + "SpVgg Greuther Fürth",
-        x: 120,
-        y: 480
+        x: 360,
+        y: 240
     },
     {
         id: 30732,
         label: "Levan Kenia",
         title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Karpaty Lviv (-2021)",
-        x: 240,
-        y: 480
+        x: 480,
+        y: 240
     },
     {
         id: 29712,
         label: "John Ruddy",
         title: "Country: " + "England" + "<br>" + "Team: " + "Wolverhampton Wanderers",
-        x: 360,
-        y: 480
+        x: 600,
+        y: 240
     },
     {
         id: 30431,
         label: "Nizamettin Caliskan",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "Genclerbirligi Ankara",
-        x: 480,
-        y: 480
+        x: 720,
+        y: 240
     },
     {
         id: 29377,
         label: "Ibson",
         title: "Country: " + "Brazil" + "<br>" + "Team: " + "Bologna FC 1909",
-        x: 600,
-        y: 480
+        x: 840,
+        y: 240
     },
     {
         id: 28845,
         label: "Andrea Raggi",
         title: "Country: " + "Italy" + "<br>" + "Team: " + "AS Monaco",
-        x: 720,
-        y: 480
+        x: 960,
+        y: 240
     },
     {
         id: 25860,
         label: "Igor Kot",
         title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Ural Yekaterinburg",
-        x: 840,
-        y: 480
+        x: 1080,
+        y: 240
     },
     {
         id: 22785,
         label: "Ricardo Nunes",
         title: "Country: " + "Portugal" + "<br>" + "Team: " + "GD Chaves",
-        x: 960,
-        y: 480
+        x: 1200,
+        y: 240
     },
     {
         id: 22340,
         label: "Michaël Cordier",
         title: "Country: " + "Belgium" + "<br>" + "Team: " + "Club Brugge KV",
-        x: 1080,
-        y: 480
+        x: 1320,
+        y: 240
     },
     {
         id: 22318,
         label: "Federico Marchetti",
         title: "Country: " + "Italy" + "<br>" + "Team: " + "Spezia Calcio",
-        x: 1200,
-        y: 480
+        x: 1440,
+        y: 240
     },
     {
         id: 22131,
         label: "Jaime Valdés",
         title: "Country: " + "Chile" + "<br>" + "Team: " + "Parma Calcio 1913",
-        x: 1320,
-        y: 480
+        x: 1560,
+        y: 240
     },
     {
         id: 19953,
         label: "Franco Cángele",
         title: "Country: " + "Argentina" + "<br>" + "Team: " + "Elazigspor",
-        x: 1440,
-        y: 480
+        x: 1680,
+        y: 240
     },
     {
         id: 22067,
         label: "Stijn De Smet",
         title: "Country: " + "Belgium" + "<br>" + "Team: " + "KV Kortrijk",
-        x: 1560,
-        y: 480
+        x: 1800,
+        y: 240
     },
     {
         id: 20003,
         label: "Matías Silvestre",
         title: "Country: " + "Argentina" + "<br>" + "Team: " + "Royal Excel Mouscron (-2022)",
-        x: 1680,
-        y: 480
+        x: 1920,
+        y: 240
     },
     {
         id: 19726,
         label: "Nemanja Vidic‎",
         title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Inter Milan",
-        x: 1800,
-        y: 480
+        x: 2040,
+        y: 240
     },
     {
         id: 19708,
         label: "Boško Janković",
         title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Hellas Verona",
-        x: 1920,
-        y: 480
+        x: 2160,
+        y: 240
     },
     {
         id: 5879,
         label: "Adrian Mutu",
         title: "Country: " + "Romania" + "<br>" + "Team: " + "AC Ajaccio",
-        x: 120,
-        y: 600
+        x: 2280,
+        y: 240
     },
     {
         id: 19409,
         label: "Willem Janssen",
         title: "Country: " + "Netherlands" + "<br>" + "Team: " + "FC Utrecht",
-        x: 240,
-        y: 600
+        x: 2400,
+        y: 240
     },
     {
         id: 17232,
         label: "Luigi Cennamo",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "Panetolikos GFS",
-        x: 360,
-        y: 600
+        x: 2520,
+        y: 240
     },
     {
         id: 16956,
         label: "Slawomir Peszko",
         title: "Country: " + "Poland" + "<br>" + "Team: " + "1.FC Köln",
-        x: 480,
-        y: 600
+        x: 2640,
+        y: 240
     },
     {
         id: 16420,
         label: "Dimitrios Koutsopoulos",
         title: "Country: " + "Greece" + "<br>" + "Team: " + "Panthrakikos Komotini",
-        x: 600,
-        y: 600
+        x: 2760,
+        y: 240
     },
     {
         id: 16120,
         label: "Édgar Barreto",
         title: "Country: " + "Paraguay" + "<br>" + "Team: " + "NEC Nijmegen",
-        x: 720,
-        y: 600
+        x: 2880,
+        y: 240
     },
     {
         id: 12398,
         label: "Shefki Kuqi",
         title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Hibernian FC",
-        x: 840,
-        y: 600
+        x: 3000,
+        y: 240
     },
     {
         id: 10375,
         label: "Shaun MacDonald",
         title: "Country: " + "Wales" + "<br>" + "Team: " + "AFC Bournemouth",
-        x: 960,
-        y: 600
+        x: 3120,
+        y: 240
     },
     {
         id: 10255,
         label: "Alexander Farnerud",
         title: "Country: " + "Sweden" + "<br>" + "Team: " + "Torino FC",
-        x: 1080,
-        y: 600
+        x: 3240,
+        y: 240
     },
     {
         id: 9813,
         label: "Bosingwa",
         title: "Country: " + "Zaire" + "<br>" + "Team: " + "Trabzonspor",
-        x: 1200,
-        y: 600
+        x: 3360,
+        y: 240
     },
     {
         id: 5854,
         label: "Sébastien Frey",
         title: "Country: " + "France" + "<br>" + "Team: " + "Bursaspor",
-        x: 1320,
-        y: 600
+        x: 3480,
+        y: 240
     },
     {
         id: 27539,
         label: "Vanja Ivesa",
         title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Elazigspor",
-        x: 1440,
-        y: 600
+        x: 3600,
+        y: 240
     },
     {
         id: 4582,
         label: "Sander Boschker",
         title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Twente Enschede FC",
-        x: 1560,
-        y: 600
+        x: 0,
+        y: 360
     },
     {
         id: 4380,
         label: "Robin van Persie",
         title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Feyenoord Rotterdam",
-        x: 1680,
-        y: 600
+        x: 120,
+        y: 360
     },
     {
         id: 4251,
         label: "Callum Davidson",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "St. Johnstone FC",
-        x: 1800,
-        y: 600
+        x: 240,
+        y: 360
     },
     {
         id: 123,
         label: "Christoph Metzelder",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "FC Schalke 04",
-        x: 1920,
-        y: 600
+        x: 360,
+        y: 360
     },
     {
         id: 16693,
         label: "Hakan Arikan",
         title: "Country: " + "Turkey" + "<br>" + "Team: " + "Kayserispor",
-        x: 120,
-        y: 720
+        x: 480,
+        y: 360
     },
     {
         id: 34570,
         label: "Luis Tinoco",
         title: "Country: " + "Portugal" + "<br>" + "Team: " + "CD Tondela",
-        x: 240,
-        y: 720
+        x: 600,
+        y: 360
     },
     {
         id: 12665,
         label: "Keith Lasley",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "Motherwell FC",
-        x: 360,
-        y: 720
+        x: 720,
+        y: 360
     },
     {
         id: 31579,
         label: "Adam Johnson",
         title: "Country: " + "England" + "<br>" + "Team: " + "Sunderland AFC",
-        x: 480,
-        y: 720
+        x: 840,
+        y: 360
     },
     {
         id: 27471,
         label: "Diego Capel",
         title: "Country: " + "Spain" + "<br>" + "Team: " + "RSC Anderlecht",
-        x: 600,
-        y: 720
+        x: 960,
+        y: 360
     },
     {
         id: 21419,
         label: "Mark Reynolds",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "Dundee United FC",
-        x: 720,
-        y: 720
+        x: 1080,
+        y: 360
     },
     {
         id: 34929,
         label: "Ivan Taranov",
         title: "Country: " + "UdSSR" + "<br>" + "Team: " + "FK Krasnodar",
-        x: 840,
-        y: 720
+        x: 1200,
+        y: 360
     },
     {
         id: 32618,
         label: "Assani Lukimya",
         title: "Country: " + "Zaire" + "<br>" + "Team: " + "SV Werder Bremen",
-        x: 960,
-        y: 720
+        x: 1320,
+        y: 360
     },
     {
         id: 32467,
         label: "Ivan Rakitic",
         title: "Country: " + "Switzerland" + "<br>" + "Team: " + "Sevilla FC",
-        x: 1080,
-        y: 720
+        x: 1440,
+        y: 360
     },
     {
         id: 30672,
         label: "Kenneth Van Goethem",
         title: "Country: " + "Belgium" + "<br>" + "Team: " + "Oud-Heverlee Leuven",
-        x: 1200,
-        y: 720
+        x: 1560,
+        y: 360
     },
     {
         id: 26063,
         label: "Juan Arango",
         title: "Country: " + "Venezuela" + "<br>" + "Team: " + "Borussia Mönchengladbach",
-        x: 1320,
-        y: 720
+        x: 1680,
+        y: 360
     },
     {
         id: 31090,
         label: "Alex Neil",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "Hamilton Academical FC",
-        x: 1440,
-        y: 720
+        x: 1800,
+        y: 360
     },
     {
         id: 4192,
         label: "Rafael van der Vaart",
         title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Esbjerg fB",
-        x: 1560,
-        y: 720
+        x: 1920,
+        y: 360
     },
     {
         id: 33820,
         label: "Kamil Zayatte",
         title: "Country: " + "Guinea" + "<br>" + "Team: " + "Basaksehir FK",
-        x: 1680,
-        y: 720
+        x: 2040,
+        y: 360
     },
     {
         id: 12772,
         label: "Ryan Esson",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "Inverness Caledonian Thistle FC",
-        x: 1800,
-        y: 720
+        x: 2160,
+        y: 360
     },
     {
         id: 14334,
         label: "Marcos António",
         title: "Country: " + "Brazil" + "<br>" + "Team: " + "1.FC Nuremberg",
-        x: 1920,
-        y: 720
+        x: 2280,
+        y: 360
     },
     {
         id: 33535,
         label: "Valdet Rama",
         title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Real Valladolid CF",
-        x: 120,
-        y: 840
+        x: 2400,
+        y: 360
     },
     {
         id: 33739,
         label: "Cristiano",
         title: "Country: " + "Brazil" + "<br>" + "Team: " + "Vitória Setúbal FC",
-        x: 240,
-        y: 840
+        x: 2520,
+        y: 360
     },
     {
         id: 14178,
         label: "David Vaughan",
         title: "Country: " + "Wales" + "<br>" + "Team: " + "Sunderland AFC",
-        x: 360,
-        y: 840
+        x: 2640,
+        y: 360
     },
     {
         id: 16397,
         label: "Anastasios Dentsas",
         title: "Country: " + "Greece" + "<br>" + "Team: " + "AO Platanias",
-        x: 480,
-        y: 840
+        x: 2760,
+        y: 360
     },
     {
         id: 3614,
         label: "Tony Hibbert",
         title: "Country: " + "England" + "<br>" + "Team: " + "Everton FC",
-        x: 600,
-        y: 840
+        x: 2880,
+        y: 360
     },
     {
         id: 29863,
         label: "Mitchell Schet",
         title: "Country: " + "Netherlands" + "<br>" + "Team: " + "ADO Den Haag",
-        x: 720,
-        y: 840
+        x: 3000,
+        y: 360
     },
     {
         id: 21345,
         label: "Alexander Stephan",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "1.FC Nuremberg",
-        x: 840,
-        y: 840
+        x: 3120,
+        y: 360
     },
     {
         id: 15131,
         label: "Michael Silberbauer",
         title: "Country: " + "Denmark" + "<br>" + "Team: " + "Odense Boldklub",
-        x: 960,
-        y: 840
+        x: 3240,
+        y: 360
     },
     {
         id: 14694,
         label: "Russell Duncan",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "Ross County FC",
-        x: 1080,
-        y: 840
+        x: 3360,
+        y: 360
     },
     {
         id: 3201,
         label: "Stathis Tavlaridis",
         title: "Country: " + "Greece" + "<br>" + "Team: " + "Panathinaikos Athens",
-        x: 1200,
-        y: 840
+        x: 3480,
+        y: 360
     },
     {
         id: 12638,
         label: "Barry Nicholson",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "Kilmarnock FC",
-        x: 1320,
-        y: 840
+        x: 3600,
+        y: 360
     },
     {
         id: 3441,
         label: "Timmy Simons",
         title: "Country: " + "Belgium" + "<br>" + "Team: " + "Club Brugge KV",
-        x: 1440,
-        y: 840
+        x: 0,
+        y: 480
     },
     {
         id: 4337,
         label: "Kasper Bögelund",
         title: "Country: " + "Denmark" + "<br>" + "Team: " + "Aalborg BK",
-        x: 1560,
-        y: 840
+        x: 120,
+        y: 480
     },
     {
         id: 3900,
         label: "Henri Camara",
         title: "Country: " + "Senegal" + "<br>" + "Team: " + "Panetolikos GFS",
-        x: 1680,
-        y: 840
+        x: 240,
+        y: 480
     },
     {
         id: 26771,
         label: "Jan Holenda",
         title: "Country: " + "CSSR" + "<br>" + "Team: " + "Tom Tomsk",
-        x: 1800,
-        y: 840
+        x: 360,
+        y: 480
     },
     {
         id: 13483,
         label: "Mustapha Oussalah",
         title: "Country: " + "Belgium" + "<br>" + "Team: " + "Royal Excel Mouscron (-2022)",
-        x: 1920,
-        y: 840
+        x: 480,
+        y: 480
     },
     {
         id: 29672,
         label: "Efe Inanc",
         title: "Country: " + "Turkey" + "<br>" + "Team: " + "Basaksehir FK",
-        x: 120,
-        y: 960
+        x: 600,
+        y: 480
     },
     {
         id: 31245,
         label: "Jonathan Wilmet",
         title: "Country: " + "Belgium" + "<br>" + "Team: " + "SK Beveren",
-        x: 240,
-        y: 960
+        x: 720,
+        y: 480
     },
     {
         id: 4208,
         label: "Dominik Reinhardt",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "FC Augsburg",
-        x: 360,
-        y: 960
+        x: 840,
+        y: 480
     },
     {
         id: 34405,
         label: "Milan Purovic",
         title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Metalurg Zaporizhya (-2016)",
-        x: 480,
-        y: 960
+        x: 960,
+        y: 480
     },
     {
         id: 33921,
         label: "Maxime Josse",
         title: "Country: " + "France" + "<br>" + "Team: " + "Panthrakikos Komotini",
-        x: 600,
-        y: 960
+        x: 1080,
+        y: 480
     },
     {
         id: 33363,
         label: "Kevin Wattamaleo",
         title: "Country: " + "Netherlands" + "<br>" + "Team: " + "NEC Nijmegen",
-        x: 720,
-        y: 960
+        x: 1200,
+        y: 480
     },
     {
         id: 31720,
         label: "Sebastian Larsson",
         title: "Country: " + "Sweden" + "<br>" + "Team: " + "Sunderland AFC",
-        x: 840,
-        y: 960
+        x: 1320,
+        y: 480
     },
     {
         id: 31493,
         label: "Rubin Okotie",
         title: "Country: " + "Pakistan" + "<br>" + "Team: " + "SönderjyskE",
-        x: 960,
-        y: 960
+        x: 1440,
+        y: 480
     },
     {
         id: 2904,
         label: "Rafa Márquez",
         title: "Country: " + "Mexico" + "<br>" + "Team: " + "Hellas Verona",
-        x: 1080,
-        y: 960
+        x: 1560,
+        y: 480
     },
     {
         id: 30687,
         label: "Maxi Moralez",
         title: "Country: " + "Argentina" + "<br>" + "Team: " + "Atalanta BC",
-        x: 1200,
-        y: 960
+        x: 1680,
+        y: 480
     },
     {
         id: 29434,
         label: "Yohan Cabaye",
         title: "Country: " + "France" + "<br>" + "Team: " + "AS Saint-Étienne",
-        x: 1320,
-        y: 960
+        x: 1800,
+        y: 480
     },
     {
         id: 29316,
         label: "Cyril Théréau",
         title: "Country: " + "France" + "<br>" + "Team: " + "ACF Fiorentina",
-        x: 1440,
-        y: 960
+        x: 1920,
+        y: 480
     },
     {
         id: 28990,
         label: "Charlie Adam",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "Dundee FC",
-        x: 1560,
-        y: 960
+        x: 2040,
+        y: 480
     },
     {
         id: 27390,
         label: "Florent Ghisolfi",
         title: "Country: " + "France" + "<br>" + "Team: " + "Stade Reims",
-        x: 1680,
-        y: 960
+        x: 2160,
+        y: 480
     },
     {
         id: 22542,
         label: "Jens Wemmer",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "Panathinaikos Athens",
-        x: 1800,
-        y: 960
+        x: 2280,
+        y: 480
     },
     {
         id: 22328,
         label: "Fabio Quagliarella",
         title: "Country: " + "" + "<br>" + "Team: " + "UC Sampdoria",
-        x: 1920,
-        y: 960
+        x: 2400,
+        y: 480
     },
     {
         id: 19108,
         label: "Nadson",
         title: "Country: " + "Brazil" + "<br>" + "Team: " + "RU1",
-        x: 120,
-        y: 1080
+        x: 2520,
+        y: 480
     },
     {
         id: 15409,
         label: "Ahmed Samir Farag",
         title: "Country: " + "Egypt" + "<br>" + "Team: " + "Lierse SK (- 2018)",
-        x: 240,
-        y: 1080
+        x: 2640,
+        y: 480
     },
     {
         id: 15153,
         label: "Dimitrios Salpingidis",
         title: "Country: " + "Greece" + "<br>" + "Team: " + "PAOK Thessaloniki",
-        x: 360,
-        y: 1080
+        x: 2760,
+        y: 480
     },
     {
         id: 15102,
         label: "Igor Lebedenko",
         title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Torpedo Moscow",
-        x: 480,
-        y: 1080
+        x: 2880,
+        y: 480
     },
     {
         id: 9706,
         label: "Sotiris Kyrgiakos",
         title: "Country: " + "Greece" + "<br>" + "Team: " + "VfL Wolfsburg",
-        x: 600,
-        y: 1080
+        x: 3000,
+        y: 480
     },
     {
         id: 9509,
         label: "Ross Wallace",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "St. Mirren FC",
-        x: 720,
-        y: 1080
+        x: 3120,
+        y: 480
     },
     {
         id: 7945,
         label: "Miguel Ángel Corona",
         title: "Country: " + "Spain" + "<br>" + "Team: " + "UD Almería",
-        x: 840,
-        y: 1080
+        x: 3240,
+        y: 480
     },
     {
         id: 7568,
         label: "David Navarro",
         title: "Country: " + "Spain" + "<br>" + "Team: " + "Levante UD",
-        x: 960,
-        y: 1080
+        x: 3360,
+        y: 480
     },
     {
         id: 5686,
         label: "Laurent Pionnier",
         title: "Country: " + "France" + "<br>" + "Team: " + "Montpellier HSC",
-        x: 1080,
-        y: 1080
+        x: 3480,
+        y: 480
     },
     {
         id: 5578,
         label: "Nicolas Penneteau",
         title: "Country: " + "France" + "<br>" + "Team: " + "Stade Reims",
-        x: 1200,
-        y: 1080
+        x: 3600,
+        y: 480
     },
     {
         id: 5562,
         label: "Hugo Leal",
         title: "Country: " + "Portugal" + "<br>" + "Team: " + "GD Estoril Praia",
-        x: 1320,
-        y: 1080
+        x: 0,
+        y: 600
     },
     {
         id: 3942,
         label: "Martin Lanig",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "Eintracht Frankfurt",
-        x: 1440,
-        y: 1080
+        x: 120,
+        y: 600
     },
     {
         id: 3271,
         label: "Luke Young",
         title: "Country: " + "England" + "<br>" + "Team: " + "Queens Park Rangers",
-        x: 1560,
-        y: 1080
+        x: 240,
+        y: 600
     },
     {
         id: 33233,
         label: "Cristóvão Ramos",
         title: "Country: " + "France" + "<br>" + "Team: " + "Konyaspor",
-        x: 1680,
-        y: 1080
+        x: 360,
+        y: 600
     },
     {
         id: 3132,
         label: "Florin Cernat",
         title: "Country: " + "Romania" + "<br>" + "Team: " + "Caykur Rizespor",
-        x: 1800,
-        y: 1080
+        x: 480,
+        y: 600
     },
     {
         id: 2233,
         label: "Christian Lell",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "Levante UD",
-        x: 1920,
-        y: 1080
+        x: 600,
+        y: 600
     },
     {
         id: 80,
         label: "Tom Starke",
         title: "Country: " + "East Germany (GDR)" + "<br>" + "Team: " + "Bayern Munich",
-        x: 120,
-        y: 1200
+        x: 720,
+        y: 600
     },
     {
         id: 28705,
         label: "Dusan Veskovac",
         title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "FC Toulouse",
-        x: 240,
-        y: 1200
+        x: 840,
+        y: 600
     },
     {
         id: 3397,
         label: "Paul Scholes",
         title: "Country: " + "England" + "<br>" + "Team: " + "Manchester United",
-        x: 360,
-        y: 1200
+        x: 960,
+        y: 600
     },
     {
         id: 6131,
         label: "Tobias Rathgeb",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "VfB Stuttgart",
-        x: 480,
-        y: 1200
+        x: 1080,
+        y: 600
     },
     {
         id: 9737,
         label: "Anastasios Pantos",
         title: "Country: " + "Greece" + "<br>" + "Team: " + "PAS Giannina",
-        x: 600,
-        y: 1200
+        x: 1200,
+        y: 600
     },
     {
         id: 20007,
         label: "Pablo Zabaleta",
         title: "Country: " + "Argentina" + "<br>" + "Team: " + "West Ham United",
-        x: 720,
-        y: 1200
+        x: 1320,
+        y: 600
     },
     {
         id: 17220,
         label: "Miroslaw Sznaucner",
         title: "Country: " + "Poland" + "<br>" + "Team: " + "Veria NPS",
-        x: 840,
-        y: 1200
+        x: 1440,
+        y: 600
     },
     {
         id: 12517,
         label: "Oguchi Onyewu",
         title: "Country: " + "United States" + "<br>" + "Team: " + "ES1",
-        x: 960,
-        y: 1200
+        x: 1560,
+        y: 600
     },
     {
         id: 823,
         label: "Hanno Balitsch",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "1.FC Nuremberg",
-        x: 1080,
-        y: 1200
+        x: 1680,
+        y: 600
     },
     {
         id: 30825,
         label: "Marco Ruben",
         title: "Country: " + "Argentina" + "<br>" + "Team: " + "Dynamo Kyiv",
-        x: 1200,
-        y: 1200
+        x: 1800,
+        y: 600
     },
     {
         id: 8323,
         label: "Álvaro Rubio",
         title: "Country: " + "Spain" + "<br>" + "Team: " + "Real Valladolid CF",
-        x: 1320,
-        y: 1200
+        x: 1920,
+        y: 600
     },
     {
         id: 23076,
         label: "Peter Nymann",
         title: "Country: " + "Denmark" + "<br>" + "Team: " + "AC Horsens",
-        x: 1440,
-        y: 1200
+        x: 2040,
+        y: 600
     },
     {
         id: 25827,
         label: "Paulo Arantes",
         title: "Country: " + "Portugal" + "<br>" + "Team: " + "Gil Vicente FC",
-        x: 1560,
-        y: 1200
+        x: 2160,
+        y: 600
     },
     {
         id: 16756,
         label: "Oleg Ivanov",
         title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Rubin Kazan",
-        x: 1680,
-        y: 1200
+        x: 2280,
+        y: 600
     },
     {
         id: 21732,
         label: "Mark Corcoran",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "Ross County FC",
-        x: 1800,
-        y: 1200
+        x: 2400,
+        y: 600
     },
     {
         id: 12746,
         label: "Colin Nish",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "Dundee FC",
-        x: 1920,
-        y: 1200
+        x: 2520,
+        y: 600
     },
     {
         id: 22123,
         label: "Ciro Polito",
         title: "Country: " + "Italy" + "<br>" + "Team: " + "US Sassuolo",
-        x: 120,
-        y: 1320
+        x: 2640,
+        y: 600
     },
     {
         id: 23306,
         label: "Alberto Rivera",
         title: "Country: " + "Spain" + "<br>" + "Team: " + "Elche CF",
-        x: 240,
-        y: 1320
+        x: 2760,
+        y: 600
     },
     {
         id: 20463,
         label: "Corentin Jean",
         title: "Country: " + "France" + "<br>" + "Team: " + "RC Lens",
-        x: 360,
-        y: 1320
+        x: 2880,
+        y: 600
     },
     {
         id: 22217,
         label: "Roberto Vitiello",
         title: "Country: " + "Italy" + "<br>" + "Team: " + "Palermo FC",
-        x: 480,
-        y: 1320
+        x: 3000,
+        y: 600
     },
     {
         id: 22141,
         label: "Antonio Mirante",
         title: "Country: " + "Italy" + "<br>" + "Team: " + "AC Milan",
-        x: 600,
-        y: 1320
+        x: 3120,
+        y: 600
     },
     {
         id: 20903,
         label: "Rafik Djebbour",
         title: "Country: " + "France" + "<br>" + "Team: " + "AEK Athens",
-        x: 720,
-        y: 1320
+        x: 3240,
+        y: 600
     },
     {
         id: 7563,
         label: "Andrés Palop",
         title: "Country: " + "Spain" + "<br>" + "Team: " + "Bayer 04 Leverkusen",
-        x: 840,
-        y: 1320
+        x: 3360,
+        y: 600
     },
     {
         id: 568,
         label: "Martin Stranzl",
         title: "Country: " + "Austria" + "<br>" + "Team: " + "Borussia Mönchengladbach",
-        x: 960,
-        y: 1320
+        x: 3480,
+        y: 600
     },
     {
         id: 28878,
         label: "Ryan Nelsen",
         title: "Country: " + "New Zealand" + "<br>" + "Team: " + "Queens Park Rangers",
-        x: 1080,
-        y: 1320
+        x: 3600,
+        y: 600
     },
     {
         id: 15676,
         label: "Zydrunas Karcemarskas",
         title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Ankaraspor",
-        x: 1200,
-        y: 1320
+        x: 0,
+        y: 720
     },
     {
         id: 25316,
         label: "Rubén Castro",
         title: "Country: " + "Spain" + "<br>" + "Team: " + "Real Betis Balompié",
-        x: 1320,
-        y: 1320
+        x: 120,
+        y: 720
     },
     {
         id: 12127,
         label: "Michael Turner",
         title: "Country: " + "England" + "<br>" + "Team: " + "Norwich City",
-        x: 1440,
-        y: 1320
+        x: 240,
+        y: 720
     },
     {
         id: 33078,
         label: "Florian Jungwirth",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "SV Darmstadt 98",
-        x: 1560,
-        y: 1320
+        x: 360,
+        y: 720
     },
     {
         id: 25115,
         label: "Claudiu Keseru",
         title: "Country: " + "Romania" + "<br>" + "Team: " + "SC Bastia",
-        x: 1680,
-        y: 1320
+        x: 480,
+        y: 720
     },
     {
         id: 27581,
         label: "Stefanos Siontis",
         title: "Country: " + "Greece" + "<br>" + "Team: " + "PAS Giannina",
-        x: 1800,
-        y: 1320
+        x: 600,
+        y: 720
     },
     {
         id: 19063,
         label: "Ard van Peppen",
         title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Roda JC Kerkrade",
-        x: 1920,
-        y: 1320
+        x: 720,
+        y: 720
     },
     {
         id: 4357,
         label: "Klaas-Jan Huntelaar",
         title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Ajax Amsterdam",
-        x: 120,
-        y: 1440
+        x: 840,
+        y: 720
     },
     {
         id: 34393,
         label: "Vedran Corluka",
         title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Lokomotiv Moscow",
-        x: 240,
-        y: 1440
+        x: 960,
+        y: 720
     },
     {
         id: 7353,
         label: "Juanma Ortiz",
         title: "Country: " + "Spain" + "<br>" + "Team: " + "Granada CF",
-        x: 360,
-        y: 1440
+        x: 1080,
+        y: 720
     },
     {
         id: 26194,
         label: "David Vandenbroeck",
         title: "Country: " + "Belgium" + "<br>" + "Team: " + "Oud-Heverlee Leuven",
-        x: 480,
-        y: 1440
+        x: 1200,
+        y: 720
     },
     {
         id: 19087,
         label: "Demy de Zeeuw",
         title: "Country: " + "Netherlands" + "<br>" + "Team: " + "NAC Breda",
-        x: 600,
-        y: 1440
+        x: 1320,
+        y: 720
     },
     {
         id: 5303,
         label: "Souleymane Camara",
         title: "Country: " + "Senegal" + "<br>" + "Team: " + "Montpellier HSC",
-        x: 720,
-        y: 1440
+        x: 1440,
+        y: 720
     },
     {
         id: 3118,
         label: "Kieron Dyer",
         title: "Country: " + "England" + "<br>" + "Team: " + "Queens Park Rangers",
-        x: 840,
-        y: 1440
+        x: 1560,
+        y: 720
     },
     {
         id: 5908,
         label: "Cristiano Lupatelli",
         title: "Country: " + "Italy" + "<br>" + "Team: " + "ACF Fiorentina",
-        x: 960,
-        y: 1440
+        x: 1680,
+        y: 720
     },
     {
         id: 24404,
         label: "Johan Sellberg-Wiland",
         title: "Country: " + "Sweden" + "<br>" + "Team: " + "FC Copenhagen",
-        x: 1080,
-        y: 1440
+        x: 1800,
+        y: 720
     },
     {
         id: 24956,
         label: "Barge",
         title: "Country: " + "Portugal" + "<br>" + "Team: " + "CD Feirense",
-        x: 1200,
-        y: 1440
+        x: 1920,
+        y: 720
     },
     {
         id: 22339,
         label: "Sekou Cissé",
         title: "Country: " + "Cote d'Ivoire" + "<br>" + "Team: " + "KRC Genk",
-        x: 1320,
-        y: 1440
+        x: 2040,
+        y: 720
     },
     {
         id: 26878,
         label: "Tobias Werner",
         title: "Country: " + "East Germany (GDR)" + "<br>" + "Team: " + "FC Augsburg",
-        x: 1440,
-        y: 1440
+        x: 2160,
+        y: 720
     },
     {
         id: 5339,
         label: "Jérémie Bréchet",
         title: "Country: " + "France" + "<br>" + "Team: " + "GFC Ajaccio",
-        x: 1560,
-        y: 1440
+        x: 2280,
+        y: 720
     },
     {
         id: 18416,
         label: "Aloys Nong",
         title: "Country: " + "Cameroon" + "<br>" + "Team: " + "RAEC Mons (- 2015)",
-        x: 1680,
-        y: 1440
+        x: 2400,
+        y: 720
     },
     {
         id: 29622,
         label: "Veli Kavlak",
         title: "Country: " + "Austria" + "<br>" + "Team: " + "Besiktas JK",
-        x: 1800,
-        y: 1440
+        x: 2520,
+        y: 720
     },
     {
         id: 16682,
         label: "Osmar Ferreyra",
         title: "Country: " + "Argentina" + "<br>" + "Team: " + "Panetolikos GFS",
-        x: 1920,
-        y: 1440
+        x: 2640,
+        y: 720
     },
     {
         id: 7394,
         label: "Gökhan Ünal",
         title: "Country: " + "Turkey" + "<br>" + "Team: " + "Balikesirspor",
-        x: 120,
-        y: 1560
+        x: 2760,
+        y: 720
     },
     {
         id: 14879,
         label: "Pierre Boya",
         title: "Country: " + "Cameroon" + "<br>" + "Team: " + "Randers FC",
-        x: 240,
-        y: 1560
+        x: 2880,
+        y: 720
     },
     {
         id: 13686,
         label: "Thomas Bröker",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "1.FC Köln",
-        x: 360,
-        y: 1560
+        x: 3000,
+        y: 720
     },
     {
         id: 3406,
         label: "Ryan Giggs",
         title: "Country: " + "Wales" + "<br>" + "Team: " + "Manchester United",
-        x: 480,
-        y: 1560
+        x: 3120,
+        y: 720
     },
     {
         id: 14309,
         label: "João Paulo",
         title: "Country: " + "Portugal" + "<br>" + "Team: " + "GD Estoril Praia",
-        x: 600,
-        y: 1560
+        x: 3240,
+        y: 720
     },
     {
         id: 34838,
         label: "Stephen Ireland",
         title: "Country: " + "Ireland" + "<br>" + "Team: " + "Stoke City",
-        x: 720,
-        y: 1560
+        x: 3360,
+        y: 720
     },
     {
         id: 1144,
         label: "Christofer Heimeroth",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "Borussia Mönchengladbach",
-        x: 840,
-        y: 1560
+        x: 3480,
+        y: 720
     },
     {
         id: 3534,
         label: "Roy Carroll",
         title: "Country: " + "Northern Ireland" + "<br>" + "Team: " + "Olympiacos Piraeus",
-        x: 960,
-        y: 1560
+        x: 3600,
+        y: 720
     },
     {
         id: 19325,
         label: "Andwelé Slory",
         title: "Country: " + "Suriname" + "<br>" + "Team: " + "FC Dordrecht",
-        x: 1080,
-        y: 1560
+        x: 0,
+        y: 840
     },
     {
         id: 15647,
         label: "Vladimir Bystrov",
         title: "Country: " + "UdSSR" + "<br>" + "Team: " + "RU1",
-        x: 1200,
-        y: 1560
+        x: 120,
+        y: 840
     },
     {
         id: 20850,
         label: "Jonas Jensen",
         title: "Country: " + "" + "<br>" + "Team: " + "Esbjerg fB",
-        x: 1320,
-        y: 1560
+        x: 240,
+        y: 840
     },
     {
         id: 332,
         label: "Benjamin Köhler",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "Eintracht Frankfurt",
-        x: 1440,
-        y: 1560
+        x: 360,
+        y: 840
     },
     {
         id: 24609,
         label: "Hrvoje Cale",
         title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "SK Beveren",
-        x: 1560,
-        y: 1560
+        x: 480,
+        y: 840
     },
     {
         id: 9596,
         label: "Oleg Yashchuk",
         title: "Country: " + "UdSSR" + "<br>" + "Team: " + "BE1",
-        x: 1680,
-        y: 1560
+        x: 600,
+        y: 840
     },
     {
         id: 20975,
         label: "Leroy Lita",
         title: "Country: " + "Zaire" + "<br>" + "Team: " + "Swansea City",
-        x: 1800,
-        y: 1560
+        x: 720,
+        y: 840
     },
     {
         id: 34561,
         label: "Johan Djourou",
         title: "Country: " + "Cote d'Ivoire" + "<br>" + "Team: " + "FC Nordsjaelland",
-        x: 1920,
-        y: 1560
+        x: 840,
+        y: 840
     },
     {
         id: 14977,
         label: "Christoph Janker",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "FC Augsburg",
-        x: 120,
-        y: 1680
+        x: 960,
+        y: 840
     },
     {
         id: 34542,
         label: "Marek Suchy",
         title: "Country: " + "CSSR" + "<br>" + "Team: " + "FC Augsburg",
-        x: 240,
-        y: 1680
+        x: 1080,
+        y: 840
     },
     {
         id: 34534,
         label: "Marcel Gecov",
         title: "Country: " + "CSSR" + "<br>" + "Team: " + "KAA Gent",
-        x: 360,
-        y: 1680
+        x: 1200,
+        y: 840
     },
     {
         id: 28775,
         label: "Stanislav Sestak",
         title: "Country: " + "CSSR" + "<br>" + "Team: " + "Bursaspor",
-        x: 480,
-        y: 1680
+        x: 1320,
+        y: 840
     },
     {
         id: 26373,
         label: "Óscar Serrano",
         title: "Country: " + "Spain" + "<br>" + "Team: " + "Levante UD",
-        x: 600,
-        y: 1680
+        x: 1440,
+        y: 840
     },
     {
         id: 3580,
         label: "Aaron Hughes",
         title: "Country: " + "Northern Ireland" + "<br>" + "Team: " + "Heart of Midlothian FC",
-        x: 720,
-        y: 1680
+        x: 1560,
+        y: 840
     },
     {
         id: 25780,
         label: "Ayila Yussuf",
         title: "Country: " + "Nigeria" + "<br>" + "Team: " + "Metalist Kharkiv (- 2016)",
-        x: 840,
-        y: 1680
+        x: 1680,
+        y: 840
     },
     {
         id: 30543,
         label: "Alberto Rodríguez",
         title: "Country: " + "Peru" + "<br>" + "Team: " + "Rio Ave FC",
-        x: 960,
-        y: 1680
+        x: 1800,
+        y: 840
     },
     {
         id: 25101,
         label: "Rúben Amorim",
         title: "Country: " + "Portugal" + "<br>" + "Team: " + "SL Benfica",
-        x: 1080,
-        y: 1680
+        x: 1920,
+        y: 840
     },
     {
         id: 24379,
         label: "Samuel Holmén",
         title: "Country: " + "Sweden" + "<br>" + "Team: " + "Basaksehir FK",
-        x: 1200,
-        y: 1680
+        x: 2040,
+        y: 840
     },
     {
         id: 24316,
         label: "Emiliano Viviano",
         title: "Country: " + "" + "<br>" + "Team: " + "Fatih Karagümrük",
-        x: 1320,
-        y: 1680
+        x: 2160,
+        y: 840
     },
     {
         id: 24226,
         label: "Georgios Bantis",
         title: "Country: " + "Greece" + "<br>" + "Team: " + "PAS Lamia 1964",
-        x: 1440,
-        y: 1680
+        x: 2280,
+        y: 840
     },
     {
         id: 21861,
         label: "Andrea Cossu",
         title: "Country: " + "Italy" + "<br>" + "Team: " + "Cagliari Calcio",
-        x: 1560,
-        y: 1680
+        x: 2400,
+        y: 840
     },
     {
         id: 21770,
         label: "Gennaro Sardo",
         title: "Country: " + "Italy" + "<br>" + "Team: " + "Chievo Verona",
-        x: 1680,
-        y: 1680
+        x: 2520,
+        y: 840
     },
     {
         id: 18952,
         label: "Milos Maric",
         title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "SK Beveren",
-        x: 1800,
-        y: 1680
+        x: 2640,
+        y: 840
     },
     {
         id: 18923,
         label: "Alexandros Vergonis",
         title: "Country: " + "Greece" + "<br>" + "Team: " + "Veria NPS",
-        x: 1920,
-        y: 1680
+        x: 2760,
+        y: 840
     },
     {
         id: 15680,
         label: "Artem Rebrov",
         title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Spartak Moscow",
-        x: 120,
-        y: 1800
+        x: 2880,
+        y: 840
     },
     {
         id: 15596,
         label: "Bogdan Shershun",
         title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Volyn Lutsk",
-        x: 240,
-        y: 1800
+        x: 3000,
+        y: 840
     },
     {
         id: 15380,
         label: "Spartak Gogniev",
         title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Ural Yekaterinburg",
-        x: 360,
-        y: 1800
+        x: 3120,
+        y: 840
     },
     {
         id: 15052,
         label: "Thomas Kahlenberg",
         title: "Country: " + "Denmark" + "<br>" + "Team: " + "Bröndby IF",
-        x: 480,
-        y: 1800
+        x: 3240,
+        y: 840
     },
     {
         id: 14754,
         label: "Sean Higgins",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "St. Johnstone FC",
-        x: 600,
-        y: 1800
+        x: 3360,
+        y: 840
     },
     {
         id: 12840,
         label: "Steven Milne",
         title: "Country: " + "Scotland" + "<br>" + "Team: " + "Dundee FC",
-        x: 720,
-        y: 1800
+        x: 3480,
+        y: 840
     },
     {
         id: 12124,
         label: "Glenn Whelan",
         title: "Country: " + "Ireland" + "<br>" + "Team: " + "Heart of Midlothian FC",
-        x: 840,
-        y: 1800
+        x: 3600,
+        y: 840
     },
     {
         id: 10917,
         label: "Jan Zimmermann",
         title: "Country: " + "Germany" + "<br>" + "Team: " + "Eintracht Frankfurt",
-        x: 960,
-        y: 1800
+        x: 0,
+        y: 960
     },
     {
         id: 8245,
         label: "Lance Davids",
         title: "Country: " + "South Africa" + "<br>" + "Team: " + "BE1",
-        x: 1080,
-        y: 1800
+        x: 120,
+        y: 960
     },
     {
         id: 6320,
         label: "Danko Lazovic",
         title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "FK Rostov",
-        x: 1200,
-        y: 1800
+        x: 240,
+        y: 960
     },
     {
         id: 4276,
         label: "Carlos Tevez",
         title: "Country: " + "Argentina" + "<br>" + "Team: " + "Juventus FC",
-        x: 1320,
-        y: 1800
+        x: 360,
+        y: 960
     },
     {
         id: 4267,
         label: "Tim Howard",
         title: "Country: " + "United States" + "<br>" + "Team: " + "GB1",
-        x: 1440,
-        y: 1800
+        x: 480,
+        y: 960
     },
     {
         id: 14555,
         label: "Scott Carson",
         title: "Country: " + "England" + "<br>" + "Team: " + "Manchester City",
-        x: 1560,
-        y: 1800
+        x: 600,
+        y: 960
     },
     {
         id: 3788,
         label: "Matthew Etherington",
         title: "Country: " + "England" + "<br>" + "Team: " + "Stoke City",
-        x: 1680,
-        y: 1800
+        x: 720,
+        y: 960
     },
     {
         id: 3916,
         label: "Péguy Luyindula",
         title: "Country: " + "Zaire" + "<br>" + "Team: " + "Paris Saint-Germain",
-        x: 1800,
-        y: 1800
+        x: 840,
+        y: 960
     },
     {
         id: 3411,
         label: "Pablo Aimar",
         title: "Country: " + "Argentina" + "<br>" + "Team: " + "SL Benfica",
+        x: 960,
+        y: 960
+    },
+    {
+        id: 3276,
+        label: "Shola Ameobi",
+        title: "Country: " + "Nigeria" + "<br>" + "Team: " + "Crystal Palace",
+        x: 1080,
+        y: 960
+    },
+    {
+        id: 3115,
+        label: "David Bellion",
+        title: "Country: " + "France" + "<br>" + "Team: " + "FC Girondins Bordeaux",
+        x: 1200,
+        y: 960
+    },
+    {
+        id: 2899,
+        label: "Hervé Tum",
+        title: "Country: " + "Cameroon" + "<br>" + "Team: " + "Elazigspor",
+        x: 1320,
+        y: 960
+    },
+    {
+        id: 2623,
+        label: "Piotr Trochowski",
+        title: "Country: " + "Poland" + "<br>" + "Team: " + "FC Augsburg",
+        x: 1440,
+        y: 960
+    },
+    {
+        id: 690,
+        label: "Ivan Klasnic",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "1.FSV Mainz 05",
+        x: 1560,
+        y: 960
+    },
+    {
+        id: 34593,
+        label: "Serdar Tasci",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Basaksehir FK",
+        x: 1680,
+        y: 960
+    },
+    {
+        id: 22636,
+        label: "Benoît Lesoimier",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Stade Brestois 29",
+        x: 1800,
+        y: 960
+    },
+    {
+        id: 9493,
+        label: "Mark Fotheringham",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Ross County FC",
+        x: 1920,
+        y: 960
+    },
+    {
+        id: 16474,
+        label: "Alexander Baumjohann",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Hertha BSC",
+        x: 2040,
+        y: 960
+    },
+    {
+        id: 34322,
+        label: "Sokratis Papastathopoulos",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Olympiacos Piraeus",
+        x: 2160,
+        y: 960
+    },
+    {
+        id: 28022,
+        label: "Alessandro Lucarelli",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Parma Calcio 1913",
+        x: 2280,
+        y: 960
+    },
+    {
+        id: 13490,
+        label: "Chris Turner",
+        title: "Country: " + "Northern Ireland" + "<br>" + "Team: " + "Hamilton Academical FC",
+        x: 2400,
+        y: 960
+    },
+    {
+        id: 21369,
+        label: "Arda Turan",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Galatasaray",
+        x: 2520,
+        y: 960
+    },
+    {
+        id: 31451,
+        label: "Torsten Oehrl",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Eintracht Braunschweig",
+        x: 2640,
+        y: 960
+    },
+    {
+        id: 3195,
+        label: "Jermaine Pennant",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Stoke City",
+        x: 2760,
+        y: 960
+    },
+    {
+        id: 29220,
+        label: "Dorge Kouemaha",
+        title: "Country: " + "Cameroon" + "<br>" + "Team: " + "Lierse SK (- 2018)",
+        x: 2880,
+        y: 960
+    },
+    {
+        id: 7110,
+        label: "Ilker Avcibay",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Kasimpasa",
+        x: 3000,
+        y: 960
+    },
+    {
+        id: 17693,
+        label: "Sébastien Roudet",
+        title: "Country: " + "France" + "<br>" + "Team: " + "FC Sochaux-Montbéliard",
+        x: 3120,
+        y: 960
+    },
+    {
+        id: 15761,
+        label: "Marc Bertrán",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "CA Osasuna",
+        x: 3240,
+        y: 960
+    },
+    {
+        id: 34284,
+        label: "Dimitrios Kyriakidis",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Panetolikos GFS",
+        x: 3360,
+        y: 960
+    },
+    {
+        id: 5474,
+        label: "Zoumana Camara",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Paris Saint-Germain",
+        x: 3480,
+        y: 960
+    },
+    {
+        id: 16891,
+        label: "Paolo Castellini",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "US Livorno 1915",
+        x: 3600,
+        y: 960
+    },
+    {
+        id: 5586,
+        label: "Anthar Yahia",
+        title: "Country: " + "France" + "<br>" + "Team: " + "AO Platanias",
+        x: 0,
+        y: 1080
+    },
+    {
+        id: 24175,
+        label: "Pedro Taborda",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "Moreirense FC",
+        x: 120,
+        y: 1080
+    },
+    {
+        id: 16600,
+        label: "Georgios Makris",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Iraklis Thessaloniki",
+        x: 240,
+        y: 1080
+    },
+    {
+        id: 20622,
+        label: "Arnold Mvuemba",
+        title: "Country: " + "France" + "<br>" + "Team: " + "FC Lorient",
+        x: 360,
+        y: 1080
+    },
+    {
+        id: 3059,
+        label: "Ekrem Dag",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Gaziantepspor (- 2020)",
+        x: 480,
+        y: 1080
+    },
+    {
+        id: 29213,
+        label: "Andreas Granqvist",
+        title: "Country: " + "Sweden" + "<br>" + "Team: " + "FK Krasnodar",
+        x: 600,
+        y: 1080
+    },
+    {
+        id: 24026,
+        label: "Kostyantyn Kravchenko",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "PFK Stal Kamyanske (-2018)",
+        x: 720,
+        y: 1080
+    },
+    {
+        id: 16873,
+        label: "Claudio Terzi",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Spezia Calcio",
+        x: 840,
+        y: 1080
+    },
+    {
+        id: 21905,
+        label: "Valon Behrami",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Genoa CFC",
+        x: 960,
+        y: 1080
+    },
+    {
+        id: 21696,
+        label: "Daniele Portanova",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Genoa CFC",
+        x: 1080,
+        y: 1080
+    },
+    {
+        id: 20852,
+        label: "Jesper Jörgensen",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "Esbjerg fB",
+        x: 1200,
+        y: 1080
+    },
+    {
+        id: 13168,
+        label: "Raúl Meireles",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "Fenerbahce",
+        x: 1320,
+        y: 1080
+    },
+    {
+        id: 12769,
+        label: "Chris Clark",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Aberdeen FC",
+        x: 1440,
+        y: 1080
+    },
+    {
+        id: 30853,
+        label: "Mariano Izco",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "FC Crotone",
+        x: 1560,
+        y: 1080
+    },
+    {
+        id: 7669,
+        label: "Leo Franco",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "Real Zaragoza",
+        x: 1680,
+        y: 1080
+    },
+    {
+        id: 6033,
+        label: "Francesco Lodi",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Udinese Calcio",
+        x: 1800,
+        y: 1080
+    },
+    {
+        id: 15590,
+        label: "Ruslan Nakhushev",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Mordovia Saransk (-2020)",
+        x: 1920,
+        y: 1080
+    },
+    {
+        id: 31316,
+        label: "Silvestre Varela",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "B SAD",
+        x: 2040,
+        y: 1080
+    },
+    {
+        id: 28245,
+        label: "Kenwyne Jones",
+        title: "Country: " + "Trinidad and Tobago" + "<br>" + "Team: " + "Cardiff City",
+        x: 2160,
+        y: 1080
+    },
+    {
+        id: 29187,
+        label: "Pedro Ríos",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Levante UD",
+        x: 2280,
+        y: 1080
+    },
+    {
+        id: 31131,
+        label: "Timothy Derijck",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "SV Zulte Waregem",
+        x: 2400,
+        y: 1080
+    },
+    {
+        id: 17130,
+        label: "Michele Pazienza",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Bologna FC 1909",
+        x: 2520,
+        y: 1080
+    },
+    {
+        id: 29311,
+        label: "Mounir Obbadi",
+        title: "Country: " + "France" + "<br>" + "Team: " + "OGC Nice",
+        x: 2640,
+        y: 1080
+    },
+    {
+        id: 24912,
+        label: "Aleksey Kozlov",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "FC Pari Nizhniy Novgorod",
+        x: 2760,
+        y: 1080
+    },
+    {
+        id: 10139,
+        label: "Güven Varol",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Mersin Talimyurdu SK",
+        x: 2880,
+        y: 1080
+    },
+    {
+        id: 23284,
+        label: "Manuel Pasqual",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "FC Empoli",
+        x: 3000,
+        y: 1080
+    },
+    {
+        id: 12751,
+        label: "Neil McGregor",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Dundee FC",
+        x: 3120,
+        y: 1080
+    },
+    {
+        id: 33706,
+        label: "Nani",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "Adana Demirspor",
+        x: 3240,
+        y: 1080
+    },
+    {
+        id: 30584,
+        label: "Juan Manuel Vargas",
+        title: "Country: " + "Peru" + "<br>" + "Team: " + "Real Betis Balompié",
+        x: 3360,
+        y: 1080
+    },
+    {
+        id: 25550,
+        label: "Bora Körk",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Akhisarspor",
+        x: 3480,
+        y: 1080
+    },
+    {
+        id: 14937,
+        label: "Stipe Pletikosa",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Deportivo de La Coruña",
+        x: 3600,
+        y: 1080
+    },
+    {
+        id: 14951,
+        label: "Stéphane Darbion",
+        title: "Country: " + "France" + "<br>" + "Team: " + "ESTAC Troyes",
+        x: 0,
+        y: 1200
+    },
+    {
+        id: 29642,
+        label: "Sertan Vardar",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Akhisarspor",
+        x: 120,
+        y: 1200
+    },
+    {
+        id: 31208,
+        label: "Éloge Enza-Yamissi",
+        title: "Country: " + "Central African Republic" + "<br>" + "Team: " + "Valenciennes FC",
+        x: 240,
+        y: 1200
+    },
+    {
+        id: 28436,
+        label: "Ajdin Mahmutovic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Panionios Athens",
+        x: 360,
+        y: 1200
+    },
+    {
+        id: 3666,
+        label: "Jason Roberts",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Reading FC",
+        x: 480,
+        y: 1200
+    },
+    {
+        id: 25942,
+        label: "Cristian Sapunaru",
+        title: "Country: " + "Romania" + "<br>" + "Team: " + "Kayserispor",
+        x: 600,
+        y: 1200
+    },
+    {
+        id: 8060,
+        label: "Carl Medjani",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Sivasspor",
+        x: 720,
+        y: 1200
+    },
+    {
+        id: 14678,
+        label: "Ryan Stevenson",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Partick Thistle FC",
+        x: 840,
+        y: 1200
+    },
+    {
+        id: 32617,
+        label: "Micah Richards",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Aston Villa",
+        x: 960,
+        y: 1200
+    },
+    {
+        id: 28953,
+        label: "Liam Fontaine",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Dundee FC",
+        x: 1080,
+        y: 1200
+    },
+    {
+        id: 31027,
+        label: "Filipe Gonçalves",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "CD Nacional",
+        x: 1200,
+        y: 1200
+    },
+    {
+        id: 6270,
+        label: "Yohann Pelé",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Olympique Marseille",
+        x: 1320,
+        y: 1200
+    },
+    {
+        id: 34672,
+        label: "Joey O'Brien",
+        title: "Country: " + "Ireland" + "<br>" + "Team: " + "West Ham United",
+        x: 1440,
+        y: 1200
+    },
+    {
+        id: 9707,
+        label: "Konstantinos Mendrinos",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Apollon Smyrnis",
+        x: 1560,
+        y: 1200
+    },
+    {
+        id: 24305,
+        label: "Giuseppe De Feudis",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Cesena FC",
+        x: 1680,
+        y: 1200
+    },
+    {
+        id: 23086,
+        label: "Gunnar Nielsen",
+        title: "Country: " + "Faroe Islands" + "<br>" + "Team: " + "Motherwell FC",
+        x: 1800,
+        y: 1200
+    },
+    {
+        id: 29065,
+        label: "Abel Gómez",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Córdoba CF",
+        x: 1920,
+        y: 1200
+    },
+    {
+        id: 32207,
+        label: "Marcel Heller",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "FC Augsburg",
+        x: 2040,
+        y: 1200
+    },
+    {
+        id: 15220,
+        label: "Artur Boruc",
+        title: "Country: " + "Poland" + "<br>" + "Team: " + "AFC Bournemouth",
+        x: 2160,
+        y: 1200
+    },
+    {
+        id: 5308,
+        label: "Cédric Carrasso",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Galatasaray",
+        x: 2280,
+        y: 1200
+    },
+    {
+        id: 17441,
+        label: "Julien Sablé",
+        title: "Country: " + "France" + "<br>" + "Team: " + "SC Bastia",
+        x: 2400,
+        y: 1200
+    },
+    {
+        id: 11765,
+        label: "Aytac Sulu",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "SV Darmstadt 98",
+        x: 2520,
+        y: 1200
+    },
+    {
+        id: 21245,
+        label: "Filip Holosko",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "Caykur Rizespor",
+        x: 2640,
+        y: 1200
+    },
+    {
+        id: 34553,
+        label: "Ivan Vargic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "SS Lazio",
+        x: 2760,
+        y: 1200
+    },
+    {
+        id: 33793,
+        label: "Gökhan Gönül",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Caykur Rizespor",
+        x: 2880,
+        y: 1200
+    },
+    {
+        id: 33707,
+        label: "Siebe Blondelle",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "KAS Eupen",
+        x: 3000,
+        y: 1200
+    },
+    {
+        id: 33027,
+        label: "Tim Krul",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Luton Town",
+        x: 3120,
+        y: 1200
+    },
+    {
+        id: 31883,
+        label: "Hogan Ephraim",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Queens Park Rangers",
+        x: 3240,
+        y: 1200
+    },
+    {
+        id: 30290,
+        label: "Kenneth Vermeer",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "PEC Zwolle",
+        x: 3360,
+        y: 1200
+    },
+    {
+        id: 29351,
+        label: "Bocundji Ca",
+        title: "Country: " + "Guinea-Bissau" + "<br>" + "Team: " + "Stade Reims",
+        x: 3480,
+        y: 1200
+    },
+    {
+        id: 28964,
+        label: "Saulius Mikoliunas",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "FK Sevastopol (- 2014)",
+        x: 3600,
+        y: 1200
+    },
+    {
+        id: 28818,
+        label: "Luca Belingheri",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "US Livorno 1915",
+        x: 0,
+        y: 1320
+    },
+    {
+        id: 26562,
+        label: "Filippos Darlas",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Panetolikos GFS",
+        x: 120,
+        y: 1320
+    },
+    {
+        id: 26082,
+        label: "Dmitriy Yatchenko",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Enisey Krasnoyarsk",
+        x: 240,
+        y: 1320
+    },
+    {
+        id: 25823,
+        label: "Vitaliy Denisov",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Rubin Kazan",
+        x: 360,
+        y: 1320
+    },
+    {
+        id: 25236,
+        label: "Paulo Lopes",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "SL Benfica",
+        x: 480,
+        y: 1320
+    },
+    {
+        id: 24237,
+        label: "Martin Jakubko",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "Amkar Perm",
+        x: 600,
+        y: 1320
+    },
+    {
+        id: 23955,
+        label: "Joris Marveaux",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Montpellier HSC",
+        x: 720,
+        y: 1320
+    },
+    {
+        id: 23914,
+        label: "Lassana Diarra",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Paris Saint-Germain",
+        x: 840,
+        y: 1320
+    },
+    {
+        id: 22139,
+        label: "Abdoulay Konko",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Atalanta BC",
+        x: 960,
+        y: 1320
+    },
+    {
+        id: 21859,
+        label: "Mattia Cassani",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "UC Sampdoria",
+        x: 1080,
+        y: 1320
+    },
+    {
+        id: 19138,
+        label: "Marco Zoro",
+        title: "Country: " + "Cote d'Ivoire" + "<br>" + "Team: " + "OFI Crete FC",
+        x: 1200,
+        y: 1320
+    },
+    {
+        id: 15250,
+        label: "Njogu Demba-Nyrén",
+        title: "Country: " + "The Gambia" + "<br>" + "Team: " + "Esbjerg fB",
+        x: 1320,
+        y: 1320
+    },
+    {
+        id: 18502,
+        label: "Tim Dreesen",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "Ross County FC",
+        x: 1440,
+        y: 1320
+    },
+    {
+        id: 7825,
+        label: "Pepe Reina",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Villarreal CF",
+        x: 1560,
+        y: 1320
+    },
+    {
+        id: 18429,
+        label: "Denis Epstein",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "PAS Lamia 1964",
+        x: 1680,
+        y: 1320
+    },
+    {
+        id: 15885,
+        label: "Kostadin Hazurov",
+        title: "Country: " + "Bulgaria" + "<br>" + "Team: " + "Lierse SK (- 2018)",
+        x: 1800,
+        y: 1320
+    },
+    {
+        id: 22814,
+        label: "Alexandre Alphonse",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Stade Brestois 29",
+        x: 1920,
+        y: 1320
+    },
+    {
+        id: 14259,
+        label: "Antolín Alcaraz",
+        title: "Country: " + "Paraguay" + "<br>" + "Team: " + "UD Las Palmas",
+        x: 2040,
+        y: 1320
+    },
+    {
+        id: 13493,
+        label: "Lionel Ainsworth",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Motherwell FC",
+        x: 2160,
+        y: 1320
+    },
+    {
+        id: 12864,
+        label: "Jaroslav Drobny",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "Fortuna Düsseldorf",
+        x: 2280,
+        y: 1320
+    },
+    {
+        id: 12807,
+        label: "Jason Scotland",
+        title: "Country: " + "Trinidad and Tobago" + "<br>" + "Team: " + "Hamilton Academical FC",
+        x: 2400,
+        y: 1320
+    },
+    {
+        id: 9604,
+        label: "Sherjill MacDonald",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "KVC Westerlo",
+        x: 2520,
+        y: 1320
+    },
+    {
+        id: 8176,
+        label: "Oier Olazábal",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "RCD Espanyol Barcelona",
+        x: 2640,
+        y: 1320
+    },
+    {
+        id: 7828,
+        label: "Sergio Ballesteros",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Levante UD",
+        x: 2760,
+        y: 1320
+    },
+    {
+        id: 7782,
+        label: "Duda",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "Málaga CF",
+        x: 2880,
+        y: 1320
+    },
+    {
+        id: 7337,
+        label: "Alan Tate",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Swansea City",
+        x: 3000,
+        y: 1320
+    },
+    {
+        id: 7043,
+        label: "Semih Sentürk",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Basaksehir FK",
+        x: 3120,
+        y: 1320
+    },
+    {
+        id: 6645,
+        label: "Tranquillo Barnetta",
+        title: "Country: " + "Switzerland" + "<br>" + "Team: " + "FC Schalke 04",
+        x: 3240,
+        y: 1320
+    },
+    {
+        id: 5622,
+        label: "Guillaume Lacour",
+        title: "Country: " + "France" + "<br>" + "Team: " + "ESTAC Troyes",
+        x: 3360,
+        y: 1320
+    },
+    {
+        id: 4314,
+        label: "Cristian Chivu",
+        title: "Country: " + "Romania" + "<br>" + "Team: " + "Inter Milan",
+        x: 3480,
+        y: 1320
+    },
+    {
+        id: 3698,
+        label: "Anton Ferdinand",
+        title: "Country: " + "England" + "<br>" + "Team: " + "St. Mirren FC",
+        x: 3600,
+        y: 1320
+    },
+    {
+        id: 3447,
+        label: "Ragnvald Soma",
+        title: "Country: " + "Norway" + "<br>" + "Team: " + "FC Nordsjaelland",
+        x: 0,
+        y: 1440
+    },
+    {
+        id: 3391,
+        label: "Markus Neumayr",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Kasimpasa",
+        x: 120,
+        y: 1440
+    },
+    {
+        id: 10,
+        label: "Miroslav Klose",
+        title: "Country: " + "Poland" + "<br>" + "Team: " + "SS Lazio",
+        x: 240,
+        y: 1440
+    },
+    {
+        id: 24038,
+        label: "Eghishe Melikyan",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Goverla Uzhgorod (- 2016)",
+        x: 360,
+        y: 1440
+    },
+    {
+        id: 5639,
+        label: "José Saez",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "SM Caen",
+        x: 480,
+        y: 1440
+    },
+    {
+        id: 26934,
+        label: "David Bicik",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "Mersin Talimyurdu SK",
+        x: 600,
+        y: 1440
+    },
+    {
+        id: 7723,
+        label: "Antonio López",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "RCD Mallorca",
+        x: 720,
+        y: 1440
+    },
+    {
+        id: 16101,
+        label: "Atiba Hutchinson",
+        title: "Country: " + "" + "<br>" + "Team: " + "TR1",
+        x: 840,
+        y: 1440
+    },
+    {
+        id: 7633,
+        label: "Pablo Orbaiz",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Rubin Kazan",
+        x: 960,
+        y: 1440
+    },
+    {
+        id: 892,
+        label: "Heinz Müller",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "1.FSV Mainz 05",
+        x: 1080,
+        y: 1440
+    },
+    {
+        id: 30070,
+        label: "Niko Bungert",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "1.FSV Mainz 05",
+        x: 1200,
+        y: 1440
+    },
+    {
+        id: 23443,
+        label: "Ondrej Mazuch",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "Dnipro Dnipropetrovsk (-2020)",
+        x: 1320,
+        y: 1440
+    },
+    {
+        id: 29354,
+        label: "Ivan Sproule",
+        title: "Country: " + "Northern Ireland" + "<br>" + "Team: " + "Ross County FC",
+        x: 1440,
+        y: 1440
+    },
+    {
+        id: 14128,
+        label: "Luís Olim",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "CS Marítimo",
+        x: 1560,
+        y: 1440
+    },
+    {
+        id: 6076,
+        label: "David Di Michele",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Chievo Verona",
+        x: 1680,
+        y: 1440
+    },
+    {
+        id: 15645,
+        label: "Maksim Astafjev",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "RU1",
+        x: 1800,
+        y: 1440
+    },
+    {
+        id: 17129,
+        label: "Sulley Muntari",
+        title: "Country: " + "Ghana" + "<br>" + "Team: " + "Deportivo de La Coruña",
+        x: 1920,
+        y: 1440
+    },
+    {
+        id: 14695,
+        label: "Michael Fraser",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Ross County FC",
+        x: 2040,
+        y: 1440
+    },
+    {
+        id: 22285,
+        label: "Maurizio Pugliesi",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "FC Empoli",
+        x: 2160,
+        y: 1440
+    },
+    {
+        id: 29594,
+        label: "Graziano Pellè",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Parma Calcio 1913",
+        x: 2280,
+        y: 1440
+    },
+    {
+        id: 15055,
+        label: "Martin Retov",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "AC Horsens",
+        x: 2400,
+        y: 1440
+    },
+    {
+        id: 18912,
+        label: "Yoann Gourcuff",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Dijon FCO",
+        x: 2520,
+        y: 1440
+    },
+    {
+        id: 22931,
+        label: "Kris Stadsgaard",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "FC Copenhagen",
+        x: 2640,
+        y: 1440
+    },
+    {
+        id: 18949,
+        label: "Mémé Tchité",
+        title: "Country: " + "Burundi" + "<br>" + "Team: " + "Sint-Truidense VV",
+        x: 2760,
+        y: 1440
+    },
+    {
+        id: 17872,
+        label: "Pablo Mouche",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "Kayserispor",
+        x: 2880,
+        y: 1440
+    },
+    {
+        id: 29903,
+        label: "Benjamin Kirsten",
+        title: "Country: " + "East Germany (GDR)" + "<br>" + "Team: " + "NEC Nijmegen",
+        x: 3000,
+        y: 1440
+    },
+    {
+        id: 6322,
+        label: "Patrick Helmes",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "1.FC Köln",
+        x: 3120,
+        y: 1440
+    },
+    {
+        id: 28186,
+        label: "Jan Lastuvka",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "Dnipro Dnipropetrovsk (-2020)",
+        x: 3240,
+        y: 1440
+    },
+    {
+        id: 33549,
+        label: "Marco Soares",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "FC Arouca",
+        x: 3360,
+        y: 1440
+    },
+    {
+        id: 26569,
+        label: "Achilleas Sarakatsanos",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Panthrakikos Komotini",
+        x: 3480,
+        y: 1440
+    },
+    {
+        id: 13831,
+        label: "Marius Niculae",
+        title: "Country: " + "Romania" + "<br>" + "Team: " + "Goverla Uzhgorod (- 2016)",
+        x: 3600,
+        y: 1440
+    },
+    {
+        id: 34409,
+        label: "Joe Ledley",
+        title: "Country: " + "Wales" + "<br>" + "Team: " + "Crystal Palace",
+        x: 0,
+        y: 1560
+    },
+    {
+        id: 30757,
+        label: "Renato Civelli",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "LOSC Lille",
+        x: 120,
+        y: 1560
+    },
+    {
+        id: 25508,
+        label: "Salvatore Sirigu",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "OGC Nice",
+        x: 240,
+        y: 1560
+    },
+    {
+        id: 22887,
+        label: "Anders Kure",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "FC Vestsjaelland",
+        x: 360,
+        y: 1560
+    },
+    {
+        id: 17313,
+        label: "Henrico Drost",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "RKC Waalwijk",
+        x: 480,
+        y: 1560
+    },
+    {
+        id: 3719,
+        label: "Peter Enckelman",
+        title: "Country: " + "Finland" + "<br>" + "Team: " + "Heart of Midlothian FC",
+        x: 600,
+        y: 1560
+    },
+    {
+        id: 6267,
+        label: "Fabrice Pancrate",
+        title: "Country: " + "France" + "<br>" + "Team: " + "FC Nantes",
+        x: 720,
+        y: 1560
+    },
+    {
+        id: 15804,
+        label: "Andoni Iraola",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Athletic Bilbao",
+        x: 840,
+        y: 1560
+    },
+    {
+        id: 22995,
+        label: "Danny Olsen",
+        title: "Country: " + "" + "<br>" + "Team: " + "Hobro IK",
+        x: 960,
+        y: 1560
+    },
+    {
+        id: 7133,
+        label: "Luciano Figueroa",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "Panathinaikos Athens",
+        x: 1080,
+        y: 1560
+    },
+    {
+        id: 32476,
+        label: "Fabian Stoller",
+        title: "Country: " + "Switzerland" + "<br>" + "Team: " + "AO Platanias",
+        x: 1200,
+        y: 1560
+    },
+    {
+        id: 8073,
+        label: "Marc Janko",
+        title: "Country: " + "Austria" + "<br>" + "Team: " + "Trabzonspor",
+        x: 1320,
+        y: 1560
+    },
+    {
+        id: 23201,
+        label: "Anders Due",
+        title: "Country: " + "" + "<br>" + "Team: " + "FC Vestsjaelland",
+        x: 1440,
+        y: 1560
+    },
+    {
+        id: 19446,
+        label: "Riccardo Montolivo",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "AC Milan",
+        x: 1560,
+        y: 1560
+    },
+    {
+        id: 15881,
+        label: "Sergey Kornilenko",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Krylya Sovetov Samara",
+        x: 1680,
+        y: 1560
+    },
+    {
+        id: 15747,
+        label: "Sergei Pareiko",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Volga Nizhniy Novgorod (- 2016)",
+        x: 1800,
+        y: 1560
+    },
+    {
+        id: 15461,
+        label: "Jaime Gavilán",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "AO Platanias",
+        x: 1920,
+        y: 1560
+    },
+    {
+        id: 30834,
+        label: "Pablo Vitti",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "Veria NPS",
+        x: 2040,
+        y: 1560
+    },
+    {
+        id: 15386,
+        label: "Sören Berg",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "FC Vestsjaelland",
+        x: 2160,
+        y: 1560
+    },
+    {
+        id: 28328,
+        label: "Julien Féret",
+        title: "Country: " + "France" + "<br>" + "Team: " + "SM Caen",
+        x: 2280,
+        y: 1560
+    },
+    {
+        id: 15362,
+        label: "Vasiliy Berezutski",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "CSKA Moscow",
+        x: 2400,
+        y: 1560
+    },
+    {
+        id: 6301,
+        label: "Andreas Lasnik",
+        title: "Country: " + "Austria" + "<br>" + "Team: " + "Panionios Athens",
+        x: 2520,
+        y: 1560
+    },
+    {
+        id: 1335,
+        label: "Steven Cherundolo",
+        title: "Country: " + "United States" + "<br>" + "Team: " + "L1",
+        x: 2640,
+        y: 1560
+    },
+    {
+        id: 28947,
+        label: "Gonzalo Castro",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Arminia Bielefeld",
+        x: 2760,
+        y: 1560
+    },
+    {
+        id: 23005,
+        label: "Nabil Aslam",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "AC Horsens",
+        x: 2880,
+        y: 1560
+    },
+    {
+        id: 22568,
+        label: "Juanlu",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "AEL Kalloni",
+        x: 3000,
+        y: 1560
+    },
+    {
+        id: 34211,
+        label: "Cristiano Del Grosso",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Atalanta BC",
+        x: 3120,
+        y: 1560
+    },
+    {
+        id: 24155,
+        label: "Olivier Occéan",
+        title: "Country: " + "Canada" + "<br>" + "Team: " + "L1",
+        x: 3240,
+        y: 1560
+    },
+    {
+        id: 5957,
+        label: "Alberto Aquilani",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "UD Las Palmas",
+        x: 3360,
+        y: 1560
+    },
+    {
+        id: 6824,
+        label: "Charles Takyi",
+        title: "Country: " + "Ghana" + "<br>" + "Team: " + "AC Horsens",
+        x: 3480,
+        y: 1560
+    },
+    {
+        id: 16595,
+        label: "Juan Valera",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Getafe CF",
+        x: 3600,
+        y: 1560
+    },
+    {
+        id: 10504,
+        label: "Mehmet Akgün",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Kayseri Erciyesspor",
+        x: 0,
+        y: 1680
+    },
+    {
+        id: 4072,
+        label: "Peter Crouch",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Burnley FC",
+        x: 120,
+        y: 1680
+    },
+    {
+        id: 13354,
+        label: "Wim Raymaekers",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "Oud-Heverlee Leuven",
+        x: 240,
+        y: 1680
+    },
+    {
+        id: 28306,
+        label: "Gennaro Bracigliano",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Olympique Marseille",
+        x: 360,
+        y: 1680
+    },
+    {
+        id: 21338,
+        label: "Sölvi Ottesen",
+        title: "Country: " + "Iceland" + "<br>" + "Team: " + "Ural Yekaterinburg",
+        x: 480,
+        y: 1680
+    },
+    {
+        id: 22499,
+        label: "Kristian Bach Bak",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "FC Midtjylland",
+        x: 600,
+        y: 1680
+    },
+    {
+        id: 26579,
+        label: "Georgios Chatzizisis",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Apollon Smyrnis",
+        x: 720,
+        y: 1680
+    },
+    {
+        id: 27116,
+        label: "Benjamin Psaume",
+        title: "Country: " + "France" + "<br>" + "Team: " + "ESTAC Troyes",
+        x: 840,
+        y: 1680
+    },
+    {
+        id: 22487,
+        label: "Leon Jessen",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "Esbjerg fB",
+        x: 960,
+        y: 1680
+    },
+    {
+        id: 6986,
+        label: "Thibault Giresse",
+        title: "Country: " + "France" + "<br>" + "Team: " + "EA Guingamp",
+        x: 1080,
+        y: 1680
+    },
+    {
+        id: 3851,
+        label: "Jan-Ingwer Callsen-Bracker",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "FC Augsburg",
+        x: 1200,
+        y: 1680
+    },
+    {
+        id: 33046,
+        label: "Cabral",
+        title: "Country: " + "Cape Verde" + "<br>" + "Team: " + "Sunderland AFC",
+        x: 1320,
+        y: 1680
+    },
+    {
+        id: 15166,
+        label: "Liam Rosenior",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Brighton & Hove Albion",
+        x: 1440,
+        y: 1680
+    },
+    {
+        id: 12804,
+        label: "Barry Robson",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Aberdeen FC",
+        x: 1560,
+        y: 1680
+    },
+    {
+        id: 34198,
+        label: "Andrea Masiello",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Genoa CFC",
+        x: 1680,
+        y: 1680
+    },
+    {
+        id: 12384,
+        label: "Alexander Tettey",
+        title: "Country: " + "Ghana" + "<br>" + "Team: " + "Norwich City",
+        x: 1800,
+        y: 1680
+    },
+    {
+        id: 29061,
+        label: "Javier Baraja",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Real Valladolid CF",
+        x: 1920,
+        y: 1680
+    },
+    {
+        id: 34283,
+        label: "Lazaros Christodoulopoulos",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Aris Thessaloniki",
+        x: 2040,
+        y: 1680
+    },
+    {
+        id: 33862,
+        label: "Sinan Bolat",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "KVC Westerlo",
+        x: 2160,
+        y: 1680
+    },
+    {
+        id: 19182,
+        label: "Salvatore Aronica",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "SSC Napoli",
+        x: 2280,
+        y: 1680
+    },
+    {
+        id: 26348,
+        label: "Leonid Kovel",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Karpaty Lviv (-2021)",
+        x: 2400,
+        y: 1680
+    },
+    {
+        id: 14523,
+        label: "Konstantinos Barbas",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Veria NPS",
+        x: 2520,
+        y: 1680
+    },
+    {
+        id: 992,
+        label: "Christian Weber",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Fortuna Düsseldorf",
+        x: 2640,
+        y: 1680
+    },
+    {
+        id: 24523,
+        label: "Oguzhan Türk",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Gaziantepspor (- 2020)",
+        x: 2760,
+        y: 1680
+    },
+    {
+        id: 13061,
+        label: "Carl Hoefkens",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "KV Oostende",
+        x: 2880,
+        y: 1680
+    },
+    {
+        id: 14270,
+        label: "André Bikey",
+        title: "Country: " + "Cameroon" + "<br>" + "Team: " + "Panetolikos GFS",
+        x: 3000,
+        y: 1680
+    },
+    {
+        id: 7602,
+        label: "Thiago Motta",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Paris Saint-Germain",
+        x: 3120,
+        y: 1680
+    },
+    {
+        id: 13431,
+        label: "Nathan Tyson",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Kilmarnock FC",
+        x: 3240,
+        y: 1680
+    },
+    {
+        id: 10598,
+        label: "Mehdi Taouil",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Sivasspor",
+        x: 3360,
+        y: 1680
+    },
+    {
+        id: 7449,
+        label: "Gaël Clichy",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Basaksehir FK",
+        x: 3480,
+        y: 1680
+    },
+    {
+        id: 23960,
+        label: "Jérémy Morel",
+        title: "Country: " + "France" + "<br>" + "Team: " + "FC Lorient",
+        x: 3600,
+        y: 1680
+    },
+    {
+        id: 16520,
+        label: "Marco Russ",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Eintracht Frankfurt",
+        x: 0,
+        y: 1800
+    },
+    {
+        id: 3131,
+        label: "Kevin Phillips",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Crystal Palace",
+        x: 120,
+        y: 1800
+    },
+    {
+        id: 19638,
+        label: "Christos Lisgaras",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Apollon Smyrnis",
+        x: 240,
+        y: 1800
+    },
+    {
+        id: 4188,
+        label: "Ricardo Quaresma",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "Vitória Guimarães SC",
+        x: 360,
+        y: 1800
+    },
+    {
+        id: 17212,
+        label: "Paraskevas Andralas",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Panionios Athens",
+        x: 480,
+        y: 1800
+    },
+    {
+        id: 2857,
+        label: "Eldin Jakupovic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Everton FC",
+        x: 600,
+        y: 1800
+    },
+    {
+        id: 34944,
+        label: "Konstantinos Mitroglou",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Aris Thessaloniki",
+        x: 720,
+        y: 1800
+    },
+    {
+        id: 34941,
+        label: "Alexandru Tudose",
+        title: "Country: " + "Romania" + "<br>" + "Team: " + "Goverla Uzhgorod (- 2016)",
+        x: 840,
+        y: 1800
+    },
+    {
+        id: 18828,
+        label: "Milos Krasic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Fenerbahce",
+        x: 960,
+        y: 1800
+    },
+    {
+        id: 34237,
+        label: "Christian Grindheim",
+        title: "Country: " + "Norway" + "<br>" + "Team: " + "FC Copenhagen",
+        x: 1080,
+        y: 1800
+    },
+    {
+        id: 32387,
+        label: "Baptiste Ulens",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "KV Kortrijk",
+        x: 1200,
+        y: 1800
+    },
+    {
+        id: 28890,
+        label: "Tomislav Mikulic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Panthrakikos Komotini",
+        x: 1320,
+        y: 1800
+    },
+    {
+        id: 28810,
+        label: "Nedum Onuoha",
+        title: "Country: " + "Nigeria" + "<br>" + "Team: " + "Queens Park Rangers",
+        x: 1440,
+        y: 1800
+    },
+    {
+        id: 28318,
+        label: "Pape Diakhaté",
+        title: "Country: " + "Senegal" + "<br>" + "Team: " + "Kayseri Erciyesspor",
+        x: 1560,
+        y: 1800
+    },
+    {
+        id: 28307,
+        label: "Jonathan Brison",
+        title: "Country: " + "France" + "<br>" + "Team: " + "AS Saint-Étienne",
+        x: 1680,
+        y: 1800
+    },
+    {
+        id: 18001,
+        label: "Danny Guijt",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Willem II Tilburg",
+        x: 1800,
+        y: 1800
+    },
+    {
+        id: 25785,
+        label: "Erwin Hoffer",
+        title: "Country: " + "Austria" + "<br>" + "Team: " + "Eintracht Frankfurt",
         x: 1920,
         y: 1800
+    },
+    {
+        id: 25488,
+        label: "Antonio Candreva",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "US Salernitana 1919",
+        x: 2040,
+        y: 1800
+    },
+    {
+        id: 24501,
+        label: "Radoslaw Cierzniak",
+        title: "Country: " + "Poland" + "<br>" + "Team: " + "Dundee United FC",
+        x: 2160,
+        y: 1800
+    },
+    {
+        id: 33796,
+        label: "Doga Kaya",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Genclerbirligi Ankara",
+        x: 2280,
+        y: 1800
+    },
+    {
+        id: 22378,
+        label: "Léo Matos",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "PAOK Thessaloniki",
+        x: 2400,
+        y: 1800
+    },
+    {
+        id: 22338,
+        label: "Laurent Ciman",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "Dijon FCO",
+        x: 2520,
+        y: 1800
+    },
+    {
+        id: 21490,
+        label: "Mounir El Hamdaoui",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Excelsior Rotterdam",
+        x: 2640,
+        y: 1800
+    },
+    {
+        id: 20844,
+        label: "Henrik Hansen",
+        title: "Country: " + "" + "<br>" + "Team: " + "SönderjyskE",
+        x: 2760,
+        y: 1800
+    },
+    {
+        id: 19987,
+        label: "Matías Sánchez",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "APO Levadiakos",
+        x: 2880,
+        y: 1800
+    },
+    {
+        id: 19940,
+        label: "Leandro Álvarez",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "Apollon Smyrnis",
+        x: 3000,
+        y: 1800
+    },
+    {
+        id: 19892,
+        label: "Maxime Annys",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "KVC Westerlo",
+        x: 3120,
+        y: 1800
+    },
+    {
+        id: 17491,
+        label: "Roberto Lago",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Getafe CF",
+        x: 3240,
+        y: 1800
+    },
+    {
+        id: 17396,
+        label: "Mathieu Flamini",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Getafe CF",
+        x: 3360,
+        y: 1800
+    },
+    {
+        id: 16576,
+        label: "Carlos Cuéllar",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Sunderland AFC",
+        x: 3480,
+        y: 1800
+    },
+    {
+        id: 15961,
+        label: "Rúrik Gíslason",
+        title: "Country: " + "Iceland" + "<br>" + "Team: " + "FC Copenhagen",
+        x: 3600,
+        y: 1800
+    },
+    {
+        id: 15844,
+        label: "Anthony Vanden Borre",
+        title: "Country: " + "Zaire" + "<br>" + "Team: " + "RSC Anderlecht",
+        x: 0,
+        y: 1920
+    },
+    {
+        id: 15597,
+        label: "Artur Tlisov",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "RU1",
+        x: 120,
+        y: 1920
+    },
+    {
+        id: 15454,
+        label: "Fábio Bilica",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Elazigspor",
+        x: 240,
+        y: 1920
+    },
+    {
+        id: 15165,
+        label: "Chris Hogg",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Inverness Caledonian Thistle FC",
+        x: 360,
+        y: 1920
+    },
+    {
+        id: 14971,
+        label: "Hjalte Bo Nörregaard",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "Aarhus GF",
+        x: 480,
+        y: 1920
+    },
+    {
+        id: 13932,
+        label: "James McPake",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Dundee FC",
+        x: 600,
+        y: 1920
+    },
+    {
+        id: 13905,
+        label: "Edwin Ouon",
+        title: "Country: " + "France" + "<br>" + "Team: " + "APO Levadiakos",
+        x: 720,
+        y: 1920
+    },
+    {
+        id: 33430,
+        label: "Adam Kokoszka",
+        title: "Country: " + "Poland" + "<br>" + "Team: " + "Torpedo Moscow",
+        x: 840,
+        y: 1920
+    },
+    {
+        id: 13573,
+        label: "Simon Francis",
+        title: "Country: " + "England" + "<br>" + "Team: " + "AFC Bournemouth",
+        x: 960,
+        y: 1920
+    },
+    {
+        id: 12758,
+        label: "Jamie Hamill",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Kilmarnock FC",
+        x: 1080,
+        y: 1920
+    },
+    {
+        id: 12575,
+        label: "David McCracken",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "St. Johnstone FC",
+        x: 1200,
+        y: 1920
+    },
+    {
+        id: 11757,
+        label: "Adam Kwarasey",
+        title: "Country: " + "Norway" + "<br>" + "Team: " + "Bröndby IF",
+        x: 1320,
+        y: 1920
+    },
+    {
+        id: 10121,
+        label: "Orhan Sam",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Genclerbirligi Ankara",
+        x: 1440,
+        y: 1920
+    },
+    {
+        id: 10118,
+        label: "Aykut Ercetin",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Caykur Rizespor",
+        x: 1560,
+        y: 1920
+    },
+    {
+        id: 9616,
+        label: "Steven Thompson",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "St. Mirren FC",
+        x: 1680,
+        y: 1920
+    },
+    {
+        id: 9508,
+        label: "Shaun Maloney",
+        title: "Country: " + "Malaysia" + "<br>" + "Team: " + "Hull City",
+        x: 1800,
+        y: 1920
+    },
+    {
+        id: 3182,
+        label: "Ashley Cole",
+        title: "Country: " + "England" + "<br>" + "Team: " + "AS Roma",
+        x: 1920,
+        y: 1920
+    },
+    {
+        id: 8559,
+        label: "Yakubu Aiyegbeni",
+        title: "Country: " + "Nigeria" + "<br>" + "Team: " + "Kayserispor",
+        x: 2040,
+        y: 1920
+    },
+    {
+        id: 20833,
+        label: "Grigoris Athanasiou",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "GS Ergotelis",
+        x: 2160,
+        y: 1920
+    },
+    {
+        id: 6934,
+        label: "Tuncay Sanli",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Bursaspor",
+        x: 2280,
+        y: 1920
+    },
+    {
+        id: 6438,
+        label: "Cristian Ledesma",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "Panathinaikos Athens",
+        x: 2400,
+        y: 1920
+    },
+    {
+        id: 6012,
+        label: "Stefano Lucchini",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Cesena FC",
+        x: 2520,
+        y: 1920
+    },
+    {
+        id: 5521,
+        label: "Grégory Pujol",
+        title: "Country: " + "France" + "<br>" + "Team: " + "GFC Ajaccio",
+        x: 2640,
+        y: 1920
+    },
+    {
+        id: 5439,
+        label: "Nicolas Marin",
+        title: "Country: " + "France" + "<br>" + "Team: " + "AO Xanthi",
+        x: 2760,
+        y: 1920
+    },
+    {
+        id: 5072,
+        label: "Thomas Kessler",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "1.FC Köln",
+        x: 2880,
+        y: 1920
+    },
+    {
+        id: 4086,
+        label: "Darren Ambrose",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Apollon Smyrnis",
+        x: 3000,
+        y: 1920
+    },
+    {
+        id: 3179,
+        label: "Carlton Cole",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Celtic FC",
+        x: 3120,
+        y: 1920
+    },
+    {
+        id: 1331,
+        label: "Kevin Kuranyi",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "TSG 1899 Hoffenheim",
+        x: 3240,
+        y: 1920
+    },
+    {
+        id: 1122,
+        label: "Sven Neuhaus",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Hamburger SV",
+        x: 3360,
+        y: 1920
+    },
+    {
+        id: 23247,
+        label: "Mikel Labaka",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Rayo Vallecano",
+        x: 3480,
+        y: 1920
+    },
+    {
+        id: 5539,
+        label: "Romain Pitau",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Montpellier HSC",
+        x: 3600,
+        y: 1920
+    },
+    {
+        id: 27811,
+        label: "Gerard Aafjes",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "PEC Zwolle",
+        x: 0,
+        y: 2040
+    },
+    {
+        id: 3235,
+        label: "Rio Ferdinand",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Queens Park Rangers",
+        x: 120,
+        y: 2040
+    },
+    {
+        id: 3771,
+        label: "Raúl Bravo",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Veria NPS",
+        x: 240,
+        y: 2040
+    },
+    {
+        id: 4190,
+        label: "Brian Murphy",
+        title: "Country: " + "Ireland" + "<br>" + "Team: " + "Cardiff City",
+        x: 360,
+        y: 2040
+    },
+    {
+        id: 19958,
+        label: "Nereo Champagne",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "CD Leganés",
+        x: 480,
+        y: 2040
+    },
+    {
+        id: 15821,
+        label: "Mert Nobre",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Kayserispor",
+        x: 600,
+        y: 2040
+    },
+    {
+        id: 7087,
+        label: "Bülent Ertugrul",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Elazigspor",
+        x: 720,
+        y: 2040
+    },
+    {
+        id: 5967,
+        label: "Anthony Seric",
+        title: "Country: " + "Australia" + "<br>" + "Team: " + "SC Olhanense",
+        x: 840,
+        y: 2040
+    },
+    {
+        id: 7594,
+        label: "Carles Puyol",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "FC Barcelona",
+        x: 960,
+        y: 2040
+    },
+    {
+        id: 7955,
+        label: "Jeroen Verhoeven",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "FC Utrecht",
+        x: 1080,
+        y: 2040
+    },
+    {
+        id: 12142,
+        label: "Michel Bastos",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "AS Roma",
+        x: 1200,
+        y: 2040
+    },
+    {
+        id: 17140,
+        label: "Mehmet Topuz",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Fenerbahce",
+        x: 1320,
+        y: 2040
+    },
+    {
+        id: 3838,
+        label: "Boaz Myhill",
+        title: "Country: " + "United States" + "<br>" + "Team: " + "GB1",
+        x: 1440,
+        y: 2040
+    },
+    {
+        id: 12282,
+        label: "Daley Blind",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Girona FC",
+        x: 1560,
+        y: 2040
+    },
+    {
+        id: 13749,
+        label: "Gaby Mudingayi",
+        title: "Country: " + "Zaire" + "<br>" + "Team: " + "Cesena FC",
+        x: 1680,
+        y: 2040
+    },
+    {
+        id: 21750,
+        label: "Mark González",
+        title: "Country: " + "South Africa" + "<br>" + "Team: " + "CSKA Moscow",
+        x: 1800,
+        y: 2040
+    },
+    {
+        id: 20306,
+        label: "Kevin Geudens",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "KVC Westerlo",
+        x: 1920,
+        y: 2040
+    },
+    {
+        id: 17465,
+        label: "Hakan Özmert",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Antalyaspor",
+        x: 2040,
+        y: 2040
+    },
+    {
+        id: 20838,
+        label: "Hans Henrik Andreasen",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "Hobro IK",
+        x: 2160,
+        y: 2040
+    },
+    {
+        id: 21447,
+        label: "Zito",
+        title: "Country: " + "Cote d'Ivoire" + "<br>" + "Team: " + "APO Levadiakos",
+        x: 2280,
+        y: 2040
+    },
+    {
+        id: 34160,
+        label: "Jean-Jacques Pierre",
+        title: "Country: " + "Haiti" + "<br>" + "Team: " + "SM Caen",
+        x: 2400,
+        y: 2040
+    },
+    {
+        id: 24670,
+        label: "Nikola Ignjatijevic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Zorya Lugansk",
+        x: 2520,
+        y: 2040
+    },
+    {
+        id: 25289,
+        label: "António Filipe",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "CF Estrela Amadora SAD",
+        x: 2640,
+        y: 2040
+    },
+    {
+        id: 29004,
+        label: "Gary MacKenzie",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "St. Mirren FC",
+        x: 2760,
+        y: 2040
+    },
+    {
+        id: 20920,
+        label: "Michele Ferri",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Atalanta BC",
+        x: 2880,
+        y: 2040
+    },
+    {
+        id: 29258,
+        label: "Edgar Manucharyan",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Ural Yekaterinburg",
+        x: 3000,
+        y: 2040
+    },
+    {
+        id: 24661,
+        label: "Milan Bisevac",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "FC Metz",
+        x: 3120,
+        y: 2040
+    },
+    {
+        id: 33480,
+        label: "Davino Verhulst",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "Royal Antwerp FC",
+        x: 3240,
+        y: 2040
+    },
+    {
+        id: 27505,
+        label: "Markus Rosenberg",
+        title: "Country: " + "Sweden" + "<br>" + "Team: " + "West Bromwich Albion",
+        x: 3360,
+        y: 2040
+    },
+    {
+        id: 34987,
+        label: "Burak Yilmaz",
+        title: "Country: " + "" + "<br>" + "Team: " + "Fortuna Sittard",
+        x: 3480,
+        y: 2040
+    },
+    {
+        id: 26574,
+        label: "Masoud Shojaei",
+        title: "Country: " + "Iran" + "<br>" + "Team: " + "GR1",
+        x: 3600,
+        y: 2040
+    },
+    {
+        id: 25754,
+        label: "Shota Grigalashvili",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Spartak Vladikavkaz (-2020)",
+        x: 0,
+        y: 2160
+    },
+    {
+        id: 4520,
+        label: "Peter Wisgerhof",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Twente Enschede FC",
+        x: 120,
+        y: 2160
+    },
+    {
+        id: 6233,
+        label: "Luciano",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Chievo Verona",
+        x: 240,
+        y: 2160
+    },
+    {
+        id: 6590,
+        label: "Andreas Isaksson",
+        title: "Country: " + "Sweden" + "<br>" + "Team: " + "Kasimpasa",
+        x: 360,
+        y: 2160
+    },
+    {
+        id: 6980,
+        label: "Julien Cardy",
+        title: "Country: " + "France" + "<br>" + "Team: " + "EA Guingamp",
+        x: 480,
+        y: 2160
+    },
+    {
+        id: 13090,
+        label: "Kenny Thompson",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "Oud-Heverlee Leuven",
+        x: 600,
+        y: 2160
+    },
+    {
+        id: 29390,
+        label: "Elmar Bjarnason",
+        title: "Country: " + "Iceland" + "<br>" + "Team: " + "PAS Lamia 1964",
+        x: 720,
+        y: 2160
+    },
+    {
+        id: 12098,
+        label: "Ismaël Bouzid",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Kilmarnock FC",
+        x: 840,
+        y: 2160
+    },
+    {
+        id: 4740,
+        label: "Daniel Van Buyten",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "Bayern Munich",
+        x: 960,
+        y: 2160
+    },
+    {
+        id: 264,
+        label: "Tamás Hajnal",
+        title: "Country: " + "Hungary" + "<br>" + "Team: " + "VfB Stuttgart",
+        x: 1080,
+        y: 2160
+    },
+    {
+        id: 22831,
+        label: "Johan Absalonsen",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "SönderjyskE",
+        x: 1200,
+        y: 2160
+    },
+    {
+        id: 7501,
+        label: "Juan Carlos Valerón",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "UD Las Palmas",
+        x: 1320,
+        y: 2160
+    },
+    {
+        id: 17374,
+        label: "Maurício",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "SC Olhanense",
+        x: 1440,
+        y: 2160
+    },
+    {
+        id: 29322,
+        label: "Sigourney Bandjar",
+        title: "Country: " + "Suriname" + "<br>" + "Team: " + "RKC Waalwijk",
+        x: 1560,
+        y: 2160
+    },
+    {
+        id: 299,
+        label: "Fabian Ernst",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Kasimpasa",
+        x: 1680,
+        y: 2160
+    },
+    {
+        id: 4793,
+        label: "Steve von Bergen",
+        title: "Country: " + "Switzerland" + "<br>" + "Team: " + "Palermo FC",
+        x: 1800,
+        y: 2160
+    },
+    {
+        id: 13427,
+        label: "Steve Sidwell",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Brighton & Hove Albion",
+        x: 1920,
+        y: 2160
+    },
+    {
+        id: 22169,
+        label: "Kenneth Fabricius",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "SönderjyskE",
+        x: 2040,
+        y: 2160
+    },
+    {
+        id: 13460,
+        label: "Lee Grant",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Manchester United",
+        x: 2160,
+        y: 2160
+    },
+    {
+        id: 25441,
+        label: "Zdravko Kuzmanovic",
+        title: "Country: " + "Switzerland" + "<br>" + "Team: " + "Málaga CF",
+        x: 2280,
+        y: 2160
+    },
+    {
+        id: 13894,
+        label: "Cédric Berthelin",
+        title: "Country: " + "France" + "<br>" + "Team: " + "KV Oostende",
+        x: 2400,
+        y: 2160
+    },
+    {
+        id: 5958,
+        label: "Francesco Totti",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "AS Roma",
+        x: 2520,
+        y: 2160
+    },
+    {
+        id: 34909,
+        label: "Simone Bentivoglio",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Chievo Verona",
+        x: 2640,
+        y: 2160
+    },
+    {
+        id: 27448,
+        label: "Marcos Angeleri",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "Málaga CF",
+        x: 2760,
+        y: 2160
+    },
+    {
+        id: 6721,
+        label: "Mario Santana",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "Genoa CFC",
+        x: 2880,
+        y: 2160
+    },
+    {
+        id: 15743,
+        label: "Vladislav Kulik",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "PFK Tambov (-2021)",
+        x: 3000,
+        y: 2160
+    },
+    {
+        id: 4607,
+        label: "Roel Brouwers",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Roda JC Kerkrade",
+        x: 3120,
+        y: 2160
+    },
+    {
+        id: 28719,
+        label: "Sanel Jahic",
+        title: "Country: " + "France" + "<br>" + "Team: " + "APO Levadiakos",
+        x: 3240,
+        y: 2160
+    },
+    {
+        id: 26153,
+        label: "Alberto Zapater",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Lokomotiv Moscow",
+        x: 3360,
+        y: 2160
+    },
+    {
+        id: 30365,
+        label: "Mikael Dahlberg",
+        title: "Country: " + "Sweden" + "<br>" + "Team: " + "Apollon Smyrnis",
+        x: 3480,
+        y: 2160
+    },
+    {
+        id: 34572,
+        label: "Mario Mandzukic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "AC Milan",
+        x: 3600,
+        y: 2160
+    },
+    {
+        id: 6968,
+        label: "Sancak Kaplan",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Kasimpasa",
+        x: 0,
+        y: 2280
+    },
+    {
+        id: 30697,
+        label: "Ron Vlaar",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "AZ Alkmaar",
+        x: 120,
+        y: 2280
+    },
+    {
+        id: 14948,
+        label: "Brandão",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "APO Levadiakos",
+        x: 240,
+        y: 2280
+    },
+    {
+        id: 25617,
+        label: "Danijel Pranjic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Panathinaikos Athens",
+        x: 360,
+        y: 2280
+    },
+    {
+        id: 8399,
+        label: "Engin Baytar",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Caykur Rizespor",
+        x: 480,
+        y: 2280
+    },
+    {
+        id: 6442,
+        label: "Antonio Rosati",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "ACF Fiorentina",
+        x: 600,
+        y: 2280
+    },
+    {
+        id: 13938,
+        label: "Richard Brittain",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Ross County FC",
+        x: 720,
+        y: 2280
+    },
+    {
+        id: 23292,
+        label: "Lars Pleidrup",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "FC Vestsjaelland",
+        x: 840,
+        y: 2280
+    },
+    {
+        id: 13583,
+        label: "Clint Hill",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Rangers FC",
+        x: 960,
+        y: 2280
+    },
+    {
+        id: 29559,
+        label: "Guillermo Ochoa",
+        title: "Country: " + "Mexico" + "<br>" + "Team: " + "US Salernitana 1919",
+        x: 1080,
+        y: 2280
+    },
+    {
+        id: 3114,
+        label: "Jan Schlaudraff",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Hannover 96",
+        x: 1200,
+        y: 2280
+    },
+    {
+        id: 16315,
+        label: "Rafa López",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "SC Paderborn 07",
+        x: 1320,
+        y: 2280
+    },
+    {
+        id: 11268,
+        label: "Oliver Fink",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Fortuna Düsseldorf",
+        x: 1440,
+        y: 2280
+    },
+    {
+        id: 3531,
+        label: "Robert Vittek",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "Basaksehir FK",
+        x: 1560,
+        y: 2280
+    },
+    {
+        id: 16913,
+        label: "David Mendes da Silva",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Sparta Rotterdam",
+        x: 1680,
+        y: 2280
+    },
+    {
+        id: 27135,
+        label: "Piojo",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "CD Tondela",
+        x: 1800,
+        y: 2280
+    },
+    {
+        id: 19301,
+        label: "Brian van Loo",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Heracles Almelo",
+        x: 1920,
+        y: 2280
+    },
+    {
+        id: 33831,
+        label: "Modou Sougou",
+        title: "Country: " + "Senegal" + "<br>" + "Team: " + "Moreirense FC",
+        x: 2040,
+        y: 2280
+    },
+    {
+        id: 28336,
+        label: "Mile Jedinak",
+        title: "Country: " + "Australia" + "<br>" + "Team: " + "Crystal Palace",
+        x: 2160,
+        y: 2280
+    },
+    {
+        id: 9832,
+        label: "Paulo Ferreira",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "Chelsea FC",
+        x: 2280,
+        y: 2280
+    },
+    {
+        id: 34773,
+        label: "Volodymyr Pryiomov",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Olimpik Donetsk",
+        x: 2400,
+        y: 2280
+    },
+    {
+        id: 33869,
+        label: "Kristof Maes",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "KAA Gent",
+        x: 2520,
+        y: 2280
+    },
+    {
+        id: 14939,
+        label: "Adrian Pukanych",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "UKR1",
+        x: 2640,
+        y: 2280
+    },
+    {
+        id: 16634,
+        label: "Álvaro Mejía",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "GS Ergotelis",
+        x: 2760,
+        y: 2280
+    },
+    {
+        id: 16135,
+        label: "Ryan Babel",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Galatasaray",
+        x: 2880,
+        y: 2280
+    },
+    {
+        id: 28356,
+        label: "Denis Petric",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "FC Nantes",
+        x: 3000,
+        y: 2280
+    },
+    {
+        id: 13063,
+        label: "Jonas Ivens",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "RKC Waalwijk",
+        x: 3120,
+        y: 2280
+    },
+    {
+        id: 1565,
+        label: "Alexander Meier",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Eintracht Frankfurt",
+        x: 3240,
+        y: 2280
+    },
+    {
+        id: 77,
+        label: "Lúcio",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Juventus FC",
+        x: 3360,
+        y: 2280
+    },
+    {
+        id: 22823,
+        label: "Gennaro Esposito",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Hellas Verona",
+        x: 3480,
+        y: 2280
+    },
+    {
+        id: 29411,
+        label: "Ergün Teber",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Eskisehirspor",
+        x: 3600,
+        y: 2280
+    },
+    {
+        id: 4311,
+        label: "Maarten Stekelenburg",
+        title: "Country: " + "" + "<br>" + "Team: " + "Ajax Amsterdam",
+        x: 0,
+        y: 2400
+    },
+    {
+        id: 5399,
+        label: "Kamel Chafni",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Stade Brestois 29",
+        x: 120,
+        y: 2400
+    },
+    {
+        id: 21415,
+        label: "Marc Fitzpatrick",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Ross County FC",
+        x: 240,
+        y: 2400
+    },
+    {
+        id: 7444,
+        label: "Bilal Kisa",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Akhisarspor",
+        x: 360,
+        y: 2400
+    },
+    {
+        id: 19439,
+        label: "Santos",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "AO Xanthi",
+        x: 480,
+        y: 2400
+    },
+    {
+        id: 22186,
+        label: "Davide Biondini",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "US Sassuolo",
+        x: 600,
+        y: 2400
+    },
+    {
+        id: 7795,
+        label: "Juanito",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Asteras Tripolis",
+        x: 720,
+        y: 2400
+    },
+    {
+        id: 18350,
+        label: "Dusan Pernis",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "Iraklis Thessaloniki",
+        x: 840,
+        y: 2400
+    },
+    {
+        id: 2926,
+        label: "György Garics",
+        title: "Country: " + "Hungary" + "<br>" + "Team: " + "SV Darmstadt 98",
+        x: 960,
+        y: 2400
+    },
+    {
+        id: 3332,
+        label: "Wayne Rooney",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Manchester United",
+        x: 1080,
+        y: 2400
+    },
+    {
+        id: 29544,
+        label: "Gunther Vanaudenaerde",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "Oud-Heverlee Leuven",
+        x: 1200,
+        y: 2400
+    },
+    {
+        id: 18947,
+        label: "Milhazes",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "APO Levadiakos",
+        x: 1320,
+        y: 2400
+    },
+    {
+        id: 20005,
+        label: "Papu Gómez",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "AC Monza",
+        x: 1440,
+        y: 2400
+    },
+    {
+        id: 14641,
+        label: "Cillian Sheridan",
+        title: "Country: " + "Ireland" + "<br>" + "Team: " + "SC1",
+        x: 1560,
+        y: 2400
+    },
+    {
+        id: 2154,
+        label: "Patric Klandt",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "1.FC Nuremberg",
+        x: 1680,
+        y: 2400
+    },
+    {
+        id: 17239,
+        label: "Anastasios Venetis",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "AOK Kerkyra",
+        x: 1800,
+        y: 2400
+    },
+    {
+        id: 7326,
+        label: "Kwame Quansah",
+        title: "Country: " + "Ghana" + "<br>" + "Team: " + "Heracles Almelo",
+        x: 1920,
+        y: 2400
+    },
+    {
+        id: 22749,
+        label: "Daniele Croce",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "FC Empoli",
+        x: 2040,
+        y: 2400
+    },
+    {
+        id: 34652,
+        label: "Jaroslaw Fojut",
+        title: "Country: " + "Poland" + "<br>" + "Team: " + "Dundee United FC",
+        x: 2160,
+        y: 2400
+    },
+    {
+        id: 2148,
+        label: "Erdal Kilicaslan",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Ankaraspor",
+        x: 2280,
+        y: 2400
+    },
+    {
+        id: 32233,
+        label: "Carlos Diogo",
+        title: "Country: " + "Uruguay" + "<br>" + "Team: " + "KAA Gent",
+        x: 2400,
+        y: 2400
+    },
+    {
+        id: 28922,
+        label: "Taye Taiwo",
+        title: "Country: " + "Nigeria" + "<br>" + "Team: " + "Bursaspor",
+        x: 2520,
+        y: 2400
+    },
+    {
+        id: 29962,
+        label: "Daniele Dessena",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Brescia Calcio",
+        x: 2640,
+        y: 2400
+    },
+    {
+        id: 26139,
+        label: "Carlos Manuel",
+        title: "Country: " + "Venezuela" + "<br>" + "Team: " + "CF União Madeira (-2021)",
+        x: 2760,
+        y: 2400
+    },
+    {
+        id: 16828,
+        label: "Alessandro Potenza",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Catania FC",
+        x: 2880,
+        y: 2400
+    },
+    {
+        id: 7611,
+        label: "Javier Saviola",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "Hellas Verona",
+        x: 3000,
+        y: 2400
+    },
+    {
+        id: 21515,
+        label: "Paul Mulders",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "SC Cambuur Leeuwarden",
+        x: 3120,
+        y: 2400
+    },
+    {
+        id: 5880,
+        label: "Morgan De Sanctis",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "AS Monaco",
+        x: 3240,
+        y: 2400
+    },
+    {
+        id: 23141,
+        label: "Henrik Toft",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "AC Horsens",
+        x: 3360,
+        y: 2400
+    },
+    {
+        id: 15930,
+        label: "David Martin",
+        title: "Country: " + "England" + "<br>" + "Team: " + "West Ham United",
+        x: 3480,
+        y: 2400
+    },
+    {
+        id: 19385,
+        label: "Karim Matmour",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Eintracht Frankfurt",
+        x: 3600,
+        y: 2400
+    },
+    {
+        id: 30556,
+        label: "Ludovic Buysens",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "Lierse SK (- 2018)",
+        x: 0,
+        y: 2520
+    },
+    {
+        id: 8284,
+        label: "Selcuk Sahin",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Orduspor",
+        x: 120,
+        y: 2520
+    },
+    {
+        id: 34345,
+        label: "Ilyas Zeytullaev",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Torino FC",
+        x: 240,
+        y: 2520
+    },
+    {
+        id: 4095,
+        label: "Matthew Kilgallon",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Hamilton Academical FC",
+        x: 360,
+        y: 2520
+    },
+    {
+        id: 29193,
+        label: "Rubén Suárez",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "AO Xanthi",
+        x: 480,
+        y: 2520
+    },
+    {
+        id: 22249,
+        label: "Cristian Raimondi",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Atalanta BC",
+        x: 600,
+        y: 2520
+    },
+    {
+        id: 14950,
+        label: "Hervé Bugnet",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Thonon Évian Grand Genève FC",
+        x: 720,
+        y: 2520
+    },
+    {
+        id: 13114,
+        label: "Laurent Delorge",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "Roda JC Kerkrade",
+        x: 840,
+        y: 2520
+    },
+    {
+        id: 27667,
+        label: "Vitolo",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Elazigspor",
+        x: 960,
+        y: 2520
+    },
+    {
+        id: 4241,
+        label: "Joleon Lescott",
+        title: "Country: " + "England" + "<br>" + "Team: " + "AEK Athens",
+        x: 1080,
+        y: 2520
+    },
+    {
+        id: 34602,
+        label: "Aleksandr Salugin",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Amkar Perm",
+        x: 1200,
+        y: 2520
+    },
+    {
+        id: 25807,
+        label: "Aleksandar Radosavljevic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "VVV-Venlo",
+        x: 1320,
+        y: 2520
+    },
+    {
+        id: 31653,
+        label: "Tobias Sippel",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Borussia Mönchengladbach",
+        x: 1440,
+        y: 2520
+    },
+    {
+        id: 5645,
+        label: "Benoît Cheyrou",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Olympique Marseille",
+        x: 1560,
+        y: 2520
+    },
+    {
+        id: 28026,
+        label: "Massimo Paci",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Siena FC",
+        x: 1680,
+        y: 2520
+    },
+    {
+        id: 31062,
+        label: "Rachid Bourabia",
+        title: "Country: " + "France" + "<br>" + "Team: " + "SK Beveren",
+        x: 1800,
+        y: 2520
+    },
+    {
+        id: 6893,
+        label: "Gabriel Tamas",
+        title: "Country: " + "Romania" + "<br>" + "Team: " + "West Bromwich Albion",
+        x: 1920,
+        y: 2520
+    },
+    {
+        id: 34870,
+        label: "Roberto Soldado",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Levante UD",
+        x: 2040,
+        y: 2520
+    },
+    {
+        id: 17127,
+        label: "Felipe",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "SPAL",
+        x: 2160,
+        y: 2520
+    },
+    {
+        id: 12597,
+        label: "Alan Maybury",
+        title: "Country: " + "Ireland" + "<br>" + "Team: " + "Hibernian FC",
+        x: 2280,
+        y: 2520
+    },
+    {
+        id: 28809,
+        label: "Willo Flood",
+        title: "Country: " + "Ireland" + "<br>" + "Team: " + "Aberdeen FC",
+        x: 2400,
+        y: 2520
+    },
+    {
+        id: 12704,
+        label: "Steven Whittaker",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Hibernian FC",
+        x: 2520,
+        y: 2520
+    },
+    {
+        id: 27511,
+        label: "Gary Cahill",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Crystal Palace",
+        x: 2640,
+        y: 2520
+    },
+    {
+        id: 29208,
+        label: "Davide Succi",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Cesena FC",
+        x: 2760,
+        y: 2520
+    },
+    {
+        id: 2150,
+        label: "Oliver Kirch",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Borussia Dortmund",
+        x: 2880,
+        y: 2520
+    },
+    {
+        id: 277,
+        label: "Sérgio da Silva Pinto",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "Levante UD",
+        x: 3000,
+        y: 2520
+    },
+    {
+        id: 1560,
+        label: "Youssef El Akchaoui",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "SC Heerenveen",
+        x: 3120,
+        y: 2520
+    },
+    {
+        id: 3707,
+        label: "Bernard Mendy",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Stade Brestois 29",
+        x: 3240,
+        y: 2520
+    },
+    {
+        id: 7319,
+        label: "Egemen Korkmaz",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Erzurumspor FK",
+        x: 3360,
+        y: 2520
+    },
+    {
+        id: 26502,
+        label: "Daniel Oprita",
+        title: "Country: " + "Romania" + "<br>" + "Team: " + "Mordovia Saransk (-2020)",
+        x: 3480,
+        y: 2520
+    },
+    {
+        id: 3569,
+        label: "Steed Malbranque",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "SM Caen",
+        x: 3600,
+        y: 2520
+    },
+    {
+        id: 18831,
+        label: "Bilal Aziz Özer",
+        title: "Country: " + "Lebanon" + "<br>" + "Team: " + "Ankaraspor",
+        x: 0,
+        y: 2640
+    },
+    {
+        id: 21449,
+        label: "Darren Barr",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Ross County FC",
+        x: 120,
+        y: 2640
+    },
+    {
+        id: 31880,
+        label: "Jordens Peters",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Willem II Tilburg",
+        x: 240,
+        y: 2640
+    },
+    {
+        id: 26485,
+        label: "Jérôme Boateng",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Olympique Lyon",
+        x: 360,
+        y: 2640
+    },
+    {
+        id: 29039,
+        label: "Paulo Machado",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "Desportivo Aves (- 2020)",
+        x: 480,
+        y: 2640
+    },
+    {
+        id: 31886,
+        label: "Dusan Kuciak",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "Hull City",
+        x: 600,
+        y: 2640
+    },
+    {
+        id: 33785,
+        label: "Ryan Taylor",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Newcastle United",
+        x: 720,
+        y: 2640
+    },
+    {
+        id: 34129,
+        label: "Wesley Verhoek",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Go Ahead Eagles",
+        x: 840,
+        y: 2640
+    },
+    {
+        id: 26764,
+        label: "Bacary Sagna",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Benevento Calcio",
+        x: 960,
+        y: 2640
+    },
+    {
+        id: 16519,
+        label: "Aleksey Eremenko Jr.",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Kilmarnock FC",
+        x: 1080,
+        y: 2640
+    },
+    {
+        id: 21522,
+        label: "Mustafa Sarp",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Elazigspor",
+        x: 1200,
+        y: 2640
+    },
+    {
+        id: 7427,
+        label: "Ivica Olic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Hamburger SV",
+        x: 1320,
+        y: 2640
+    },
+    {
+        id: 34531,
+        label: "Milan Cerny",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "Sivasspor",
+        x: 1440,
+        y: 2640
+    },
+    {
+        id: 34344,
+        label: "Cristián Zapata",
+        title: "Country: " + "Colombia" + "<br>" + "Team: " + "Genoa CFC",
+        x: 1560,
+        y: 2640
+    },
+    {
+        id: 6853,
+        label: "Mark-Jan Fledderus",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Heracles Almelo",
+        x: 1680,
+        y: 2640
+    },
+    {
+        id: 12570,
+        label: "Mark Wilson",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Dundee United FC",
+        x: 1800,
+        y: 2640
+    },
+    {
+        id: 29104,
+        label: "Manolo Martínez",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "APO Levadiakos",
+        x: 1920,
+        y: 2640
+    },
+    {
+        id: 15981,
+        label: "Álex Geijo",
+        title: "Country: " + "Switzerland" + "<br>" + "Team: " + "Udinese Calcio",
+        x: 2040,
+        y: 2640
+    },
+    {
+        id: 27292,
+        label: "Daniel Larsson",
+        title: "Country: " + "Sweden" + "<br>" + "Team: " + "Aris Thessaloniki",
+        x: 2160,
+        y: 2640
+    },
+    {
+        id: 4519,
+        label: "Rob Wielaert",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Roda JC Kerkrade",
+        x: 2280,
+        y: 2640
+    },
+    {
+        id: 31109,
+        label: "Vítor Vinha",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "Gil Vicente FC",
+        x: 2400,
+        y: 2640
+    },
+    {
+        id: 7093,
+        label: "Francesco Magnanelli",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "US Sassuolo",
+        x: 2520,
+        y: 2640
+    },
+    {
+        id: 8709,
+        label: "Sedat Bayrak",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Genclerbirligi Ankara",
+        x: 2640,
+        y: 2640
+    },
+    {
+        id: 30654,
+        label: "Adrián Ricchiuti",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "Catania FC",
+        x: 2760,
+        y: 2640
+    },
+    {
+        id: 29260,
+        label: "Giorgio Chiellini",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Juventus FC",
+        x: 2880,
+        y: 2640
+    },
+    {
+        id: 27236,
+        label: "Nemanja Rnic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Goverla Uzhgorod (- 2016)",
+        x: 3000,
+        y: 2640
+    },
+    {
+        id: 20854,
+        label: "Lasse Kryger",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "AC Horsens",
+        x: 3120,
+        y: 2640
+    },
+    {
+        id: 7451,
+        label: "Mikel Arteta",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Arsenal FC",
+        x: 3240,
+        y: 2640
+    },
+    {
+        id: 13557,
+        label: "Tim Clancy",
+        title: "Country: " + "Ireland" + "<br>" + "Team: " + "St. Johnstone FC",
+        x: 3360,
+        y: 2640
+    },
+    {
+        id: 3914,
+        label: "Pascal Feindouno",
+        title: "Country: " + "Guinea" + "<br>" + "Team: " + "Elazigspor",
+        x: 3480,
+        y: 2640
+    },
+    {
+        id: 12610,
+        label: "Andy Webster",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Heart of Midlothian FC",
+        x: 3600,
+        y: 2640
+    },
+    {
+        id: 34200,
+        label: "Christos Pipinis",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "AEL Kalloni",
+        x: 0,
+        y: 2760
+    },
+    {
+        id: 21108,
+        label: "Jan Rajnoch",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "Sivasspor",
+        x: 120,
+        y: 2760
+    },
+    {
+        id: 27486,
+        label: "Kiko Casilla",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Getafe CF",
+        x: 240,
+        y: 2760
+    },
+    {
+        id: 27565,
+        label: "Marin Skender",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "SönderjyskE",
+        x: 360,
+        y: 2760
+    },
+    {
+        id: 19702,
+        label: "Vladimir Disljenkovic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Metalist Kharkiv (- 2016)",
+        x: 480,
+        y: 2760
+    },
+    {
+        id: 16971,
+        label: "Mees Siers",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "SönderjyskE",
+        x: 600,
+        y: 2760
+    },
+    {
+        id: 8730,
+        label: "Manu Lanzarote",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Asteras Tripolis",
+        x: 720,
+        y: 2760
+    },
+    {
+        id: 27592,
+        label: "Lefteris Mappas",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "AEL Kalloni",
+        x: 840,
+        y: 2760
+    },
+    {
+        id: 4383,
+        label: "Johan Elmander",
+        title: "Country: " + "Sweden" + "<br>" + "Team: " + "Bröndby IF",
+        x: 960,
+        y: 2760
+    },
+    {
+        id: 30700,
+        label: "Dusan Predrag Djuric",
+        title: "Country: " + "Sweden" + "<br>" + "Team: " + "Odense Boldklub",
+        x: 1080,
+        y: 2760
+    },
+    {
+        id: 33952,
+        label: "Papiss Cissé",
+        title: "Country: " + "Senegal" + "<br>" + "Team: " + "Caykur Rizespor",
+        x: 1200,
+        y: 2760
+    },
+    {
+        id: 9956,
+        label: "James McFadden",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Motherwell FC",
+        x: 1320,
+        y: 2760
+    },
+    {
+        id: 21942,
+        label: "Davide Moscardelli",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "Bologna FC 1909",
+        x: 1440,
+        y: 2760
+    },
+    {
+        id: 5501,
+        label: "Mauro Cetto",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "Palermo FC",
+        x: 1560,
+        y: 2760
+    },
+    {
+        id: 33647,
+        label: "Chidi",
+        title: "Country: " + "Nigeria" + "<br>" + "Team: " + "AO Platanias",
+        x: 1680,
+        y: 2760
+    },
+    {
+        id: 20905,
+        label: "Esteban Solari",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "GS Ergotelis",
+        x: 1800,
+        y: 2760
+    },
+    {
+        id: 16868,
+        label: "Alessandro Gamberini",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Chievo Verona",
+        x: 1920,
+        y: 2760
+    },
+    {
+        id: 25049,
+        label: "Denis Vavilin",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Krylya Sovetov Samara",
+        x: 2040,
+        y: 2760
+    },
+    {
+        id: 33829,
+        label: "José Fonte",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "SC Braga",
+        x: 2160,
+        y: 2760
+    },
+    {
+        id: 29178,
+        label: "Nino",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Elche CF",
+        x: 2280,
+        y: 2760
+    },
+    {
+        id: 16968,
+        label: "Marcel de Jong",
+        title: "Country: " + "Canada" + "<br>" + "Team: " + "L1",
+        x: 2400,
+        y: 2760
+    },
+    {
+        id: 24284,
+        label: "Alexandros Tzorvas",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Apollon Smyrnis",
+        x: 2520,
+        y: 2760
+    },
+    {
+        id: 4338,
+        label: "Wilfred Bouma",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "PSV Eindhoven",
+        x: 2640,
+        y: 2760
+    },
+    {
+        id: 30546,
+        label: "Benjamin Delacourt",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Cercle Brugge",
+        x: 2760,
+        y: 2760
+    },
+    {
+        id: 25002,
+        label: "Ognjen Koroman",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Krylya Sovetov Samara",
+        x: 2880,
+        y: 2760
+    },
+    {
+        id: 13560,
+        label: "Alan Combe",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Heart of Midlothian FC",
+        x: 3000,
+        y: 2760
+    },
+    {
+        id: 8539,
+        label: "Onur Tuncer",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Antalyaspor",
+        x: 3120,
+        y: 2760
+    },
+    {
+        id: 29692,
+        label: "Lukasz Fabianski",
+        title: "Country: " + "Poland" + "<br>" + "Team: " + "West Ham United",
+        x: 3240,
+        y: 2760
+    },
+    {
+        id: 4359,
+        label: "Adil Ramzi",
+        title: "Country: " + "Morocco" + "<br>" + "Team: " + "Roda JC Kerkrade",
+        x: 3360,
+        y: 2760
+    },
+    {
+        id: 25845,
+        label: "Oleksiy Antonov",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "UKR1",
+        x: 3480,
+        y: 2760
+    },
+    {
+        id: 21954,
+        label: "Marco Rigoni",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Chievo Verona",
+        x: 3600,
+        y: 2760
+    },
+    {
+        id: 25727,
+        label: "Lukasz Piszczek",
+        title: "Country: " + "Poland" + "<br>" + "Team: " + "Borussia Dortmund",
+        x: 0,
+        y: 2880
+    },
+    {
+        id: 14151,
+        label: "Kürsat Duymus",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Akhisarspor",
+        x: 120,
+        y: 2880
+    },
+    {
+        id: 23340,
+        label: "Rui Duarte",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "SC Olhanense",
+        x: 240,
+        y: 2880
+    },
+    {
+        id: 9524,
+        label: "Rudi Skacel",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "Dundee United FC",
+        x: 360,
+        y: 2880
+    },
+    {
+        id: 17422,
+        label: "Fousseni Diawara",
+        title: "Country: " + "France" + "<br>" + "Team: " + "AC Ajaccio",
+        x: 480,
+        y: 2880
+    },
+    {
+        id: 22920,
+        label: "Mikkel Rask",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "Aarhus GF",
+        x: 600,
+        y: 2880
+    },
+    {
+        id: 5892,
+        label: "Martin Jörgensen",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "Aarhus GF",
+        x: 720,
+        y: 2880
+    },
+    {
+        id: 3109,
+        label: "Steven Gerrard",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Liverpool FC",
+        x: 840,
+        y: 2880
+    },
+    {
+        id: 19104,
+        label: "Giuseppe Rossi",
+        title: "Country: " + "United States" + "<br>" + "Team: " + "IT1",
+        x: 960,
+        y: 2880
+    },
+    {
+        id: 21039,
+        label: "Milan Ivana",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "SV Darmstadt 98",
+        x: 1080,
+        y: 2880
+    },
+    {
+        id: 30929,
+        label: "Gabriel Peñalba",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "UD Las Palmas",
+        x: 1200,
+        y: 2880
+    },
+    {
+        id: 32779,
+        label: "Max Grün",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Borussia Mönchengladbach",
+        x: 1320,
+        y: 2880
+    },
+    {
+        id: 1126,
+        label: "Matthias Lehmann",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "1.FC Köln",
+        x: 1440,
+        y: 2880
+    },
+    {
+        id: 31909,
+        label: "Toni Kroos",
+        title: "Country: " + "East Germany (GDR)" + "<br>" + "Team: " + "Real Madrid",
+        x: 1560,
+        y: 2880
+    },
+    {
+        id: 28393,
+        label: "Andraz Kirm",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "FC Groningen",
+        x: 1680,
+        y: 2880
+    },
+    {
+        id: 34559,
+        label: "Matthew Connolly",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Cardiff City",
+        x: 1800,
+        y: 2880
+    },
+    {
+        id: 5352,
+        label: "Mahamadou Diarra",
+        title: "Country: " + "Mali" + "<br>" + "Team: " + "Fulham FC",
+        x: 1920,
+        y: 2880
+    },
+    {
+        id: 7103,
+        label: "Marcos De Paula",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Chievo Verona",
+        x: 2040,
+        y: 2880
+    },
+    {
+        id: 3755,
+        label: "Óscar Ustari",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "Sunderland AFC",
+        x: 2160,
+        y: 2880
+    },
+    {
+        id: 22896,
+        label: "Kasper Lorentzen",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "FC Nordsjaelland",
+        x: 2280,
+        y: 2880
+    },
+    {
+        id: 15790,
+        label: "Ferrán Corominas",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Elche CF",
+        x: 2400,
+        y: 2880
+    },
+    {
+        id: 14403,
+        label: "Júnior",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Panetolikos GFS",
+        x: 2520,
+        y: 2880
+    },
+    {
+        id: 14521,
+        label: "Anestis Anastasiadis",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "PAS Lamia 1964",
+        x: 2640,
+        y: 2880
+    },
+    {
+        id: 5293,
+        label: "Sébastien Squillaci",
+        title: "Country: " + "France" + "<br>" + "Team: " + "SC Bastia",
+        x: 2760,
+        y: 2880
+    },
+    {
+        id: 28833,
+        label: "Andrea Coda",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Delfino Pescara 1936",
+        x: 2880,
+        y: 2880
+    },
+    {
+        id: 17734,
+        label: "Polat Keser",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Antalyaspor",
+        x: 3000,
+        y: 2880
+    },
+    {
+        id: 12149,
+        label: "Lorik Cana",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "FC Nantes",
+        x: 3120,
+        y: 2880
+    },
+    {
+        id: 6119,
+        label: "Mohamed Sissoko",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Levante UD",
+        x: 3240,
+        y: 2880
+    },
+    {
+        id: 3151,
+        label: "Carlo Cudicini",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Tottenham Hotspur",
+        x: 3360,
+        y: 2880
+    },
+    {
+        id: 4873,
+        label: "Armand Deumi",
+        title: "Country: " + "Cameroon" + "<br>" + "Team: " + "Kardemir Karabükspor",
+        x: 3480,
+        y: 2880
+    },
+    {
+        id: 16439,
+        label: "Minas Pitsos",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "GS Ergotelis",
+        x: 3600,
+        y: 2880
+    },
+    {
+        id: 24064,
+        label: "Dmytro Vorobyov",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Metalurg Donetsk (- 2015)",
+        x: 0,
+        y: 3000
+    },
+    {
+        id: 9644,
+        label: "Sergey Ignashevich",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "CSKA Moscow",
+        x: 120,
+        y: 3000
+    },
+    {
+        id: 9847,
+        label: "Giannis Arabatzis",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "AOK Kerkyra",
+        x: 240,
+        y: 3000
+    },
+    {
+        id: 19062,
+        label: "Frank van Mosselveld",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "RKC Waalwijk",
+        x: 360,
+        y: 3000
+    },
+    {
+        id: 3205,
+        label: "David Bentley",
+        title: "Country: " + "England" + "<br>" + "Team: " + "FK Rostov",
+        x: 480,
+        y: 3000
+    },
+    {
+        id: 34532,
+        label: "Jérémy Choplin",
+        title: "Country: " + "France" + "<br>" + "Team: " + "FC Metz",
+        x: 600,
+        y: 3000
+    },
+    {
+        id: 13058,
+        label: "Emmanuel Eboué",
+        title: "Country: " + "Cote d'Ivoire" + "<br>" + "Team: " + "Galatasaray",
+        x: 720,
+        y: 3000
+    },
+    {
+        id: 27239,
+        label: "Simon Vukcevic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "GD Chaves",
+        x: 840,
+        y: 3000
+    },
+    {
+        id: 27969,
+        label: "Jay Emmanuel-Thomas",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Aberdeen FC",
+        x: 960,
+        y: 3000
+    },
+    {
+        id: 31868,
+        label: "Ivan Paurevic",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "FK Ufa",
+        x: 1080,
+        y: 3000
+    },
+    {
+        id: 18097,
+        label: "Benjamin Kibebe",
+        title: "Country: " + "Ethiopia" + "<br>" + "Team: " + "FC Midtjylland",
+        x: 1200,
+        y: 3000
+    },
+    {
+        id: 26199,
+        label: "Verza",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Levante UD",
+        x: 1320,
+        y: 3000
+    },
+    {
+        id: 26101,
+        label: "Cicinho",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Sivasspor",
+        x: 1440,
+        y: 3000
+    },
+    {
+        id: 3924,
+        label: "Didier Drogba",
+        title: "Country: " + "Cote d'Ivoire" + "<br>" + "Team: " + "Chelsea FC",
+        x: 1560,
+        y: 3000
+    },
+    {
+        id: 31361,
+        label: "Dimitrios Diamantis",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Apollon Smyrnis",
+        x: 1680,
+        y: 3000
+    },
+    {
+        id: 5461,
+        label: "Florent Malouda",
+        title: "Country: " + "French Guiana" + "<br>" + "Team: " + "FC Metz",
+        x: 1800,
+        y: 3000
+    },
+    {
+        id: 12732,
+        label: "James Fowler",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Kilmarnock FC",
+        x: 1920,
+        y: 3000
+    },
+    {
+        id: 21372,
+        label: "Jamie Adams",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "St. Johnstone FC",
+        x: 2040,
+        y: 3000
+    },
+    {
+        id: 12906,
+        label: "Michaël Ciani",
+        title: "Country: " + "France" + "<br>" + "Team: " + "FC Lorient",
+        x: 2160,
+        y: 3000
+    },
+    {
+        id: 31696,
+        label: "Dimitrios Koutromanos",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "PAS Lamia 1964",
+        x: 2280,
+        y: 3000
+    },
+    {
+        id: 21725,
+        label: "Filipe Luís",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Atlético de Madrid",
+        x: 2400,
+        y: 3000
+    },
+    {
+        id: 22972,
+        label: "Rubén Pulido",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Aris Thessaloniki",
+        x: 2520,
+        y: 3000
+    },
+    {
+        id: 7983,
+        label: "Cani",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Deportivo de La Coruña",
+        x: 2640,
+        y: 3000
+    },
+    {
+        id: 24112,
+        label: "Rune Jarstein",
+        title: "Country: " + "Norway" + "<br>" + "Team: " + "Hertha BSC",
+        x: 2760,
+        y: 3000
+    },
+    {
+        id: 13443,
+        label: "Lee Camp",
+        title: "Country: " + "England" + "<br>" + "Team: " + "West Bromwich Albion",
+        x: 2880,
+        y: 3000
+    },
+    {
+        id: 16649,
+        label: "Jefferson Farfán",
+        title: "Country: " + "Peru" + "<br>" + "Team: " + "Lokomotiv Moscow",
+        x: 3000,
+        y: 3000
+    },
+    {
+        id: 14081,
+        label: "Ben Watson",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Watford FC",
+        x: 3120,
+        y: 3000
+    },
+    {
+        id: 2999,
+        label: "Chris Iwelumo",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "St. Johnstone FC",
+        x: 3240,
+        y: 3000
+    },
+    {
+        id: 33671,
+        label: "Robert Zwinkels",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "ADO Den Haag",
+        x: 3360,
+        y: 3000
+    },
+    {
+        id: 4750,
+        label: "Kenny Miller",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Livingston FC",
+        x: 3480,
+        y: 3000
+    },
+    {
+        id: 9975,
+        label: "Richard Chaplow",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Southampton FC",
+        x: 3600,
+        y: 3000
+    },
+    {
+        id: 20394,
+        label: "Artur Moraes",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Desportivo Aves (- 2020)",
+        x: 0,
+        y: 3120
+    },
+    {
+        id: 26105,
+        label: "Valter Birsa",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Cagliari Calcio",
+        x: 120,
+        y: 3120
+    },
+    {
+        id: 25742,
+        label: "Nikica Jelavic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "West Ham United",
+        x: 240,
+        y: 3120
+    },
+    {
+        id: 15730,
+        label: "Evgeniy Aldonin",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "RU1",
+        x: 360,
+        y: 3120
+    },
+    {
+        id: 33357,
+        label: "Miranda",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Inter Milan",
+        x: 480,
+        y: 3120
+    },
+    {
+        id: 7358,
+        label: "Javier Pinola",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "1.FC Nuremberg",
+        x: 600,
+        y: 3120
+    },
+    {
+        id: 14244,
+        label: "Paulo Assunção",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "APO Levadiakos",
+        x: 720,
+        y: 3120
+    },
+    {
+        id: 30758,
+        label: "Darío Cvitanich",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "OGC Nice",
+        x: 840,
+        y: 3120
+    },
+    {
+        id: 22348,
+        label: "Tim Matthys",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "KV Mechelen",
+        x: 960,
+        y: 3120
+    },
+    {
+        id: 16624,
+        label: "Marcell Jansen",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Hamburger SV",
+        x: 1080,
+        y: 3120
+    },
+    {
+        id: 33763,
+        label: "Massimo Coda",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Benevento Calcio",
+        x: 1200,
+        y: 3120
+    },
+    {
+        id: 1139,
+        label: "Nikolce Noveski",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "1.FSV Mainz 05",
+        x: 1320,
+        y: 3120
+    },
+    {
+        id: 11354,
+        label: "Jim Goodwin",
+        title: "Country: " + "Ireland" + "<br>" + "Team: " + "St. Mirren FC",
+        x: 1440,
+        y: 3120
+    },
+    {
+        id: 34169,
+        label: "Atilla Koca",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Kayseri Erciyesspor",
+        x: 1560,
+        y: 3120
+    },
+    {
+        id: 2334,
+        label: "Marcel Ndjeng",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Hertha BSC",
+        x: 1680,
+        y: 3120
+    },
+    {
+        id: 22810,
+        label: "Vangelis Nastos",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Veria NPS",
+        x: 1800,
+        y: 3120
+    },
+    {
+        id: 7867,
+        label: "Rodolfo Bodipo",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Deportivo de La Coruña",
+        x: 1920,
+        y: 3120
+    },
+    {
+        id: 8480,
+        label: "Sito Riera",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Chornomorets Odessa",
+        x: 2040,
+        y: 3120
+    },
+    {
+        id: 5668,
+        label: "Anthony Réveillère",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Sunderland AFC",
+        x: 2160,
+        y: 3120
+    },
+    {
+        id: 12115,
+        label: "Sjoerd Ars",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "NEC Nijmegen",
+        x: 2280,
+        y: 3120
+    },
+    {
+        id: 12351,
+        label: "Hassan Yebda",
+        title: "Country: " + "France" + "<br>" + "Team: " + "CF Os Belenenses",
+        x: 2400,
+        y: 3120
+    },
+    {
+        id: 13175,
+        label: "Fary Faye",
+        title: "Country: " + "Senegal" + "<br>" + "Team: " + "Boavista FC",
+        x: 2520,
+        y: 3120
+    },
+    {
+        id: 21872,
+        label: "Gianluca Pegolo",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "US Sassuolo",
+        x: 2640,
+        y: 3120
+    },
+    {
+        id: 13368,
+        label: "Bernd Thijs",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "KAA Gent",
+        x: 2760,
+        y: 3120
+    },
+    {
+        id: 2726,
+        label: "Romuald Peiser",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Académica Coimbra",
+        x: 2880,
+        y: 3120
+    },
+    {
+        id: 16064,
+        label: "Metin Depe",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Basaksehir FK",
+        x: 3000,
+        y: 3120
+    },
+    {
+        id: 29896,
+        label: "Fotis Kipouros",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "AO Platanias",
+        x: 3120,
+        y: 3120
+    },
+    {
+        id: 19041,
+        label: "Gökhan İnler",
+        title: "Country: " + "Switzerland" + "<br>" + "Team: " + "Besiktas JK",
+        x: 3240,
+        y: 3120
+    },
+    {
+        id: 20750,
+        label: "Christos Bourbos",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Panathinaikos Athens",
+        x: 3360,
+        y: 3120
+    },
+    {
+        id: 23366,
+        label: "Eros Schiavon",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "SPAL",
+        x: 3480,
+        y: 3120
+    },
+    {
+        id: 33537,
+        label: "Olberdam",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "CS Marítimo",
+        x: 3600,
+        y: 3120
+    },
+    {
+        id: 25820,
+        label: "Vyacheslav Shevchuk",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Shakhtar Donetsk",
+        x: 0,
+        y: 3240
+    },
+    {
+        id: 30739,
+        label: "Mikel John Obi",
+        title: "Country: " + "Nigeria" + "<br>" + "Team: " + "Trabzonspor",
+        x: 120,
+        y: 3240
+    },
+    {
+        id: 25812,
+        label: "Emir Spahic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Hamburger SV",
+        x: 240,
+        y: 3240
+    },
+    {
+        id: 24282,
+        label: "Sören Larsen",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "Aarhus GF",
+        x: 360,
+        y: 3240
+    },
+    {
+        id: 34543,
+        label: "Dusan Svento",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "1.FC Köln",
+        x: 480,
+        y: 3240
+    },
+    {
+        id: 9586,
+        label: "Anatoliy Gerk",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "RU1",
+        x: 600,
+        y: 3240
+    },
+    {
+        id: 2048,
+        label: "Philipp Haastrup",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Willem II Tilburg",
+        x: 720,
+        y: 3240
+    },
+    {
+        id: 27053,
+        label: "Conrad Logan",
+        title: "Country: " + "Ireland" + "<br>" + "Team: " + "Leicester City",
+        x: 840,
+        y: 3240
+    },
+    {
+        id: 27378,
+        label: "Cleiton Xavier",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Metalist Kharkiv (- 2016)",
+        x: 960,
+        y: 3240
+    },
+    {
+        id: 5889,
+        label: "Thomas Manfredini",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "US Sassuolo",
+        x: 1080,
+        y: 3240
+    },
+    {
+        id: 12912,
+        label: "Davy De Beule",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "Roda JC Kerkrade",
+        x: 1200,
+        y: 3240
+    },
+    {
+        id: 13036,
+        label: "Boldizsár Bodor",
+        title: "Country: " + "Hungary" + "<br>" + "Team: " + "NAC Breda",
+        x: 1320,
+        y: 3240
+    },
+    {
+        id: 32860,
+        label: "Aílton",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Akhmat Grozny",
+        x: 1440,
+        y: 3240
+    },
+    {
+        id: 1381,
+        label: "Maik Franz",
+        title: "Country: " + "East Germany (GDR)" + "<br>" + "Team: " + "Hertha BSC",
+        x: 1560,
+        y: 3240
+    },
+    {
+        id: 15817,
+        label: "Patrick Deman",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "KV Kortrijk",
+        x: 1680,
+        y: 3240
+    },
+    {
+        id: 25850,
+        label: "Andriy Dykan",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "FK Krasnodar",
+        x: 1800,
+        y: 3240
+    },
+    {
+        id: 12873,
+        label: "Vangelis Mantzios",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Apollon Smyrnis",
+        x: 1920,
+        y: 3240
+    },
+    {
+        id: 9091,
+        label: "Gustavo Munúa",
+        title: "Country: " + "Uruguay" + "<br>" + "Team: " + "ACF Fiorentina",
+        x: 2040,
+        y: 3240
+    },
+    {
+        id: 5345,
+        label: "Youssouf Hadji",
+        title: "Country: " + "Morocco" + "<br>" + "Team: " + "AS Nancy-Lorraine",
+        x: 2160,
+        y: 3240
+    },
+    {
+        id: 31182,
+        label: "Andreas Beck",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "KAS Eupen",
+        x: 2280,
+        y: 3240
+    },
+    {
+        id: 4371,
+        label: "Glenn Loovens",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Real Zaragoza",
+        x: 2400,
+        y: 3240
+    },
+    {
+        id: 4361,
+        label: "Dennis Rommedahl",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "RKC Waalwijk",
+        x: 2520,
+        y: 3240
+    },
+    {
+        id: 18301,
+        label: "Maicon",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "AS Roma",
+        x: 2640,
+        y: 3240
+    },
+    {
+        id: 5470,
+        label: "Charles Itandje",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Gaziantepspor (- 2020)",
+        x: 2760,
+        y: 3240
+    },
+    {
+        id: 7668,
+        label: "Alberto Cifuentes",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Cádiz CF",
+        x: 2880,
+        y: 3240
+    },
+    {
+        id: 5966,
+        label: "Marius Stankevicius",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Hannover 96",
+        x: 3000,
+        y: 3240
+    },
+    {
+        id: 29366,
+        label: "Edinho",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "CD Feirense",
+        x: 3120,
+        y: 3240
+    },
+    {
+        id: 34785,
+        label: "Joey van den Berg",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "SC Heerenveen",
+        x: 3240,
+        y: 3240
+    },
+    {
+        id: 33448,
+        label: "Cristian Rodríguez",
+        title: "Country: " + "Uruguay" + "<br>" + "Team: " + "Parma Calcio 1913",
+        x: 3360,
+        y: 3240
+    },
+    {
+        id: 6075,
+        label: "Erjon Bogdani",
+        title: "Country: " + "Albania" + "<br>" + "Team: " + "Siena FC",
+        x: 3480,
+        y: 3240
+    },
+    {
+        id: 12938,
+        label: "Leonidas Kampantais",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Panionios Athens",
+        x: 3600,
+        y: 3240
+    },
+    {
+        id: 8691,
+        label: "Sedat Agcay",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "MKE Ankaragücü",
+        x: 0,
+        y: 3360
+    },
+    {
+        id: 12275,
+        label: "Jean-Pascal Mignot",
+        title: "Country: " + "France" + "<br>" + "Team: " + "AS Saint-Étienne",
+        x: 120,
+        y: 3360
+    },
+    {
+        id: 6107,
+        label: "Abdoulaye Faye",
+        title: "Country: " + "Senegal" + "<br>" + "Team: " + "Hull City",
+        x: 240,
+        y: 3360
+    },
+    {
+        id: 5680,
+        label: "Toifilou Maoulida",
+        title: "Country: " + "France" + "<br>" + "Team: " + "SC Bastia",
+        x: 360,
+        y: 3360
+    },
+    {
+        id: 25911,
+        label: "Aleksey Popov",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Amkar Perm",
+        x: 480,
+        y: 3360
+    },
+    {
+        id: 25825,
+        label: "Grégory Arnolin",
+        title: "Country: " + "France" + "<br>" + "Team: " + "FC Paços de Ferreira",
+        x: 600,
+        y: 3360
+    },
+    {
+        id: 3269,
+        label: "Calvin Zola",
+        title: "Country: " + "Zaire" + "<br>" + "Team: " + "Aberdeen FC",
+        x: 720,
+        y: 3360
+    },
+    {
+        id: 15033,
+        label: "Velizar Dimitrov",
+        title: "Country: " + "Bulgaria" + "<br>" + "Team: " + "Metalurg Donetsk (- 2015)",
+        x: 840,
+        y: 3360
+    },
+    {
+        id: 22102,
+        label: "Paolo Bianco",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "US Sassuolo",
+        x: 960,
+        y: 3360
+    },
+    {
+        id: 15368,
+        label: "Vyacheslav Malafeev",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Zenit St. Petersburg",
+        x: 1080,
+        y: 3360
+    },
+    {
+        id: 3297,
+        label: "Craig Bellamy",
+        title: "Country: " + "Wales" + "<br>" + "Team: " + "Cardiff City",
+        x: 1200,
+        y: 3360
+    },
+    {
+        id: 33639,
+        label: "Kevin Mirallas",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "Moreirense FC",
+        x: 1320,
+        y: 3360
+    },
+    {
+        id: 22479,
+        label: "Jonas Borring",
+        title: "Country: " + "" + "<br>" + "Team: " + "AC Horsens",
+        x: 1440,
+        y: 3360
+    },
+    {
+        id: 19312,
+        label: "Davy De fauw",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "SV Zulte Waregem",
+        x: 1560,
+        y: 3360
+    },
+    {
+        id: 10152,
+        label: "Cagdas Atan",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Akhisarspor",
+        x: 1680,
+        y: 3360
+    },
+    {
+        id: 14881,
+        label: "Marcelo Carné",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "GD Estoril Praia",
+        x: 1800,
+        y: 3360
+    },
+    {
+        id: 12563,
+        label: "Goran Pandev",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Genoa CFC",
+        x: 1920,
+        y: 3360
+    },
+    {
+        id: 34730,
+        label: "Cláudio",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Gil Vicente FC",
+        x: 2040,
+        y: 3360
+    },
+    {
+        id: 18870,
+        label: "Liam Lawrence",
+        title: "Country: " + "England" + "<br>" + "Team: " + "PAOK Thessaloniki",
+        x: 2160,
+        y: 3360
+    },
+    {
+        id: 13640,
+        label: "Kelvin Davis",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Southampton FC",
+        x: 2280,
+        y: 3360
+    },
+    {
+        id: 13023,
+        label: "Igor de Camargo",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "KV Mechelen",
+        x: 2400,
+        y: 3360
+    },
+    {
+        id: 27493,
+        label: "Iván Cuéllar",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "RCD Mallorca",
+        x: 2520,
+        y: 3360
+    },
+    {
+        id: 3978,
+        label: "Svetoslav Todorov",
+        title: "Country: " + "Bulgaria" + "<br>" + "Team: " + "Goverla Uzhgorod (- 2016)",
+        x: 2640,
+        y: 3360
+    },
+    {
+        id: 29631,
+        label: "Ufuk Ceylan",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Alanyaspor",
+        x: 2760,
+        y: 3360
+    },
+    {
+        id: 31069,
+        label: "Charles Diers",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Angers SCO",
+        x: 2880,
+        y: 3360
+    },
+    {
+        id: 7874,
+        label: "Gorka Iraizoz",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Girona FC",
+        x: 3000,
+        y: 3360
+    },
+    {
+        id: 3947,
+        label: "Henrik Pedersen",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "Silkeborg IF",
+        x: 3120,
+        y: 3360
+    },
+    {
+        id: 16690,
+        label: "Diniyar Bilyaletdinov",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "Rubin Kazan",
+        x: 3240,
+        y: 3360
+    },
+    {
+        id: 14186,
+        label: "Gary Glen",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Ross County FC",
+        x: 3360,
+        y: 3360
+    },
+    {
+        id: 4408,
+        label: "Santi Kolk",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "ADO Den Haag",
+        x: 3480,
+        y: 3360
+    },
+    {
+        id: 8640,
+        label: "Andreas Lambertz",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "Fortuna Düsseldorf",
+        x: 3600,
+        y: 3360
+    },
+    {
+        id: 25618,
+        label: "Sergiy Pshenychnykh",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "PFK Stal Kamyanske (-2018)",
+        x: 0,
+        y: 3480
+    },
+    {
+        id: 5422,
+        label: "Philippe Mexès",
+        title: "Country: " + "France" + "<br>" + "Team: " + "AC Milan",
+        x: 120,
+        y: 3480
+    },
+    {
+        id: 18909,
+        label: "Jimmy Briand",
+        title: "Country: " + "France" + "<br>" + "Team: " + "FC Girondins Bordeaux",
+        x: 240,
+        y: 3480
+    },
+    {
+        id: 12589,
+        label: "Craig Gordon",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Heart of Midlothian FC",
+        x: 360,
+        y: 3480
+    },
+    {
+        id: 31025,
+        label: "Dirk Marcellis",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "PEC Zwolle",
+        x: 480,
+        y: 3480
+    },
+    {
+        id: 25879,
+        label: "Pavel Alikin",
+        title: "Country: " + "UdSSR" + "<br>" + "Team: " + "FK Ufa",
+        x: 600,
+        y: 3480
+    },
+    {
+        id: 27303,
+        label: "Gerson Magrão",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Sporting CP",
+        x: 720,
+        y: 3480
+    },
+    {
+        id: 5667,
+        label: "Sébastien Puygrenier",
+        title: "Country: " + "France" + "<br>" + "Team: " + "Kardemir Karabükspor",
+        x: 840,
+        y: 3480
+    },
+    {
+        id: 22473,
+        label: "Simon Nagel",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "Viborg FF",
+        x: 960,
+        y: 3480
+    },
+    {
+        id: 26683,
+        label: "Mihaita Plesan",
+        title: "Country: " + "Romania" + "<br>" + "Team: " + "Volga Nizhniy Novgorod (- 2016)",
+        x: 1080,
+        y: 3480
+    },
+    {
+        id: 14708,
+        label: "Grant Munro",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Ross County FC",
+        x: 1200,
+        y: 3480
+    },
+    {
+        id: 14882,
+        label: "Cédric Makiadi",
+        title: "Country: " + "Zaire" + "<br>" + "Team: " + "Caykur Rizespor",
+        x: 1320,
+        y: 3480
+    },
+    {
+        id: 7844,
+        label: "Jorge López",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "KAA Gent",
+        x: 1440,
+        y: 3480
+    },
+    {
+        id: 13216,
+        label: "José Moreira",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "GD Estoril Praia",
+        x: 1560,
+        y: 3480
+    },
+    {
+        id: 9602,
+        label: "Maarten Martens",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "PAOK Thessaloniki",
+        x: 1680,
+        y: 3480
+    },
+    {
+        id: 30767,
+        label: "Gabriel Paletta",
+        title: "Country: " + "Argentina" + "<br>" + "Team: " + "AC Monza",
+        x: 1800,
+        y: 3480
+    },
+    {
+        id: 28007,
+        label: "Luca Anania",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "US Livorno 1915",
+        x: 1920,
+        y: 3480
+    },
+    {
+        id: 3146,
+        label: "Shay Given",
+        title: "Country: " + "Ireland" + "<br>" + "Team: " + "Stoke City",
+        x: 2040,
+        y: 3480
+    },
+    {
+        id: 6807,
+        label: "Simone Farelli",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "AS Roma",
+        x: 2160,
+        y: 3480
+    },
+    {
+        id: 5755,
+        label: "Emiliano Moretti",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Torino FC",
+        x: 2280,
+        y: 3480
+    },
+    {
+        id: 4425,
+        label: "Theo Janssen",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "Vitesse Arnhem",
+        x: 2400,
+        y: 3480
+    },
+    {
+        id: 26582,
+        label: "Panagiotis Glykos",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "PAOK Thessaloniki",
+        x: 2520,
+        y: 3480
+    },
+    {
+        id: 15724,
+        label: "Ismael López",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Athletic Bilbao",
+        x: 2640,
+        y: 3480
+    },
+    {
+        id: 26876,
+        label: "Mirnes Sisic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "OFI Crete FC",
+        x: 2760,
+        y: 3480
+    },
+    {
+        id: 6097,
+        label: "Fabrizio Miccoli",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Palermo FC",
+        x: 2880,
+        y: 3480
+    },
+    {
+        id: 17885,
+        label: "Karim Haggui",
+        title: "Country: " + "Tunisia" + "<br>" + "Team: " + "VfB Stuttgart",
+        x: 3000,
+        y: 3480
+    },
+    {
+        id: 3804,
+        label: "Carlo Nash",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Norwich City",
+        x: 3120,
+        y: 3480
+    },
+    {
+        id: 19721,
+        label: "Goran Popov",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "West Bromwich Albion",
+        x: 3240,
+        y: 3480
+    },
+    {
+        id: 31173,
+        label: "Jan Rosenthal",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "SV Darmstadt 98",
+        x: 3360,
+        y: 3480
+    },
+    {
+        id: 3259,
+        label: "Damien Duff",
+        title: "Country: " + "Ireland" + "<br>" + "Team: " + "Fulham FC",
+        x: 3480,
+        y: 3480
+    },
+    {
+        id: 25323,
+        label: "Andrea Pisanu",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "Bologna FC 1909",
+        x: 3600,
+        y: 3480
+    },
+    {
+        id: 26815,
+        label: "Georgios Paraskevaidis",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "AOK Kerkyra",
+        x: 0,
+        y: 3600
+    },
+    {
+        id: 4344,
+        label: "Michael Lamey",
+        title: "Country: " + "Netherlands" + "<br>" + "Team: " + "RKC Waalwijk",
+        x: 120,
+        y: 3600
+    },
+    {
+        id: 21333,
+        label: "Aiden McGeady",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Hibernian FC",
+        x: 240,
+        y: 3600
+    },
+    {
+        id: 9694,
+        label: "Efthymios Kouloucheris",
+        title: "Country: " + "Greece" + "<br>" + "Team: " + "Panionios Athens",
+        x: 360,
+        y: 3600
+    },
+    {
+        id: 25468,
+        label: "Sebastian Freis",
+        title: "Country: " + "Germany" + "<br>" + "Team: " + "SC Freiburg",
+        x: 480,
+        y: 3600
+    },
+    {
+        id: 18100,
+        label: "Per Nilsson",
+        title: "Country: " + "Sweden" + "<br>" + "Team: " + "FC Copenhagen",
+        x: 600,
+        y: 3600
+    },
+    {
+        id: 28261,
+        label: "José Manuel Jurado",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "RCD Espanyol Barcelona",
+        x: 720,
+        y: 3600
+    },
+    {
+        id: 14044,
+        label: "Andy Lonergan",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Everton FC",
+        x: 840,
+        y: 3600
+    },
+    {
+        id: 7717,
+        label: "José Antonio Reyes",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "RCD Espanyol Barcelona",
+        x: 960,
+        y: 3600
+    },
+    {
+        id: 3530,
+        label: "Jan Polak",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "VfL Wolfsburg",
+        x: 1080,
+        y: 3600
+    },
+    {
+        id: 5853,
+        label: "Alfonso De Lucia",
+        title: "Country: " + "Italy" + "<br>" + "Team: " + "US Livorno 1915",
+        x: 1200,
+        y: 3600
+    },
+    {
+        id: 12802,
+        label: "Mark Kerr",
+        title: "Country: " + "Scotland" + "<br>" + "Team: " + "Partick Thistle FC",
+        x: 1320,
+        y: 3600
+    },
+    {
+        id: 7930,
+        label: "Rowan Vine",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Hibernian FC",
+        x: 1440,
+        y: 3600
+    },
+    {
+        id: 1095,
+        label: "Peer Kluge",
+        title: "Country: " + "East Germany (GDR)" + "<br>" + "Team: " + "Hertha BSC",
+        x: 1560,
+        y: 3600
+    },
+    {
+        id: 27510,
+        label: "Lee Croft",
+        title: "Country: " + "England" + "<br>" + "Team: " + "St. Johnstone FC",
+        x: 1680,
+        y: 3600
+    },
+    {
+        id: 3321,
+        label: "Luke Wilkshire",
+        title: "Country: " + "Australia" + "<br>" + "Team: " + "Akhmat Grozny",
+        x: 1800,
+        y: 3600
+    },
+    {
+        id: 15135,
+        label: "Rasmus Würtz",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "Aalborg BK",
+        x: 1920,
+        y: 3600
+    },
+    {
+        id: 12934,
+        label: "Franck Grandel",
+        title: "Country: " + "Guadeloupe" + "<br>" + "Team: " + "ESTAC Troyes",
+        x: 2040,
+        y: 3600
+    },
+    {
+        id: 27470,
+        label: "Stéphane Mbia",
+        title: "Country: " + "Cameroon" + "<br>" + "Team: " + "FC Toulouse",
+        x: 2160,
+        y: 3600
+    },
+    {
+        id: 27954,
+        label: "Ognjen Vukojevic",
+        title: "Country: " + "Jugoslawien (SFR)" + "<br>" + "Team: " + "Dynamo Kyiv",
+        x: 2280,
+        y: 3600
+    },
+    {
+        id: 25834,
+        label: "Joe Lewis",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Aberdeen FC",
+        x: 2400,
+        y: 3600
+    },
+    {
+        id: 33569,
+        label: "Hayrettin Yerlikaya",
+        title: "Country: " + "Turkey" + "<br>" + "Team: " + "Sivasspor",
+        x: 2520,
+        y: 3600
+    },
+    {
+        id: 27346,
+        label: "Marcelo Boeck",
+        title: "Country: " + "Brazil" + "<br>" + "Team: " + "Sporting CP",
+        x: 2640,
+        y: 3600
+    },
+    {
+        id: 7194,
+        label: "Murat Erdogan",
+        title: "Country: " + "England" + "<br>" + "Team: " + "Mersin Talimyurdu SK",
+        x: 2760,
+        y: 3600
+    },
+    {
+        id: 22923,
+        label: "Steffen Rasmussen",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "Aarhus GF",
+        x: 2880,
+        y: 3600
+    },
+    {
+        id: 4763,
+        label: "Bo Storm",
+        title: "Country: " + "Denmark" + "<br>" + "Team: " + "SönderjyskE",
+        x: 3000,
+        y: 3600
+    },
+    {
+        id: 31952,
+        label: "Guillaume Gillet",
+        title: "Country: " + "Belgium" + "<br>" + "Team: " + "RSC Charleroi",
+        x: 3120,
+        y: 3600
+    },
+    {
+        id: 15568,
+        label: "Bruno Gama",
+        title: "Country: " + "Portugal" + "<br>" + "Team: " + "Aris Thessaloniki",
+        x: 3240,
+        y: 3600
+    },
+    {
+        id: 15764,
+        label: "Moisés Hurtado",
+        title: "Country: " + "Spain" + "<br>" + "Team: " + "Granada CF",
+        x: 3360,
+        y: 3600
+    },
+    {
+        id: 7858,
+        group: 22,
+        label: "Yossi Benayoun",
+        title: "Country: " + "Israel" + "<br>" + "Team: " + "West Ham United",
+        x: 3480,
+        y: 3600
+    },
+    {
+        id: 25635,
+        group: 22,
+        label: "Petr Vasek",
+        title: "Country: " + "CSSR" + "<br>" + "Team: " + "Tom Tomsk",
+        x: 3600,
+        y: 3600
     }
 ];

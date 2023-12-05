@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { Typography, Box, TextField, Autocomplete } from '@mui/material';
-import FilterProducts from './filterProducts'; // Corrected the import and component name
 
 function SearchBar() { // Corrected the component name to start with a capital letter
   const [input, setInput] = useState('');
@@ -14,9 +13,19 @@ function SearchBar() { // Corrected the component name to start with a capital l
     // Fetch or set your list data here
     // For example, you can set a static list for demonstration purposes
     setList([
-      { title: 'Zlatan' },
-      { title: 'Zidane' },
-      { title: 'Zoro' },
+      { title: 'Juan Pablo Caffa' },
+      { title: 'Jussiê' },
+      { title: 'Mark Brown' },
+      { title: 'Sammy Clingan' },
+      { title: 'Rab Douglas' },
+      { title: 'Fernando Belluschi' },
+      { title: 'Brad Jones' },
+      { title: 'Matty Fryatt' },
+      { title: 'Matthew Amoah' },
+      { title: 'Georgios Kantimiris' },
+      { title: 'Abdurrahman Dereli' },
+      { title: 'Alexis Ruano' },
+      { title: 'Levan Kenia' },
     ]);
   }, []);
 
@@ -37,7 +46,7 @@ function SearchBar() { // Corrected the component name to start with a capital l
         renderInput={(params) => (
           <TextField
             {...params}
-            label="Search title"
+            label="Search Player"
             sx={{
               width: 290,
               margin: '10px auto',
@@ -45,7 +54,25 @@ function SearchBar() { // Corrected the component name to start with a capital l
           />
         )}
       />
-      <FilterProducts searchstring={input} list={list} />
+
+      <br></br>
+
+      <Autocomplete
+        disablePortal
+        id="combo-box-demo"
+        options={list.map((item) => item.title)}
+        onChange={(event, newValue) => setInput(newValue.toLowerCase())}
+        renderInput={(params) => (
+          <TextField
+            {...params}
+            label="Search Player"
+            sx={{
+              width: 290,
+              margin: '10px auto',
+            }}
+          />
+        )}
+      />
     </Box>
   );
 }
