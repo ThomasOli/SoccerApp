@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 ![image](https://github.com/ThomasOli/SoccerApp/assets/51518411/2cfaa8d8-9947-4283-9a89-b07d3dee0499)
 ![image (1)](https://github.com/ThomasOli/SoccerApp/assets/51518411/bdb35d26-4431-4330-8c75-ba859c020ebf)
 
+![IMG_3312](https://github.com/ThomasOli/SoccerApp/assets/51518411/5377e8a1-ec2c-4b8c-ad3a-ca7acc36ac5e)
+![IMG_3313](https://github.com/ThomasOli/SoccerApp/assets/51518411/8e78a41f-5dcd-495a-bb06-26efe1a8e3a9)
