@@ -1,33 +1,29 @@
 import React, { useState, useEffect } from 'react';
 import { Typography, Box, TextField, Autocomplete } from '@mui/material';
 
-function SearchBar() { // Corrected the component name to start with a capital letter
+function SearchBar({setFromPlayer, setToPlayer}) { // Corrected the component name to start with a capital letter
   const [input, setInput] = useState('');
   const [list, setList] = useState([]);
-  const [fromPlayer, setFromPlayer] = useState("");
-  const [toPlayer, setToPlayer] = useState("");
 
   const handleInput = (e) => {
     setInput(e.target.value.toLowerCase());
   };
 
   useEffect(() => { 
-    // Fetch or set your list data here
-    // For example, you can set a static list for demonstration purposes
     setList([
-      { title: 'Juan Pablo Caffa' },
-      { title: 'Jussiê' },
-      { title: 'Mark Brown' },
-      { title: 'Sammy Clingan' },
-      { title: 'Rab Douglas' },
-      { title: 'Fernando Belluschi' },
-      { title: 'Brad Jones' },
-      { title: 'Matty Fryatt' },
-      { title: 'Matthew Amoah' },
-      { title: 'Georgios Kantimiris' },
-      { title: 'Abdurrahman Dereli' },
-      { title: 'Alexis Ruano' },
-      { title: 'Levan Kenia' },
+      { title: 'Hans Henrik Andreasen', id: 20838},
+      { title: 'Zdravko Kuzmanovic', id: 25441},
+      { title: 'Cristian Rodríguez', id: 33448},
+      { title: 'Steffen Rasmussen', id: 22923, },
+      { title: 'Liam Rosenior', id: 15166 },
+      { title: 'Jan-Ingwer Callsen-Bracker', id: 3851},
+      { title: 'Mustapha Oussalah', id: 13483},
+      { title: 'Adrian Mutu', id: 5879},
+      { title: 'Ciro Polito', id: 22123},
+      { title: 'Claudio Terzi', id: 16873},
+      { title: 'Zydrunas Karcemarskas', id: 15676},
+      { title: 'Marco Soares', id: 33549},
+      { title: 'Mikel Labaka', id: 23247}
     ]);
   }, []);
 
@@ -44,7 +40,12 @@ function SearchBar() { // Corrected the component name to start with a capital l
         disablePortal
         id="combo-box-demo"
         options={list.map((item) => item.title)}
-        onChange={(event, newValue) => setInput(newValue.toLowerCase(), setFromPlayer(newValue))}
+        // setFromPlayer(list.filter(player => player.title === newValue))
+        onChange={(event, newValue) => {setInput(newValue.toLowerCase()); 
+                                        console.log(list.filter(player => player.title === newValue)[0].id);
+                                        setFromPlayer(list.filter(player => player.title === newValue)[0].id)
+                                      }}
+
         renderInput={(params) => (
           <TextField
             {...params}
@@ -63,7 +64,14 @@ function SearchBar() { // Corrected the component name to start with a capital l
         disablePortal
         id="combo-box-demo"
         options={list.map((item) => item.title)}
-        onChange={(event, newValue) => setInput(newValue.toLowerCase(), setToPlayer(newValue))}
+        onChange={(event, newValue) =>  {
+            setInput(newValue.toLowerCase()); 
+            console.log(list.filter(player => player.title === newValue)[0].id);
+            setToPlayer(list.filter(player => player.title === newValue)[0].id);
+           }
+        }
+          // {newValue.toLowerCase(); 
+                                        
         renderInput={(params) => (
           <TextField
             {...params}

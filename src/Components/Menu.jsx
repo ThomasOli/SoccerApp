@@ -9,12 +9,19 @@ import { Typography } from "@mui/material";
 import { edges, nodes } from "./dataNew";
 import DFS from "../app/algorithms/DFS"
 const Menu = ({ children }) => {
-
-  const startNodeId = 1095;
-  const endNodeId = 31173;
-
   const [visitedNodes, setVisitedNodes] = useState([]);
   const [generatePathClicked, setGeneratePathClicked] = useState(false);
+
+  const [startNodeId, setFromPlayer] = useState(null);
+  const [endNodeId, setToPlayer] = useState(null);
+
+  const changeFromPlayer = (newFromPlayer) => {
+    setFromPlayer(newFromPlayer);
+  };
+
+  const changeToPlayer = (newToPlayer) => {
+    setToPlayer(newToPlayer);
+  };
 
 
   const handleAlgoInitiated = (nodes) => {
@@ -63,7 +70,7 @@ const Menu = ({ children }) => {
         <div>
           <Typography>Comparison of DFS / BFS Path Finding</Typography>
           <br></br>
-          <SearchBar></SearchBar>
+          <SearchBar setFromPlayer={changeFromPlayer} setToPlayer={changeToPlayer}></SearchBar>
         </div>
         <div
           style={{

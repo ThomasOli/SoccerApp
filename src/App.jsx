@@ -3,6 +3,7 @@ import Menu from './Components/Menu';
 import ComparisonModule from './Components/ComparisonModule';
 import Graphs from './Components/GraphView';
 import { edges, nodes } from "./Components/dataNew";
+
 const App = () => {
   const startNodeId = 1095;
   const endNodeId = 31173;
