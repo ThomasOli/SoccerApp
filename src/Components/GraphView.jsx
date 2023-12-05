@@ -1,6 +1,6 @@
 import Graph from"react-graph-vis"
 import React from 'react'
-import {edges, nodes} from './data'
+import {edges, nodes} from './dataNew'
 export default function Graphs(){
     var options = {
         nodes:{

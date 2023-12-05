@@ -6,11 +6,11 @@ import SearchBar from "./Searchbar";
 import Selection from "./selection";
 import BFS from "../app/algorithms/BFS";
 import { Typography } from "@mui/material";
-import { edges, nodes } from "./data";
+import { edges, nodes } from "./dataNew";
 import DFS from "../app/algorithms/DFS"
 const Menu = ({ children }) => {
-  const startNodeId = 12;
-  const endNodeId = 319;
+  const startNodeId = 3788;
+  const endNodeId = 14555;
   const [visitedNodes, setVisitedNodes] = useState([]);
   const [generatePathClicked, setGeneratePathClicked] = useState(false);
 

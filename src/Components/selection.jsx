@@ -43,7 +43,6 @@ const Selection = ({ onAlgorithmChange, onReset }) => {
     onReset(); // Call the provided onReset callback
   };
 
-  const handlePause = () => {};
 
   return (
     <div style={{ padding: "10px", border: "1px solid #ccc" }}>
@@ -56,15 +55,6 @@ const Selection = ({ onAlgorithmChange, onReset }) => {
           flexDirection: "column",
         }}
       >
-        <ButtonGroup
-          variant="contained"
-          aria-label="outlined primary button group"
-        >
-          <Button onClick={handleResetClick}>Reset</Button>
-          <Button onClick={handlePause}>Pause</Button>
-        </ButtonGroup>
-        <br></br>
-
         <div style={{ display: "flex", alignItems: "center" }}>
           <FormControl>
             <FormLabel id="demo-controlled-radio-buttons-group">
@@ -104,15 +94,12 @@ const Selection = ({ onAlgorithmChange, onReset }) => {
           </Box>
         </div>
         <br></br>
-        <Typography variant="body1" color="textSecondary">
-          Transparency
-        </Typography>
-        <Slider
-          aria-label="Transparency"
-          defaultValue={30}
-          getAriaValueText={valuetext}
-          color="primary"
-        />
+        <ButtonGroup
+          variant="contained"
+          aria-label="outlined primary button group"
+        >
+          <Button onClick={handleResetClick}>Reset</Button>
+        </ButtonGroup>
       </Box>
       {/* Add more elements as needed */}
     </div>
