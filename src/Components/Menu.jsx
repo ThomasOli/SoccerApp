@@ -8,12 +8,9 @@ import BFS from "../app/algorithms/BFS";
 import { Typography } from "@mui/material";
 import { edges, nodes } from "./dataNew";
 import DFS from "../app/algorithms/DFS"
-const Menu = ({ children }) => {
+const Menu = ({startNodeId, endNodeId, setFromPlayer, setToPlayer}) => {
   const [visitedNodes, setVisitedNodes] = useState([]);
   const [generatePathClicked, setGeneratePathClicked] = useState(false);
-
-  const [startNodeId, setFromPlayer] = useState(null);
-  const [endNodeId, setToPlayer] = useState(null);
 
   const changeFromPlayer = (newFromPlayer) => {
     setFromPlayer(newFromPlayer);
@@ -23,12 +20,10 @@ const Menu = ({ children }) => {
     setToPlayer(newToPlayer);
   };
 
-
   const handleAlgoInitiated = (nodes) => {
     // Update the state or perform any action when BFS is initiated
     setVisitedNodes(nodes);
   };
-
 
   useEffect(() => {
     if (generatePathClicked) {
@@ -57,7 +52,6 @@ const Menu = ({ children }) => {
         height: '100vh'
       }}
     >
-      {children}
       <div
         style={{
           marginTop: "1px",

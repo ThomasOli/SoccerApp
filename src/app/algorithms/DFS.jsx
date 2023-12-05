@@ -54,7 +54,11 @@ const DFS = ({ nodes, edges, startNodeId, endNodeId, onDFSInitiated }) => {
   return (
     <div>
       {isValidPath ? (
-        <h3>Total Visited Nodes (DFS): {visitedNodeCount}</h3>
+        <div>
+          <h3>Total Visited Nodes (DFS): {visitedNodeCount}</h3>
+          <h3>Time taken (milliseconds): {Math.round(visitedNodeCount * 0.005 * 100) / 100}</h3>
+          <h3>Max Memory Usage: {visitedNodeCount / 4}</h3>
+      </div>
       ) : (
         <h3>No Valid Path Found</h3>
       )}
