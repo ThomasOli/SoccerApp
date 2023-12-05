@@ -9,10 +9,13 @@ import { Typography } from "@mui/material";
 import { edges, nodes } from "./dataNew";
 import DFS from "../app/algorithms/DFS"
 const Menu = ({ children }) => {
-  const startNodeId = 3788;
-  const endNodeId = 14555;
+
+  const startNodeId = 1095;
+  const endNodeId = 31173;
+
   const [visitedNodes, setVisitedNodes] = useState([]);
   const [generatePathClicked, setGeneratePathClicked] = useState(false);
+
 
   const handleAlgoInitiated = (nodes) => {
     // Update the state or perform any action when BFS is initiated

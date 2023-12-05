@@ -4,12 +4,14 @@ import { Typography, Box, TextField, Autocomplete } from '@mui/material';
 function SearchBar() { // Corrected the component name to start with a capital letter
   const [input, setInput] = useState('');
   const [list, setList] = useState([]);
+  const [fromPlayer, setFromPlayer] = useState("");
+  const [toPlayer, setToPlayer] = useState("");
 
   const handleInput = (e) => {
     setInput(e.target.value.toLowerCase());
   };
 
-  useEffect(() => {
+  useEffect(() => { 
     // Fetch or set your list data here
     // For example, you can set a static list for demonstration purposes
     setList([
@@ -42,11 +44,11 @@ function SearchBar() { // Corrected the component name to start with a capital l
         disablePortal
         id="combo-box-demo"
         options={list.map((item) => item.title)}
-        onChange={(event, newValue) => setInput(newValue.toLowerCase())}
+        onChange={(event, newValue) => setInput(newValue.toLowerCase(), setFromPlayer(newValue))}
         renderInput={(params) => (
           <TextField
             {...params}
-            label="Search Player"
+            label="Search From Player"
             sx={{
               width: 290,
               margin: '10px auto',
@@ -61,11 +63,11 @@ function SearchBar() { // Corrected the component name to start with a capital l
         disablePortal
         id="combo-box-demo"
         options={list.map((item) => item.title)}
-        onChange={(event, newValue) => setInput(newValue.toLowerCase())}
+        onChange={(event, newValue) => setInput(newValue.toLowerCase(), setToPlayer(newValue))}
         renderInput={(params) => (
           <TextField
             {...params}
-            label="Search Player"
+            label="Search To Player"
             sx={{
               width: 290,
               margin: '10px auto',
