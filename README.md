@@ -5,15 +5,14 @@ Being a football fan can be challenging, especially when searching for informati
 ## Motivation
 Football fans often follow multiple leagues and have favorite players across various clubs. The motivation behind this project is to facilitate the exploration of connections between players through shared teams or matches played against each other.
 
+## Features Implemented
+Our website enables users to compare any two football players directly. The comparison mechanism involves traversing a graph to determine if one player has beaten the other in any common games. If not, the algorithm checks for indirect connections through players who have defeated one another. The result includes the number of nodes traversed, time taken, and maximum memory usage during the pathfinding process.
+
 ![image (2)](https://github.com/ThomasOli/SoccerApp/assets/51518411/01e74046-7a34-48a7-8c53-41dd9e11b88c)
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 ![image](https://github.com/ThomasOli/SoccerApp/assets/51518411/2cfaa8d8-9947-4283-9a89-b07d3dee0499)
 ![image (1)](https://github.com/ThomasOli/SoccerApp/assets/51518411/bdb35d26-4431-4330-8c75-ba859c020ebf)
-
-
-## Features Implemented
-Our website enables users to compare any two football players directly. The comparison mechanism involves traversing a graph to determine if one player has beaten the other in any common games. If not, the algorithm checks for indirect connections through players who have defeated one another. The result includes the number of nodes traversed, time taken, and maximum memory usage during the pathfinding process.
 
 ## Description of Data
 The dataset utilized encompasses information about soccer clubs worldwide, games played in the last 10 years, and details about players active during the same period. It also includes comprehensive information about player appearances in all games over the specified timeframe.
