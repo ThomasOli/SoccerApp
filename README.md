@@ -1,19 +1,16 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-![image (2)](https://github.com/ThomasOli/SoccerApp/assets/51518411/01e74046-7a34-48a7-8c53-41dd9e11b88c)
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-![image](https://github.com/ThomasOli/SoccerApp/assets/51518411/2cfaa8d8-9947-4283-9a89-b07d3dee0499)
-![image (1)](https://github.com/ThomasOli/SoccerApp/assets/51518411/bdb35d26-4431-4330-8c75-ba859c020ebf)
 # Football Player Comparison
 ## Problem
 Being a football fan can be challenging, especially when searching for information about favorite teams and players scattered across the vastness of the internet. Comparing players from different leagues is a common desire, but the process can be cumbersome and lack directness.
 
 ## Motivation
 Football fans often follow multiple leagues and have favorite players across various clubs. The motivation behind this project is to facilitate the exploration of connections between players through shared teams or matches played against each other.
+
+![image (2)](https://github.com/ThomasOli/SoccerApp/assets/51518411/01e74046-7a34-48a7-8c53-41dd9e11b88c)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/ThomasOli/SoccerApp/assets/51518411/2cfaa8d8-9947-4283-9a89-b07d3dee0499)
+![image (1)](https://github.com/ThomasOli/SoccerApp/assets/51518411/bdb35d26-4431-4330-8c75-ba859c020ebf)
+
 
 ## Features Implemented
 Our website enables users to compare any two football players directly. The comparison mechanism involves traversing a graph to determine if one player has beaten the other in any common games. If not, the algorithm checks for indirect connections through players who have defeated one another. The result includes the number of nodes traversed, time taken, and maximum memory usage during the pathfinding process.
@@ -23,7 +20,7 @@ The dataset utilized encompasses information about soccer clubs worldwide, games
 
 ## Tools/Languages/APIs/Libraries Used
 C++: Used for processing CSV files, organizing data into classes, and implementing backend functionalities.
-Javascript and React: Employed to build the frontend website and visualize the comparison results.
+Javascript and React, Vite, React-graph-vis: Employed to build the frontend website and visualize the comparison results.
 Algorithms Implemented
 Breadth-First Search (BFS) and Depth-First Search (DFS): Utilized on an adjacency list to determine the better player between two individuals.
 Additional Data Structures/Algorithms Used
