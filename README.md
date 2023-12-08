@@ -8,10 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 ![image](https://github.com/ThomasOli/SoccerApp/assets/51518411/2cfaa8d8-9947-4283-9a89-b07d3dee0499)
 ![image (1)](https://github.com/ThomasOli/SoccerApp/assets/51518411/bdb35d26-4431-4330-8c75-ba859c020ebf)
-
-![IMG_3312](https://github.com/ThomasOli/SoccerApp/assets/51518411/5377e8a1-ec2c-4b8c-ad3a-ca7acc36ac5e)
-![IMG_3313](https://github.com/ThomasOli/SoccerApp/assets/51518411/8e78a41f-5dcd-495a-bb06-26efe1a8e3a9)
-
 # Football Player Comparison
 ## Problem
 Being a football fan can be challenging, especially when searching for information about favorite teams and players scattered across the vastness of the internet. Comparing players from different leagues is a common desire, but the process can be cumbersome and lack directness.
@@ -47,3 +43,7 @@ We scaled back on initially planned algorithms, opting out of Dijkstra's algorit
 Data Processing Functions (e.g., read_CSV): O(m) time, where m is the number of lines in the CSV file.
 BFS and DFS: O(V + E), where V and E are the numbers of vertices and edges, respectively, in the graph.
 Our project streamlines football player comparisons, offering fans a user-friendly way to explore the connections between their favorite players across different leagues.
+
+![IMG_3312](https://github.com/ThomasOli/SoccerApp/assets/51518411/5377e8a1-ec2c-4b8c-ad3a-ca7acc36ac5e)
+![IMG_3313](https://github.com/ThomasOli/SoccerApp/assets/51518411/8e78a41f-5dcd-495a-bb06-26efe1a8e3a9)
+
